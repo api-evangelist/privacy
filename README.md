@@ -1,4 +1,4 @@
-privacy
+Privacy
 =======
 
-This is my research area for api privacy
+This is my research area for privacy.
