@@ -58,7 +58,7 @@ navigation:
     label2: RSS
     link2: /blog.xml
     size2: 60
-    padding: 5
+    padding: 10
     decorate: 0
   - label1: Building Blocks
     link1: /building-blocks.html
@@ -76,7 +76,7 @@ navigation:
     label2:
     link2:
     size2: 10
-    padding: 12
+    padding: 20
     decorate: 1
 
 # Footer Navigation
@@ -98,5 +98,5 @@ footernavigation:
 
 # sponsors
 sponsors_margin_top: 15
-sponsors_padding_top: 3
+sponsors_padding_top: 10
 sponsors_json_url: https://s3.amazonaws.com/kinlane-productions/json/sponsors.json
