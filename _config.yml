@@ -18,10 +18,6 @@ exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 paginate: 100
 paginate_path: "/news/page:num"
 
-production_url : http://privacy.apievangelist.com
-
-BASE_PATH : http://privacy.apievangelist.com
-
 categories_path : /categories.html
 tags_path : /tags.html
 
