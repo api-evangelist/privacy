@@ -1,11 +1,6 @@
 [
 	{
-		"category_name": "Things That Impact Privacy",
-		"building_blocks": [
-		]
-	},
-	{
-		"category_name": "Usage",
+		"category_name": "Usage of Service",
 		"building_blocks": [
 			{
 				"building_block_id": "Xehyxy1wOWnM0cYiSqTQgQ3eN7IXtdMzqWuhqkCSpxs117",
@@ -13,7 +8,7 @@
 				"name": "Permitted and Prohibited Uses",
 				"about": "What are the permitted uses of data and content made available via the APIs, and what are some of the common prohibited uses that impact the ",
 				"category_id": "296",
-				"category": "Usage",
+				"category": "Usage of Service",
 				"category_about": null,
 				"category_image": null,
 				"category_hex": null,
@@ -111,7 +106,7 @@
 		]
 	},
 	{
-		"category_name": "Legal",
+		"category_name": "Legal Department",
 		"building_blocks": [
 			{
 				"building_block_id": "2fwow0coFsmaqy9nuYJw80I7D9UapiP6123Co3uZ31RRA117",
@@ -119,7 +114,7 @@
 				"name": "License",
 				"about": "What licensing considerations are there that could potentially impact the privacy of platform owners, consumers, and end-users.",
 				"category_id": "297",
-				"category": "Legal",
+				"category": "Legal Department",
 				"category_about": null,
 				"category_image": null,
 				"category_hex": null,
@@ -143,7 +138,7 @@
 				"name": "Intellectual Property Rights",
 				"about": "Where does intellectual property rights come into play, that could potentially impact the privacy of platform owners, consumers, and end-users.",
 				"category_id": "297",
-				"category": "Legal",
+				"category": "Legal Department",
 				"category_about": null,
 				"category_image": null,
 				"category_hex": null,
@@ -167,7 +162,7 @@
 				"name": "Liability",
 				"about": "What is the liability assumed by the platform, or possibly consumers, and end-users when it comes to platform operations, in the area of privacy.",
 				"category_id": "297",
-				"category": "Legal",
+				"category": "Legal Department",
 				"category_about": null,
 				"category_image": null,
 				"category_hex": null,
@@ -191,7 +186,7 @@
 				"name": "Warranty Disclaimer",
 				"about": "A disclaimer is a defensive measure, used generally with the purpose of protection from unwanted claims or liability. A platform may disclaim responsibility for loss or damage to a customers Personal Property, or a disclaimer clause in a contract might set forth certain promises and deny all other promises or responsibilities.",
 				"category_id": "297",
-				"category": "Legal",
+				"category": "Legal Department",
 				"category_about": null,
 				"category_image": null,
 				"category_hex": null,
@@ -212,7 +207,7 @@
 		]
 	},
 	{
-		"category_name": "Technical",
+		"category_name": "Technical Details",
 		"building_blocks": [
 			{
 				"building_block_id": "Gm3zNHHA116uuJfYuCP9aTsdAdshUnhjlxXjcYBXJUSOc117",
@@ -220,7 +215,7 @@
 				"name": "Technical Requirements and Limitations",
 				"about": "What are the technical requirements and limitations that impact the privacy of platform owners, consumers, and end-users. ",
 				"category_id": "298",
-				"category": "Technical",
+				"category": "Technical Details",
 				"category_about": null,
 				"category_image": null,
 				"category_hex": null,
@@ -241,7 +236,7 @@
 		]
 	},
 	{
-		"category_name": "Linking",
+		"category_name": "Site Linkage",
 		"building_blocks": [
 			{
 				"building_block_id": "Y5NVyNDzBC123BIelUFBlwyK76c123rMG1160oYyV22CxBVdw117",
@@ -249,7 +244,7 @@
 				"name": "Links to Other Materials",
 				"about": "What are the privacy considerations when external sites and materials are linked to.",
 				"category_id": "299",
-				"category": "Linking",
+				"category": "Site Linkage",
 				"category_about": null,
 				"category_image": null,
 				"category_hex": null,
@@ -270,7 +265,7 @@
 		]
 	},
 	{
-		"category_name": "Updates",
+		"category_name": "Platform Changes",
 		"building_blocks": [
 			{
 				"building_block_id": "Uk0zYOFJTMCyGYPvtTRCQse2ykQP116HlRNfYpm76gNDI117",
@@ -278,7 +273,7 @@
 				"name": "Termination",
 				"about": "What privacy considerations are taken when accounts are terminated. Can users, and API consumers terminate their relationship and assume that privacy is respected.",
 				"category_id": "300",
-				"category": "Updates",
+				"category": "Platform Changes",
 				"category_about": null,
 				"category_image": null,
 				"category_hex": null,
@@ -302,7 +297,7 @@
 				"name": "Changes",
 				"about": "How may changes to the platform, APIs, and how data is collected and stored that may impact privacy.",
 				"category_id": "300",
-				"category": "Updates",
+				"category": "Platform Changes",
 				"category_about": null,
 				"category_image": null,
 				"category_hex": null,
