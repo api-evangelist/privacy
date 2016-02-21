@@ -7,11 +7,19 @@
 		"website": "https://www.privacyrights.org/",
 		"twitter": "https://twitter.com/privacytoday",
 		"github": "",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "",
+		"base_url": "",
 		"blog": "",
 		"blogrss": "http://www.privacyrights.org/rss.xml",
 		"logo": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/privacy-rights-clearinghouse-logo.jpg",
 		"logo_width": "150",
 		"screenshot": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/privacy-rights-clearinghouse-logo.jpg",
-		"tags": null
+		"tags": [
+			"Privacy",
+			"Paynents"
+		]
 	}
 ]
