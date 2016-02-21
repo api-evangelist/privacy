@@ -1,145 +1,325 @@
 [
 	{
-		"building_block_id": "NULEJ4B4lXIUFmUojlDe18ulwO3Xs38Rftdl8QJlt2Y0xGwIsbxzXi7Hv123ePNn7Pe5116YsUtxzATPYDTlTRw9PA117117",
-		"building_block_category_id": "u6McJIBlbsKDumb8dCSfBrnptz4VyqcZ8KSmRFTcBOFzFV8MqlxandoebDggGwIDhNzCqRQJR7kQBEQPzeRqGA117117",
-		"name": "License",
-		"about": "What licensing considerations are there that could potentially impact the privacy of platform owners, consumers, and end-users.",
-		"category_id": "253",
-		"category": "Things That Impact Privacy",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "1"
+		"category_name": "Things That Impact Privacy",
+		"building_blocks": [
+		]
 	},
 	{
-		"building_block_id": "Xmef87O123uxVGBnN9uZM5g8JvR9eqo116kUMnbUlpCOx4jcgWVwtZCiVcI123n5yRm45h5wmYi8Eg116uXXNOha0TvgCg117117",
-		"building_block_category_id": "u6McJIBlbsKDumb8dCSfBrnptz4VyqcZ8KSmRFTcBOFzFV8MqlxandoebDggGwIDhNzCqRQJR7kQBEQPzeRqGA117117",
-		"name": "Intellectual Property Rights",
-		"about": "Where does intellectual property rights come into play, that could potentially impact the privacy of platform owners, consumers, and end-users.",
-		"category_id": "253",
-		"category": "Things That Impact Privacy",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "2"
+		"category_name": "Usage",
+		"building_blocks": [
+			{
+				"building_block_id": "Xehyxy1wOWnM0cYiSqTQgQ3eN7IXtdMzqWuhqkCSpxs117",
+				"building_block_category_id": "K123NnF116auLP123DOaYkpqVMlpM7oq4edu8XxRp2DC4J7ac117",
+				"name": "Permitted and Prohibited Uses",
+				"about": "What are the permitted uses of data and content made available via the APIs, and what are some of the common prohibited uses that impact the ",
+				"category_id": "296",
+				"category": "Usage",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "1",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			}
+		]
 	},
 	{
-		"building_block_id": "stC9Sn0k3KJaFKd5nWsQTidl9EKiwZTdnKiL03AeHDWNHjYdTeaxwcL0IJ0KqrY6B82WLq123qBxVYyr3j116Rh5123A117117",
-		"building_block_category_id": "u6McJIBlbsKDumb8dCSfBrnptz4VyqcZ8KSmRFTcBOFzFV8MqlxandoebDggGwIDhNzCqRQJR7kQBEQPzeRqGA117117",
-		"name": "Permitted and Prohibited Uses",
-		"about": "What are the permitted uses of data and content made available via the APIs, and what are some of the common prohibited uses that impact the ",
-		"category_id": "253",
-		"category": "Things That Impact Privacy",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "3"
+		"category_name": "Data & Information",
+		"building_blocks": [
+			{
+				"building_block_id": "bvP1LTAfYUTw9HIDXyiGQFglWZ1160toKRruQBDoNdbIk117",
+				"building_block_category_id": "4KNFihTilcXKTTrtdYBqJiX8gSWejgcxqcLvbc02qT0117",
+				"name": "Use of Personally Identifiable Information",
+				"about": "Linking to the same area in terms of service, how is privacy considered when personally identifiable information is put to use. Lay out what is considered in this area.",
+				"category_id": "295",
+				"category": "Data & Information",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "1",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "5LwHhBsiZJVHjAMrZi6116wbfvoXWUfgXnzeQzTNE3WJE117",
+				"building_block_category_id": "4KNFihTilcXKTTrtdYBqJiX8gSWejgcxqcLvbc02qT0117",
+				"name": "User Submissions",
+				"about": "What is the general view of user submissions, and user generated content and data. Is it core to platform operations, and what is the general tone of users and API consumers access and ownership of this exhaust.",
+				"category_id": "295",
+				"category": "Data & Information",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "2",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "LMYkIK1qG123pPQVgOgVZ6n9laZsbMPbgJsERPV7JaFNE117",
+				"building_block_category_id": "4KNFihTilcXKTTrtdYBqJiX8gSWejgcxqcLvbc02qT0117",
+				"name": "User Discussion Lists and Forums",
+				"about": "What privacy considerations have been made around discussion lists and forums operated by the platform? What data is stored? How is the privacy of users addressed?",
+				"category_id": "295",
+				"category": "Data & Information",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "3",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			}
+		]
 	},
 	{
-		"building_block_id": "9bq2VhHu2xvuF123iuWwjEMmRVkFWY4C123z8Z8LOZP4H123123S123Wz123OQTDKGsfFvaCetHIg66o3zrQ0g8y9FgucHWsWQ117117",
-		"building_block_category_id": "u6McJIBlbsKDumb8dCSfBrnptz4VyqcZ8KSmRFTcBOFzFV8MqlxandoebDggGwIDhNzCqRQJR7kQBEQPzeRqGA117117",
-		"name": "Use of Personally Identifiable Information",
-		"about": "Linking to the same area in terms of service, how is privacy considered when personally identifiable information is put to use. Lay out what is considered in this area.",
-		"category_id": "253",
-		"category": "Things That Impact Privacy",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "4"
+		"category_name": "Legal",
+		"building_blocks": [
+			{
+				"building_block_id": "2fwow0coFsmaqy9nuYJw80I7D9UapiP6123Co3uZ31RRA117",
+				"building_block_category_id": "DsKawg3D5O7CWmssOxQePA6S2AauGJTzO116U87SlEpAM117",
+				"name": "License",
+				"about": "What licensing considerations are there that could potentially impact the privacy of platform owners, consumers, and end-users.",
+				"category_id": "297",
+				"category": "Legal",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "1",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "vUfIUm6i9vpJeorx9jfHpXXDg20O1qDz5SALtFn8824117",
+				"building_block_category_id": "DsKawg3D5O7CWmssOxQePA6S2AauGJTzO116U87SlEpAM117",
+				"name": "Intellectual Property Rights",
+				"about": "Where does intellectual property rights come into play, that could potentially impact the privacy of platform owners, consumers, and end-users.",
+				"category_id": "297",
+				"category": "Legal",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "2",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "t7GBzH54yep7jc54ecK116gDs1cD9FAuWe6imskBef11628117",
+				"building_block_category_id": "DsKawg3D5O7CWmssOxQePA6S2AauGJTzO116U87SlEpAM117",
+				"name": "Liability",
+				"about": "What is the liability assumed by the platform, or possibly consumers, and end-users when it comes to platform operations, in the area of privacy.",
+				"category_id": "297",
+				"category": "Legal",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "3",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "NxBj58sOq47kWiB9qBGc22vnFPodKvNp9swrelEN2r0117",
+				"building_block_category_id": "DsKawg3D5O7CWmssOxQePA6S2AauGJTzO116U87SlEpAM117",
+				"name": "Warranty Disclaimer",
+				"about": "A disclaimer is a defensive measure, used generally with the purpose of protection from unwanted claims or liability. A platform may disclaim responsibility for loss or damage to a customers Personal Property, or a disclaimer clause in a contract might set forth certain promises and deny all other promises or responsibilities.",
+				"category_id": "297",
+				"category": "Legal",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "4",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			}
+		]
 	},
 	{
-		"building_block_id": "AiOfTrxgCZOLK785ic2PEc4iZoz5urTO58IhBLIdCCQ123CDTOnvAitQiUHpJ5bbqjmk123UBekxEb8XqTqGKMPAZw117117",
-		"building_block_category_id": "u6McJIBlbsKDumb8dCSfBrnptz4VyqcZ8KSmRFTcBOFzFV8MqlxandoebDggGwIDhNzCqRQJR7kQBEQPzeRqGA117117",
-		"name": "User Submissions",
-		"about": "What is the general view of user submissions, and user generated content and data. Is it core to platform operations, and what is the general tone of users and API consumers access and ownership of this exhaust.",
-		"category_id": "253",
-		"category": "Things That Impact Privacy",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "5"
+		"category_name": "Technical",
+		"building_blocks": [
+			{
+				"building_block_id": "Gm3zNHHA116uuJfYuCP9aTsdAdshUnhjlxXjcYBXJUSOc117",
+				"building_block_category_id": "9hlwJ22cMF123u6zc8MdRLm2w8PHx9NNiZ7ELqZF5GNYM117",
+				"name": "Technical Requirements and Limitations",
+				"about": "What are the technical requirements and limitations that impact the privacy of platform owners, consumers, and end-users. ",
+				"category_id": "298",
+				"category": "Technical",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "1",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			}
+		]
 	},
 	{
-		"building_block_id": "123zz9CQUk3hC1X2oFUp5r116LrIDS8VYXsftR36dJ5VlyWB24aZY58tV7rGX8ZUDz8tvnB8Kgom116FgUf2uNnsiRSg117117",
-		"building_block_category_id": "u6McJIBlbsKDumb8dCSfBrnptz4VyqcZ8KSmRFTcBOFzFV8MqlxandoebDggGwIDhNzCqRQJR7kQBEQPzeRqGA117117",
-		"name": "Technical Requirements and Limitations",
-		"about": "What are the technical requirements and limitations that impact the privacy of platform owners, consumers, and end-users. ",
-		"category_id": "253",
-		"category": "Things That Impact Privacy",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "6"
+		"category_name": "Linking",
+		"building_blocks": [
+			{
+				"building_block_id": "Y5NVyNDzBC123BIelUFBlwyK76c123rMG1160oYyV22CxBVdw117",
+				"building_block_category_id": "LigcIa6rAbBZG8ZGgm5CqenQc9SdBqruI0m6YvSrtiI117",
+				"name": "Links to Other Materials",
+				"about": "What are the privacy considerations when external sites and materials are linked to.",
+				"category_id": "299",
+				"category": "Linking",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "1",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			}
+		]
 	},
 	{
-		"building_block_id": "XIsJn7zpqSZZNgpn0qC3mM9M3Z3bdflwoWUk1leCVhHOPpKlvJGa6Gik8SCDLrd6116KgyUlhE2gDsbGGHi116KhMQ117117",
-		"building_block_category_id": "u6McJIBlbsKDumb8dCSfBrnptz4VyqcZ8KSmRFTcBOFzFV8MqlxandoebDggGwIDhNzCqRQJR7kQBEQPzeRqGA117117",
-		"name": "User Discussion Lists and Forums",
-		"about": "What privacy considerations have been made around discussion lists and forums operated by the platform? What data is stored? How is the privacy of users addressed?",
-		"category_id": "253",
-		"category": "Things That Impact Privacy",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "7"
-	},
-	{
-		"building_block_id": "bAUZqgYc3TK8WuWmAVfjwCqxAfhxrHgkRYBwCEipP3TkuggifhguVaer8TtahfmvdDPgKLpCg5FuhC6jDCPXWw117117",
-		"building_block_category_id": "u6McJIBlbsKDumb8dCSfBrnptz4VyqcZ8KSmRFTcBOFzFV8MqlxandoebDggGwIDhNzCqRQJR7kQBEQPzeRqGA117117",
-		"name": "Liability",
-		"about": "What is the liability assumed by the platform, or possibly consumers, and end-users when it comes to platform operations, in the area of privacy.",
-		"category_id": "253",
-		"category": "Things That Impact Privacy",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "8"
-	},
-	{
-		"building_block_id": "s1TPZnTs6W1232GBsoaLCjjf123KVJpK116ouqBPJWFCDWw0rCgSeaeWgmJRKNYBE4QFOxjRsIdTugWSXKr116qeKHfcmA117117",
-		"building_block_category_id": "u6McJIBlbsKDumb8dCSfBrnptz4VyqcZ8KSmRFTcBOFzFV8MqlxandoebDggGwIDhNzCqRQJR7kQBEQPzeRqGA117117",
-		"name": "Termination",
-		"about": "What privacy considerations are taken when accounts are terminated. Can users, and API consumers terminate their relationship and assume that privacy is respected.",
-		"category_id": "253",
-		"category": "Things That Impact Privacy",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "9"
-	},
-	{
-		"building_block_id": "cCdNQAcyODssamAReePbqRHA3vO45UeNQniv1kS2BCNsqOr5tkwGjCGuXO116IuHr1e8pyjPKMysdaYRB7SjGT0w117117",
-		"building_block_category_id": "u6McJIBlbsKDumb8dCSfBrnptz4VyqcZ8KSmRFTcBOFzFV8MqlxandoebDggGwIDhNzCqRQJR7kQBEQPzeRqGA117117",
-		"name": "Changes",
-		"about": "How may changes to the platform, APIs, and how data is collected and stored that may impact privacy.",
-		"category_id": "253",
-		"category": "Things That Impact Privacy",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "10"
-	},
-	{
-		"building_block_id": "3zi4rVAWt01yEolj3123WGCmKPzRIU9innrAbBKxeZBJLz8tPx9g0q7XcpIBLD2MzhG6u8yhzcl14r4WP2jBOUJw117117",
-		"building_block_category_id": "u6McJIBlbsKDumb8dCSfBrnptz4VyqcZ8KSmRFTcBOFzFV8MqlxandoebDggGwIDhNzCqRQJR7kQBEQPzeRqGA117117",
-		"name": "Links to Other Materials",
-		"about": "What are the privacy considerations when external sites and materials are linked to.",
-		"category_id": "253",
-		"category": "Things That Impact Privacy",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "11"
-	},
-	{
-		"building_block_id": "cjz6YrTK6IT0FO116tm19u116MRPwQA26NI8yoYpdIkDvF7xCFSPuqyVpT836DfSyLy67Y3omSXRwEKyQCCt0QW3kA117117",
-		"building_block_category_id": "u6McJIBlbsKDumb8dCSfBrnptz4VyqcZ8KSmRFTcBOFzFV8MqlxandoebDggGwIDhNzCqRQJR7kQBEQPzeRqGA117117",
-		"name": "Warranty Disclaimer",
-		"about": "A disclaimer is a defensive measure, used generally with the purpose of protection from unwanted claims or liability. A platform may disclaim responsibility for loss or damage to a customer's Personal Property, or a disclaimer clause in a contract might set forth certain promises and deny all other promises or responsibilities.",
-		"category_id": "253",
-		"category": "Things That Impact Privacy",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "12"
-	},
-	{
-		"building_block_id": "991KnF7Z3jfDK5zdjS62xwvRpJOhlVDK3hUNSo4l2XtPPI0sLvJgRP6zAdPaemdMb10KYm2Z88sfGzHv5UZpiQ117117",
-		"building_block_category_id": "u6McJIBlbsKDumb8dCSfBrnptz4VyqcZ8KSmRFTcBOFzFV8MqlxandoebDggGwIDhNzCqRQJR7kQBEQPzeRqGA117117",
-		"name": "Miscellaneous",
-		"about": "What are any other privacy concerns that may impact API consumers, and end-users.",
-		"category_id": "253",
-		"category": "Things That Impact Privacy",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "13"
+		"category_name": "Updates",
+		"building_blocks": [
+			{
+				"building_block_id": "Uk0zYOFJTMCyGYPvtTRCQse2ykQP116HlRNfYpm76gNDI117",
+				"building_block_category_id": "OX5EOtWWfjQt7jORkQrp0YlNeRos8DmVtmbUpPMBUfQ117",
+				"name": "Termination",
+				"about": "What privacy considerations are taken when accounts are terminated. Can users, and API consumers terminate their relationship and assume that privacy is respected.",
+				"category_id": "300",
+				"category": "Updates",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "1",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "lIBdvHx3umSHo123oUide17rwL1Sz16UJKDSVDO4aVLWA117",
+				"building_block_category_id": "OX5EOtWWfjQt7jORkQrp0YlNeRos8DmVtmbUpPMBUfQ117",
+				"name": "Changes",
+				"about": "How may changes to the platform, APIs, and how data is collected and stored that may impact privacy.",
+				"category_id": "300",
+				"category": "Updates",
+				"category_about": null,
+				"category_image": null,
+				"category_hex": null,
+				"image": "",
+				"image_width": "100",
+				"sort_order": "2",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			}
+		]
 	}
 ]
