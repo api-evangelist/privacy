@@ -1,5 +1,61 @@
 [
 	{
+		"curated_id": "n123OemYpjX7ZunsXHtQFYwcJNvSM1La0IR5LI4vw2UCb0Hva6b45paoX3p116CdAYOa841sXm4tUaFRVpLwEUmDtw117117",
+		"item_date": "2016-10-07 00:00:00",
+		"title": "Big Cable Isnt Happy About the FCCs Plan to Protect Consumer Privacy",
+		"url": "http://motherboard.vice.com/read/big-cable-isnt-happy-about-the-fccs-plan-to-protect-consumer-privacy",
+		"domain": "motherboard.vice.com",
+		"image": ""
+	},
+	{
+		"curated_id": "nAWfBOJPkNvWjbaVb9vc9bSjx116AG6DXgJR8JZ9tqUtxnwpWFgKR0T4MIGLJSVyMlxONj9yqOQ3yJC5IIg9kGFQ117117",
+		"item_date": "2016-10-06 00:00:00",
+		"title": "FCC to vote this month on privacy rules for internet providers",
+		"url": "http://thehill.com/policy/technology/299645-fcc-to-vote-this-month-on-privacy-rules-for-internet-providersn",
+		"domain": "thehill.com",
+		"image": ""
+	},
+	{
+		"curated_id": "LPA7narr3V3q94zgahf0jNfwakBMm3m123bcHwkWvl5g3Vi4y2ZI0dcjgSkG4jmOkstY1239EFgcBDEURl90A7LGkQ117117",
+		"item_date": "2016-10-06 00:00:00",
+		"title": "Travelers Keep your data secure by using a virtual private network",
+		"url": "http://www.macworld.com/article/3128206/security/travelers-keep-your-data-secure-by-using-a-virtual-private-network.html#tk.rss_all",
+		"domain": "www.macworld.com",
+		"image": ""
+	},
+	{
+		"curated_id": "sJE9A123wKn1L70GSvAXrz86FNB5dabulS0Huts9HucYVb116yKyPUft2zt116JjFqbxrqDJHfD9VDMeNBi4116kZl123gGg117117",
+		"item_date": "2016-10-06 00:00:00",
+		"title": "FCC Moves to Let You Control How ISPs Use Your Data",
+		"url": "http://www.pcmag.com/news/348516/fcc-moves-to-let-you-control-how-isps-use-your-data",
+		"domain": "www.pcmag.com",
+		"image": ""
+	},
+	{
+		"curated_id": "ZVR9eqWGX6vn123PC2qCs9VmvNJ3x123IuFxBZ0YmK8WDP116Xz6g1uYLc116Lq123dqSgPCB0EXkQQhuCVGEu6HkpDKVLmw117117",
+		"item_date": "2016-10-06 00:00:00",
+		"title": "FCC to vote on strict privacy rules for ISPs in late October",
+		"url": "http://www.pcworld.com/article/3128810/fcc-to-vote-on-strict-privacy-rules-for-isps-in-late-october.html#tk.rss_all",
+		"domain": "www.pcworld.com",
+		"image": ""
+	},
+	{
+		"curated_id": "0hpAsN6qrkg3U1oU5DQSliWz7MuUYhI4ei123Q3V33123zoggbC9116qvkukc1sBdPmIEUUdHjx3ufzaelKjsE6AFhcg117117",
+		"item_date": "2016-10-06 00:00:00",
+		"title": "Announcing Auth0s Certification in the EUUS Privacy Shield Framework",
+		"url": "https://auth0.com/blog/announcing-auth0-eu-us-privacy-shield-certification/",
+		"domain": "auth0.com",
+		"image": ""
+	},
+	{
+		"curated_id": "uQ116RlUtVuOaMbWppiZvp116pN6SZbPIZGDmhm123LymHSCIPFrhYMVe2SiMPnl1238g7Y4bTc0kO29xzTSos1UMgER116w117117",
+		"item_date": "2016-10-06 00:00:00",
+		"title": "Google Changes Its Tune When it Comes to Tracking Students",
+		"url": "https://www.eff.org/deeplinks/2016/10/google-changes-its-tune-when-it-comes-tracking-students",
+		"domain": "www.eff.org",
+		"image": ""
+	},
+	{
 		"curated_id": "AZuCgVks65TJDOjqymJ8q123MOtc1230S6116116w21jkCwvGsH7lE116iLUtJTHGFfEDxnlrgVF3m8xyfcY6HLodfBSvIVg117117",
 		"item_date": "2016-10-05 00:00:00",
 		"title": "The Human Rights Principles for Connectivity and Development",
@@ -13,6 +69,14 @@
 		"title": "Privacy Shields Drama Is Far From Over",
 		"url": "http://www.darkreading.com/vulnerabilities---threats/privacy-shields-drama-is-far-from-over/a/d-id/1327084",
 		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "EN5NydD3V0GCnwtTFKff2Rq09UmULYr116123lJOX3123ZS123SmpD2aidDU1pVKIq3BeguD123123NEGRFveo1165K116gIkNPYsg117117",
+		"item_date": "2016-10-03 00:00:00",
+		"title": "Janrain is now certified for Privacy Shield",
+		"url": "http://www.janrain.com/blog/janrain-is-now-certified-for-privacy-shield/",
+		"domain": "www.janrain.com",
 		"image": ""
 	},
 	{
