@@ -1,10 +1,146 @@
 [
 	{
+		"curated_id": "K1J0DSavrzA116CCp3a1zp19N3xtmPCGZQs7E1j68vNAFi5NgoZalx123Ot3ZXJAPKqP8UaboDj7UzjlX7spfJEm0Q117117",
+		"item_date": "2017-02-12 00:00:00",
+		"title": "Cheating Frenchman sues Uber for tipping off wife about affair",
+		"url": "http://www.bbc.co.uk/news/world-europe-38948281",
+		"domain": "www.bbc.co.uk",
+		"image": ""
+	},
+	{
+		"curated_id": "wADsSN8GSfj7kV4hbvVVFtUkkgbqW116tIMHaXhx116yUOgczpAcOtCX9OfoCKd06uLph11163MSwSdRH4JU00WeB1oQ117117",
+		"item_date": "2017-02-06 00:00:00",
+		"title": "A bill requiring the government to obtain a warrant to search your email just flew through the House",
+		"url": "https://techcrunch.com/2017/02/06/email-privacy-act-passes-house-2017/",
+		"domain": "techcrunch.com",
+		"image": ""
+	},
+	{
+		"curated_id": "g9Fs116zZAm2747bdvpGCKTFR0TRYDVx9ikhyJ123u123aM123K17EPBm0lwPK5SphFX116zXbPz8siyRNinc5UDRUagsaPw117117",
+		"item_date": "2017-02-06 00:00:00",
+		"title": "Google calls on US Senate to pass bill requiring warrants for government email snooping",
+		"url": "http://www.siliconbeat.com/2017/02/06/google-issues-strong-statement-support-email-privacy-act-passed-house/",
+		"domain": "www.siliconbeat.com",
+		"image": ""
+	},
+	{
+		"curated_id": "kXBhrHXP7Xm32nIBz123116DEf7mSWR5wAQN4nqpeFv1164udi3Cly4jcWGoTBdjKXe3pj4kBp1Xw2adSnDB7ad2DQZw117117",
+		"item_date": "2017-02-06 00:00:00",
+		"title": "US House approves new privacy protections for email and the cloud",
+		"url": "http://www.pcworld.com/article/3166405/security/us-house-approves-new-privacy-protections-for-email-and-the-cloud.html#tk.rss_all",
+		"domain": "www.pcworld.com",
+		"image": ""
+	},
+	{
+		"curated_id": "PsQkCL7xdG5earBvWyVTLu8Xs116Dsog0Y4JzTagLhhlOzCdsMRLdq1167GFx73JR9zqghCubl17X123kgsmZMFW3jRw117117",
+		"item_date": "2017-02-07 00:00:00",
+		"title": "The Fight Over Email Privacy Moves to the Senate",
+		"url": "https://www.eff.org/deeplinks/2017/02/fight-over-email-privacy-moves-senate",
+		"domain": "www.eff.org",
+		"image": ""
+	},
+	{
 		"curated_id": "aE123SqJrcezjmjWE3116xexws39PTwwJ116aZIC64nBnPnz6EY8kyETUQKZ5WnavM80Sf3ihjlGres8b123iytK20op1g117117",
 		"item_date": "2017-02-11 00:00:00",
 		"title": "Privacy Today Edition",
 		"url": "https://www.lawfareblog.com/privacy-today-edition",
 		"domain": "www.lawfareblog.com",
+		"image": ""
+	},
+	{
+		"curated_id": "aR8uqpQh5itLe4F9hpk6116NCVVt1CnB60O7EiuNXFc1hWyB9VhD0csyJDR1uBHWN8m3kvxlDdb5y1dW7bQ2Hmpw117117",
+		"item_date": "2017-02-08 00:00:00",
+		"title": "The state of EUUS data transfer in a tweet",
+		"url": "https://www.accessnow.org/state-eu-u-s-data-transfer-tweet/",
+		"domain": "www.accessnow.org",
+		"image": ""
+	},
+	{
+		"curated_id": "gRwjoIQOXgabJdVy2lUhRx2kSsFCGqsUXTBmrd51236TQ4aqPEGeZjz123TpBOmcLgif5jC116noHPTsLQACxGroUDNA117117",
+		"item_date": "2017-02-08 00:00:00",
+		"title": "DoItYourself Online PrivacySafety Guide",
+		"url": "https://www.schneier.com/blog/archives/2017/02/do-it-yourself_.html",
+		"domain": "www.schneier.com",
+		"image": ""
+	},
+	{
+		"curated_id": "RutnkmNI781Nfw8Pfcvr9THimawUNiOXs4B20Xyl1mOvltx1vlT2Kz123BQuq2L45eIUv123m6fSM0zflkDeNuUZmg117117",
+		"item_date": "2017-02-08 00:00:00",
+		"title": "End the Privacy Shield Access Now urges the European Commission to suspend Privacy Shield due to changes in US policies",
+		"url": "https://www.accessnow.org/end-privacy-shield-access-now-urges-european-commission-suspend-privacy-shield-due-changes-us-policies/",
+		"domain": "www.accessnow.org",
+		"image": ""
+	},
+	{
+		"curated_id": "O1230toyaXrGpio87OI1yWYwYJo87RjJv4a2HcP1AuJWmzmE59dnF1169S1PN123er9UoWv8rU5GmzUUusMo4byKWR7Q117117",
+		"item_date": "2017-02-09 00:00:00",
+		"title": "Trumps Attorney Generals Record on Privacy",
+		"url": "https://www.eff.org/deeplinks/2017/02/trumps-attorney-generals-record-privacy",
+		"domain": "www.eff.org",
+		"image": ""
+	},
+	{
+		"curated_id": "1eJ2LoOqWVzLG3123MniRndLKEqjUSisMobgskVgtMyS858q1WkzrgwxBZCHF2lv123AlKmSbRMCQ5GDBg123uPn8wZw117117",
+		"item_date": "2017-02-08 00:00:00",
+		"title": "French man sues Uber for 45M after privacy bug leads wife to suspect adultery",
+		"url": "https://thenextweb.com/apps/2017/02/08/uber-man-suit-45m-adultery/",
+		"domain": "thenextweb.com",
+		"image": ""
+	},
+	{
+		"curated_id": "E116ZqPM8116kug7n4hW2hBCVYjFLph1165Zi7UquaBMnHyaryCaMwuLO116Kf5zBvR7Jc2bqAmwfS9cblkt2tHXo33Edw117117",
+		"item_date": "2017-02-08 00:00:00",
+		"title": "Beware Most Mobile VPNs Arent as Safe as They Seem",
+		"url": "https://www.wired.com/2017/02/beware-mobile-vpns-arent-safe-seem/",
+		"domain": "www.wired.com",
+		"image": ""
+	},
+	{
+		"curated_id": "qM116ptYxA123Q3dY4MNfiZXjxGVlR1KY3xFWEPmjHx11644oS7APB1kCV0o4ciH0HsQo123lCIFYzcsnVU2uEjBQBn4wA117117",
+		"item_date": "2017-02-08 00:00:00",
+		"title": "Privacy  Facebooks data transfer mechanism could pose new legal threat",
+		"url": "https://disruptiveviews.com/privacy-facebooks-data-transfer-mechanism-pose-new-legal-threat/",
+		"domain": "disruptiveviews.com",
+		"image": ""
+	},
+	{
+		"curated_id": "8NP6Q9NMe55TNhsl0ZeJfUGPVh8lncXrjiwdThkSJF123CMxhrPvMfCNLemVbFBO1vRKS116na84123udTl15syLsRbg117117",
+		"item_date": "2017-02-08 00:00:00",
+		"title": "Dutch Voter Guide Website Leak Highlights Privacy Concerns",
+		"url": "http://www.darkreading.com/attacks-breaches/dutch-voter-guide-website-leak-highlights-privacy-concerns/d/d-id/1328080",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "AhlzAKKLe2123weW61774Q3JVPq116yX26BvwLM1jbUEMxpsjXwAKY6SJ4zDyYryKMXEPCS5wg6HEYgQzjcDwxvsYQ117117",
+		"item_date": "2017-02-08 00:00:00",
+		"title": "Enterprise firewalls are maninthemiddling HTTPS sessions like crazy and weakening security",
+		"url": "http://boingboing.net/2017/02/08/enterprise-firewalls-are-man-i.html",
+		"domain": "boingboing.net",
+		"image": ""
+	},
+	{
+		"curated_id": "1NYjm51W123EbKA116x2km9Euba04ShSue123bwZH3A7vv4v7E8vdSALmztXTXButLDOwjqNlehyXwEfhoVRKalr8Kbg117117",
+		"item_date": "2017-02-06 00:00:00",
+		"title": "Passing the Email Privacy Act Has Never Been More Urgent",
+		"url": "https://www.wired.com/2017/02/trump-power-email-privacy-act-never-urgent/",
+		"domain": "www.wired.com",
+		"image": ""
+	},
+	{
+		"curated_id": "1mMD3pT116nC67TnwQ0aJxoatYI9m0OdNPqI6YnlBLTS5pkcczGtCtWqjUKxaKrratStfj6SqWoib0Ite3LLiEOA117117",
+		"item_date": "2017-02-06 00:00:00",
+		"title": "Comcast Verizon TMobile  ATT Issue Breathless Love Letter To Privacy With One Hand Lobby To Kill All Privacy Protections With The Other",
+		"url": "https://www.techdirt.com/articles/20170202/08082436612/comcast-verizon-t-mobile-att-issue-breathless-love-letter-to-privacy-with-one-hand-lobby-to-kill-all-privacy-protections-with.shtml",
+		"domain": "www.techdirt.com",
+		"image": ""
+	},
+	{
+		"curated_id": "3QAsBJpAxGbVQsxTxV7I6BEh9OZ5JDCPs116eSXN0K0yzD0xGmJRr6lc1166crBy7gknHtVSJgkB4WV8oS123U9ihSpg117117",
+		"item_date": "2017-02-06 00:00:00",
+		"title": "Learn How to Operationalize Privacy",
+		"url": "http://www.truste.com/blog/2017/02/06/operationalize-privacy/",
+		"domain": "www.truste.com",
 		"image": ""
 	},
 	{
