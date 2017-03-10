@@ -1,5 +1,29 @@
 [
 	{
+		"curated_id": "GXcWgElXeh3riZMN2S55yWAVuwGmPtc6nLXnoSgrUBAvaHG8VPzo9suyhyTddHmqgL9qAbKCXPWOOpfAy8voNQ117117",
+		"item_date": "2017-03-09 00:00:00",
+		"title": "Humanising the Internet of Things",
+		"url": "http://www.itsecurityguru.org/2017/03/09/humanising-internet-things/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
+		"curated_id": "JGxYuXOYukqox116L5QI1161svhqMz49Nky9zfATqBvvW7NKdKh0zInB5apJ1167eP123aFerLYnFHD6mHfk8z2SyGlg8Q117117",
+		"item_date": "2017-03-09 00:00:00",
+		"title": "CIA Documents Highlight Privacy Issues of the Internet of Things",
+		"url": "https://www.aclu.org/blog/free-future/cia-documents-highlight-privacy-issues-internet-things",
+		"domain": "www.aclu.org",
+		"image": ""
+	},
+	{
+		"curated_id": "Cp1J116I01TaHHeW90hhde9a0tElvTZyhGCUZ6re9tuY6oOKOKoa1g2LsnmD2WMvb4n2loiAD4rTtlwmn4za123gXA117117",
+		"item_date": "2017-03-08 00:00:00",
+		"title": "Court Tells Cops They Cant Use GPS Data Gathered After Suspect They Were Tracking Sold The Vehicle",
+		"url": "https://www.techdirt.com/articles/20170227/12074236800/court-tells-cops-they-cant-use-gps-data-gathered-after-suspect-they-were-tracking-sold-vehicle.shtml",
+		"domain": "www.techdirt.com",
+		"image": ""
+	},
+	{
 		"curated_id": "Ni6e89DvxauDxfrj8YmKsV6e29ufk4ZQouE123RfUW2HZqT0LFxGwQoZwpna1YipbRw0Fa3v4lV344Pi5WcRxaNw117117",
 		"item_date": "2017-03-01 12:35:37",
 		"title": "Tweet Obsessed with the security of customer data Ditto We039re really excited to introduce you to Message Body Redactiohellip httpstco2c0CC4lv4d",
@@ -19,7 +43,7 @@
 		"curated_id": "qVOOrfrr5svxMtyR5EB1DpuZQ3P123nGs116SKjLniX3PAZe8zx8dq116eL75rl5PiLOrTfryNBVLCAZGiFTU116WrvJGg117117",
 		"item_date": "2017-03-01 00:00:00",
 		"title": "FCC in Potential Sign of the Future Halts New Data Security Rules",
-		"url": "http://www.nytimes.com/2017/03/01/technology/fcc-data-security-rules.html?partner=rss&emc=rss",
+		"url": "https://www.nytimes.com/2017/03/01/technology/fcc-data-security-rules.html",
 		"domain": "www.nytimes.com",
 		"image": ""
 	},
