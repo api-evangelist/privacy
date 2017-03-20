@@ -1,5 +1,69 @@
 [
 	{
+		"curated_id": "nyEiFl8EdZm6AvLTRmCE5xI7Ty1163f9TJiusD5r3K2uBwqsx4yfttnk49X3Ns116JsbgTukXlVfr1saltj0kI5big117117",
+		"item_date": "2017-03-18 18:48:58",
+		"title": "Twitter",
+		"url": "https://twitter.com/i/web/status/843278089991917568",
+		"domain": "twitter.com",
+		"image": ""
+	},
+	{
+		"curated_id": "GCy2dAVMap5yz1168quSBLT116TpAidmqT4jIPspQMVqjIE8L16kCP9ua6QMXgre9rLH9HNzgskkKW03116LPYxdL8xA117117",
+		"item_date": "2017-03-18 18:48:58",
+		"title": "4 challenges Artificial Intelligence must address",
+		"url": "http://linkis.com/NnOA7",
+		"domain": "linkis.com",
+		"image": ""
+	},
+	{
+		"curated_id": "pR0iHD0beW0sHXvWaWnoo4Nb3TaM116JfcUAkBKvhJv116116jXXDdQiktxvfmRpPpmo0cS1233MEJtQ5GHG0aDlTU5b2A117117",
+		"item_date": "2017-03-14 00:00:00",
+		"title": "Balancing Privacy and Security in Germany",
+		"url": "https://www.lawfareblog.com/balancing-privacy-and-security-germany",
+		"domain": "www.lawfareblog.com",
+		"image": ""
+	},
+	{
+		"curated_id": "bmsaaSZtsbq5wrnJM4yER5aS82geyJEqHugaHi1bQ5pftBzFX5yxHjhHQoNKk1rdE7UItJm12362123NqKHEaPwh5Q117117",
+		"item_date": "2017-03-15 00:00:00",
+		"title": "New research finds UK consumers fear data theft through apps",
+		"url": "http://www.itsecurityguru.org/2017/03/15/new-research-finds-uk-consumers-fear-data-theft-apps/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
+		"curated_id": "G4vjooLUzILOB5mrnyoHerdmOxB116XzWwgosGmUn5m6HMRoGgAwJF50TGFsg123XT3dGZqQSUy0nODHnNvzFDdQ7Q117117",
+		"item_date": "2017-03-17 00:00:00",
+		"title": "Data Masking for User Privacy with nginScript",
+		"url": "https://www.nginx.com/blog/data-masking-user-privacy-nginscript/",
+		"domain": "www.nginx.com",
+		"image": ""
+	},
+	{
+		"curated_id": "bB116jF0V8TTe116g6lqQzHYlNtMa4mG1161oCRElMbZZHEmwhq0FrWh6WGzh0JusdZGCxvJcEvYNfqylN2OtAuNBibw117117",
+		"item_date": "2017-03-16 00:00:00",
+		"title": "Discover and redact sensitive data with the Data Loss Prevention API",
+		"url": "http://cloudplatform.googleblog.com/2017/03/discover-and-redact-sensitive-data-with-the-Data-Loss-Prevention-API.html",
+		"domain": "cloudplatform.googleblog.com",
+		"image": ""
+	},
+	{
+		"curated_id": "BzsSiBBka7Zd5123KvyzMla0nFefGDaV8igVObuKULVM0VAYiweOMhbS9NUPqeFJDQQ24GfeIHM2CSPruZ7WduDA117117",
+		"item_date": "2017-03-16 00:00:00",
+		"title": "Googles DeepMind made inexcusable errors handling UK health data says report",
+		"url": "http://www.theverge.com/2017/3/16/14932764/deepmind-google-uk-nhs-health-data-analysis",
+		"domain": "www.theverge.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Nmm31BW8qmshjiPQk8gS5nFCfzpV2f3clBBAPkBzkgN5f1167njZXze116lkzbSlec7TOw116UXeiJF59JdBIdMeRYgQ117117",
+		"item_date": "2017-03-13 00:00:00",
+		"title": "Keep your private life private please with this simple webcam cover",
+		"url": "http://boingboing.net/2017/03/13/keep-your-private-life-private.html",
+		"domain": "boingboing.net",
+		"image": ""
+	},
+	{
 		"curated_id": "dEi2ZCorTnhNCYUigUpJjqWJ3OEd6yX3RkDWdexmF7MjP6LeeF3uheL8niXsVyGzNe7WgdHakbaUSQdTMODkYw117117",
 		"item_date": "2017-03-07 00:00:00",
 		"title": "Access Now Internet users deserve privacy The US Senate shouldnt sell it away",
