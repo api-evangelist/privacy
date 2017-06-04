@@ -1,0 +1,58 @@
+- slug: panopticlickpython
+  name: panopticlick-python
+  description: A rewrite of panopticlick in python/flask
+  url: 'https://github.com/EFForg/panopticlick-python'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: Privacy
+- slug: privacybadgerchrome
+  name: privacybadgerchrome
+  description: Chrome version of Privacy Badger based on AdBlock Plus
+  url: 'https://github.com/EFForg/privacybadgerchrome'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Privacy,Browsers'
+- slug: open-data-manifesto
+  name: Open Data Manifesto
+  description: >-
+    Defining basic rights for people to control their own data in the internet
+    age
+  url: 'https://userdatamanifesto.org/2.0/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tool/open-data-manifesto.svg
+  tags: 'Data,Privacy'
+- slug: locationguard
+  name: location-guard
+  description: Hide your geographic location from websites.
+  url: 'https://github.com/chatziko/location-guard'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: Privacy
+- slug: privacybadgerfirefox
+  name: privacybadgerfirefox
+  description: Privacy Badger for Firefox
+  url: 'https://github.com/EFForg/privacybadgerfirefox'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: Privacy
