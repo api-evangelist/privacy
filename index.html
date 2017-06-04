@@ -1,6 +1,6 @@
 ---
 layout: default
-title: API Evangelist - Design
+title: API Evangelist - Privacy
 ---
 
 <!-- Main -->
@@ -40,36 +40,13 @@ title: API Evangelist - Design
 	</div>
 </section>
 
-<!-- Guide -->
-<a name="Guide"></a>
-<section id="banner">
-	<div class="content">
-		<header>
-			<h2>API Design Industry Guide</h2>
-		</header>
-
-		<p>In the last couple of years, I've seen the concept of API design go from being something the API elite discuss, to something that involves business users, and something that has spawned a whole ecosystem of service and tooling providers.</p>
-		<p>This API design research covers the concepts people often associate with API design, like REST, and Hypermedia, but also touches on other media types, API definitions, and many of the services, tooling and other solutions that have emerged to serve the space.</p
-		<p>I fund my research through consulting, selling my guides, and the generous support of my sponsors. I appreciate your support in helping me continue with my work and hope you find it relevant in your API journey.</p>
-
-		<ul class="actions" style="text-align: center;">
-			<li><a href="http://apis.how/jxcvi8wng2" class="button big">Download Guide</a></li>
-			<li><a href="https://gum.co/mujnIl" class="button big">Purchase Guide</a></li>
-		</ul>
-
-	</div>
-	<span class="image object">
-		<a href="http://apis.how/jxcvi8wng2" target="_blank"><img src="/images/api-evangelist-api-design-guide-may-2016-cover.png" alt="" width="5%" /></a>
-	</span>
-</section>
-
 <!-- Blog Feature -->
 <a name="BlogFeature"></a>
 {% for post in site.posts limit:1 %}
 	<section id="banner">
 		<div class="content">
 			<header>
-				<h2>Latest From Blog on API Design: {{ post.title }}</h2>
+				<h2>Latest From Blog on API Privacy: {{ post.title }}</h2>
 				<p><em>{{ post.date | date_to_string }}</em></p>
 			</header>
 			{{ post.content }}
@@ -164,7 +141,7 @@ title: API Evangelist - Design
 
 <!-- Tools -->
 <a name="Tools"></a>
-{% assign approved_tags = 'API Specification,Generator,Validator,API Design Guide,Data Specification,Design Editor,Design Notebook,Hypermedia,IDE,Semantics,gRPC' %}
+{% assign approved_tags = 'API Specification,Generator,Validator,API Privacy Guide,Data Specification,Privacy Editor,Privacy Notebook,Hypermedia,IDE,Semantics,gRPC' %}
 {% assign tool_content = site.data.tool_content.index[0] %}
 <section>
 	<header>
