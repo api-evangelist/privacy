@@ -1,171 +1,146 @@
-- slug: electronic-frontier-foundation
-  name: Electronic Frontier Foundation
-  description: >-
-    The Electronic Frontier Foundation (EFF) is an international non-profit
-    digital rights group based in San Francisco in the United States. EFF
-    provides funds for legal defense in court, presents amicus curiae briefs,
-    defends individuals and new technologies from what it considers abusive
-    legal threats, works to expose government malfeasance, provides guidance to
-    the government and courts, organizes political action and mass mailings,
-    supports some new technologies which it believes preserve personal freedoms
-    and online civil liberties, maintains a database and web sites of related
-    news and information, monitors and challenges potential legislation that it
-    believes would infringe on personal liberties and fair use, and solicits a
-    list of what it considers patent abuses with intentions to defeat those that
-    it considers without merit.
-  url: 'https://www.eff.org/'
-  short_url: ''
-  twitter: 'https://twitter.com/eff'
-  blog: 'https://www.eff.org/deeplinks'
-  blog_rss: 'https://www.eff.org/rss/updates.xml'
-  github: 'https://github.com/EFForg'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/EFF.png
-  tags: 'Privacy,Surveillance,Transparency,Copyright,Patents'
-- slug: access-now
-  name: Access Now
-  description: >-
-    Access Now defends and extends the digital rights of users at risk around
-    the world. By combining innovative policy, global advocacy, and direct
-    technical support, we fight for open and secure communications for all.
-  url: 'https://www.accessnow.org'
-  short_url: ''
-  twitter: 'https://twitter.com/accessnow'
-  blog: 'https://www.accessnow.org/blog/'
-  blog_rss: 'https://www.accessnow.org/feed/'
-  github: 'https://github.com/accessnow'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Access-Logo1.jpg
-  tags: 'Privacy,Surveillance,Transparency,Blog'
-- slug: american-civil-liberties-union-aclu
-  name: American Civil Liberties Union (ACLU)
-  description: >-
-    For almost 100 years, the ACLU has worked to defend and preserve the
-    individual rights and liberties guaranteed by the Constitution and laws of
-    the United States.
-  url: 'https://www.aclu.org'
-  short_url: ''
-  twitter: 'https://twitter.com/aclu'
-  blog: 'https://www.aclu.org/blog-feed/gamut'
-  blog_rss: 'https://www.aclu.org/blog-feed/all/feed'
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aclu-logo.png
-  tags: 'Privacy,Surveillance,Transparency'
-- slug: privacy-rights-clearinghouse
-  name: Privacy Rights Clearinghouse
-  description: >-
-    Privacy Rights Clearinghouse is a California nonprofit corporation with
-    501(c)(3) tax exempt status. Our mission is to engage, educate and empower
-    individuals to protect their privacy. We identify trends and communicate our
-    findings to advocates, policymakers, industry, media and consumers.
-  url: 'https://www.privacyrights.org/'
-  short_url: ''
-  twitter: 'https://twitter.com/privacytoday'
-  blog: ''
-  blog_rss: 'http://www.privacyrights.org/rss.xml'
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/privacy-rights-clearinghouse-logo.jpg
-  tags: 'Privacy,Paynents'
+---
+- slug: google-safe-browsing
+  name: Google Safe Browsing
+  description: The Safe Browsing APIs (v4) let your client applications check URLs
+    against Google's constantly updated lists of unsafe web resources. Examples of
+    unsafe web resources are social engineering sites (phishing and deceptive sites)
+    and sites that host malware or unwanted software. Any URL found on a Safe Browsing
+    list is considered unsafe.
+  url: https://developers.google.com/safe-browsing/
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/SafeBrowsing_Icon.png
+  tags: Google APIs,Links,Privacy,Security
 - slug: abine
   name: Abine
-  description: >-
-    Abine is the online privacy company. We make easy-to-use tools for consumers
-    to control what personal information companies, third parties, and other
+  description: Abine is the online privacy company. We make easy-to-use tools for
+    consumers to control what personal information companies, third parties, and other
     people see about them online.
-  url: 'https://www.abine.com'
-  short_url: ''
-  twitter: 'https://twitter.com/Abine'
-  blog: 'http://www.abine.com/blog/'
-  blog_rss: 'https://www.abine.com/blog/feed/'
-  github: 'https://github.com/Abine'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Abine_About_Us___Protect_your_privacy_with_DoNotTrackMe_from_Abine.png
+  url: https://www.abine.com
+  shorturl: ""
+  twitter: https://twitter.com/Abine
+  blog: http://www.abine.com/blog/
+  blogrss: https://www.abine.com/blog/feed/
+  github: https://github.com/Abine
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Abine_About_Us___Protect_your_privacy_with_DoNotTrackMe_from_Abine.png
   tags: Privacy
 - slug: online-privacy-foundation
   name: Online Privacy Foundation
-  description: >-
-    We set up The Online Privacy Foundation so that we could do something useful
-    for society on a topic that we&rsquo;re passionate about.&nbsp;
-  url: 'https://www.onlineprivacyfoundation.org/'
-  short_url: ''
-  twitter: 'https://twitter.com/The_OPF'
-  blog: ''
-  blog_rss: 'https://www.onlineprivacyfoundation.org/feed/'
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/OPF-logo_bar_v3Sized.png
+  description: We set up The Online Privacy Foundation so that we could do something
+    useful for society on a topic that we&rsquo;re passionate about.&nbsp;
+  url: https://www.onlineprivacyfoundation.org/
+  shorturl: ""
+  twitter: https://twitter.com/The_OPF
+  blog: ""
+  blogrss: https://www.onlineprivacyfoundation.org/feed/
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/OPF-logo_bar_v3Sized.png
   tags: Privacy
 - slug: panopticlick
   name: Panopticlick
-  description: >-
-    When you visit a website, online trackers and the site itself may be able to
-    identify you &ndash; even if you&rsquo;ve installed software to protect
-    yourself. It&rsquo;s possible to configure your browser to thwart tracking,
-    but many people don&rsquo;t know how. Panopticlick will analyze how well
-    your browser and add-ons protect you against online tracking techniques.
-    We&rsquo;ll also see if your system is uniquely configured&mdash;and thus
-    identifiable&mdash;even if you are using privacy-protective software.
-  url: 'https://panopticlick.eff.org/'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Panopticlick.png
+  description: When you visit a website, online trackers and the site itself may be
+    able to identify you &ndash; even if you&rsquo;ve installed software to protect
+    yourself. It&rsquo;s possible to configure your browser to thwart tracking, but
+    many people don&rsquo;t know how. Panopticlick will analyze how well your browser
+    and add-ons protect you against online tracking techniques. We&rsquo;ll also see
+    if your system is uniquely configured&mdash;and thus identifiable&mdash;even if
+    you are using privacy-protective software.
+  url: https://panopticlick.eff.org/
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Panopticlick.png
   tags: Privacy
 - slug: privacy-badger
   name: Privacy Badger
-  description: >-
-    Privacy Badger is a browser add-on that stops advertisers and other
-    third-party trackers from secretly tracking where you go and what pages you
-    look at on the web. &nbsp;If an advertiser seems to be tracking you across
-    multiple websites without your permission, Privacy Badger automatically
-    blocks that advertiser from loading any more content in your browser.
-    &nbsp;To the advertiser, it's like you suddenly disappeared.
-  url: 'https://www.eff.org/privacybadger'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/badger-stroke.png
+  description: Privacy Badger is a browser add-on that stops advertisers and other
+    third-party trackers from secretly tracking where you go and what pages you look
+    at on the web. &nbsp;If an advertiser seems to be tracking you across multiple
+    websites without your permission, Privacy Badger automatically blocks that advertiser
+    from loading any more content in your browser. &nbsp;To the advertiser, it's like
+    you suddenly disappeared.
+  url: https://www.eff.org/privacybadger
+  shorturl: ""
+  twitter: ""
+  blog: ""
+  blogrss: ""
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/badger-stroke.png
   tags: Privacy
 - slug: truste
   name: TRUSTe
-  description: >-
-    TRUSTe is the leading global Data Privacy Management (DPM) company and
-    powers privacy compliance and trust by enabling businesses to safely collect
-    and use customer data across their customer, employee, and vendor channels.
-    Our team of 150+ professionals is dedicated to solving emerging privacy
-    challenges and provides a unique combination of privacy expertise,
-    methodology, and technology.
-  url: 'https://www.truste.com/'
-  short_url: ''
-  twitter: 'https://twitter.com/TRUSTe'
-  blog: 'http://www.truste.com/blog/'
-  blog_rss: 'http://www.truste.com/blog/feed/'
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/truste-logo-square_9df7f469-7d21-42d3-a904-fe5c942baf4b_400x400.jpg
+  description: TRUSTe is the leading global Data Privacy Management (DPM) company
+    and powers privacy compliance and trust by enabling businesses to safely collect
+    and use customer data across their customer, employee, and vendor channels. Our
+    team of 150+ professionals is dedicated to solving emerging privacy challenges
+    and provides a unique combination of privacy expertise, methodology, and technology.
+  url: https://www.truste.com/
+  shorturl: ""
+  twitter: https://twitter.com/TRUSTe
+  blog: http://www.truste.com/blog/
+  blogrss: http://www.truste.com/blog/feed/
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/truste-logo-square_9df7f469-7d21-42d3-a904-fe5c942baf4b_400x400.jpg
   tags: Privacy
-- slug: google-safe-browsing
-  name: Google Safe Browsing
-  description: >-
-    The Safe Browsing APIs (v4) let your client applications check URLs against
-    Google's constantly updated lists of unsafe web resources. Examples of
-    unsafe web resources are social engineering sites (phishing and deceptive
-    sites) and sites that host malware or unwanted software. Any URL found on a
-    Safe Browsing list is considered unsafe.
-  url: 'https://developers.google.com/safe-browsing/'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/SafeBrowsing_Icon.png
-  tags: 'Google APIs,Links,Privacy,Security'
+- slug: privacy-rights-clearinghouse
+  name: Privacy Rights Clearinghouse
+  description: Privacy Rights Clearinghouse is a California nonprofit corporation
+    with 501(c)(3) tax exempt status. Our mission is to engage, educate and empower
+    individuals to protect their privacy. We identify trends and communicate our findings
+    to advocates, policymakers, industry, media and consumers.
+  url: https://www.privacyrights.org/
+  shorturl: ""
+  twitter: https://twitter.com/privacytoday
+  blog: ""
+  blogrss: http://www.privacyrights.org/rss.xml
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/privacy-rights-clearinghouse-logo.jpg
+  tags: Privacy,Paynents
+- slug: american-civil-liberties-union-aclu
+  name: American Civil Liberties Union (ACLU)
+  description: For almost 100 years, the ACLU has worked to defend and preserve the
+    individual rights and liberties guaranteed by the Constitution and laws of the
+    United States.
+  url: https://www.aclu.org
+  shorturl: ""
+  twitter: https://twitter.com/aclu
+  blog: https://www.aclu.org/blog-feed/gamut
+  blogrss: https://www.aclu.org/blog-feed/all/feed
+  github: ""
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aclu-logo.png
+  tags: Privacy,Surveillance,Transparency
+- slug: access-now
+  name: Access Now
+  description: Access Now defends and extends the digital rights of users at risk
+    around the world. By combining innovative policy, global advocacy, and direct
+    technical support, we fight for open and secure communications for all.
+  url: https://www.accessnow.org
+  shorturl: ""
+  twitter: https://twitter.com/accessnow
+  blog: https://www.accessnow.org/blog/
+  blogrss: https://www.accessnow.org/feed/
+  github: https://github.com/accessnow
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Access-Logo1.jpg
+  tags: Privacy,Surveillance,Transparency,Blog
+- slug: electronic-frontier-foundation
+  name: Electronic Frontier Foundation
+  description: The Electronic Frontier Foundation (EFF) is an international non-profit
+    digital rights group based in San Francisco in the United States. EFF provides
+    funds for legal defense in court, presents amicus curiae briefs, defends individuals
+    and new technologies from what it considers abusive legal threats, works to expose
+    government malfeasance, provides guidance to the government and courts, organizes
+    political action and mass mailings.
+  url: https://www.eff.org/
+  shorturl: ""
+  twitter: https://twitter.com/eff
+  blog: https://www.eff.org/deeplinks
+  blogrss: https://www.eff.org/rss/updates.xml
+  github: https://github.com/EFForg
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/EFF.png
+  tags: Privacy,Surveillance,Transparency,Copyright,Patents
+...
