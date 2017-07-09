@@ -1,0 +1,23 @@
+---
+title: Transparency Around Every Company Who Has Access To Our Social Data Via An
+  API
+date: 2017-06-07 11:00:00 Z
+tags:
+- Transparency
+- Privacy
+- Social
+- API Evangelist
+image: https://s3.amazonaws.com/kinlane-productions/university-of-cambridge/university-of-cambridge-api-transparency.png
+---
+
+<p><a href="https://applymagicsauce.com/business.html"><img src="https://s3.amazonaws.com/kinlane-productions/university-of-cambridge/university-of-cambridge-api-transparency.png" align="right" width="40%" style="padding: 15px;" /></a></p>I believe that APIs can bring some important transparency to the web, mobile, and device applications that seem to be invading our life. I hesitate using the word transparency because it has been weaponized by Wikileaks and others in the current cyber(in)secure landscape, but for the purposes of this story, it will work. APIs by default do not mean transparency, but when done in the right way they can pull back the curtain a little on what is going on when a company, organization, institution, or agency behind is truly committed to transparency.
+
+[I've long had a portion of my research dedicated to studying intentional transparency efforts by API providers](http://transparency.apievangelist.com/), giving me a place to publish any organizations, links, and stories that I publish on the subject of API transparency. As part of my API research I was looking at some university API efforts the other day when I came across [the Apply Magic Sauce API](https://applymagicsauce.com), a personalisation engine that accurately predicts psychological traits from digital footprints of human behavior, [which had a pretty interesting section dedicated to the subject of transparency](https://applymagicsauce.com/business.html). Here is some background on their approach:
+
+Our methods have been peer-reviewed and published in open access journals since 2013, and new services that sound similar to Apply Magic Sauce API (AMS) are springing up every day. As this technology becomes more accessible and its impact increases, we would like to ensure that citizens have clarity on who we do and do not work with. We are therefore committed to keeping an up to date list of every organisation that we have formally authorised to use AMS for commercial purposes. These clients are advised to follow our ethical guidelines and are bound by our terms and conditions regarding the need to obtain the informed consent of individuals about whom predictions are made. We encourage other providers of predictive technologies to honour the principles of privacy, transparency and relevance and publish a similar list of their own.
+
+The Apply Magic Sauce API provides me with a solid example of an existing institution, "...committed to keeping an up to date list of every organization that we have formally authorised to use AMS for commercial purposes", and encouraging their partners to "publish a similar list of their own". What an important example to set when it comes to APIs, especially APIs that involve the amount of personally identifiable information (PII) that a social network possesses. It provides a positive model that ANY application who allows for the OAuth'ing of a user via their Twitter, Facebook, or another social network should be emulating.
+ 
+Honestly, I'm still not 100% sure about what they are up to at [the University of Cambridge with their Apply Magic Sauce API](https://applymagicsauce.com/)--I am still getting going with my dive into their operations. However, [from the amount of work they've put into the ethics behind their API platform](http://apievangelist.com/2017/05/31/an-example-of-api-ethics-out-of-cambridge-university/), as well as the high bar for transparency being set, I'm willing to give them the benefit of the doubt that they are up to good things. I'll keep diving into their API, and monitor the activity in the community to make sure they are standing behind their pledge, and see whether or not their API partners are respecting the pledge as well.
+
+I am hoping that the University of Cambridge provides me with a solid ethical example of not just how an API provider can behave and communicate around the transparency of their API consumption, but also how they can set the same expectations within their API community. If I had my way this would be the standard operating procedure for EVERY company, organization, institution, and a government agency that possess any PII for ANY citizen--100% transparency of EVERY single partner, customer, and application developer who has access to any personal data.
