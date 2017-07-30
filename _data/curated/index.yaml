@@ -17,17 +17,17 @@
   url: https://pando.com/2015/01/22/illinois-schools-warn-parents-they-might-ask-for-childrens-facebook-passwords/
   domain: pando.com
   image: ""
-- curated_id: 93f81ba02c9dd001910e9191b5785ee7
-  item_date: "2015-01-23 00:00:00"
-  title: Obama Administration Reverses On Health Care Privacy Problem
-  url: http://www.huffingtonpost.com/2015/01/23/obamacare-privacy_n_6534478.html
-  domain: www.huffingtonpost.com
-  image: ""
 - curated_id: 40d90dad5c8ebde045bb120e21b961ec
   item_date: "2015-01-23 00:00:00"
   title: Anonymising Data With Open Refine
   url: https://blog.ouseful.info/2015/01/23/anonymising-data-with-open-refine/
   domain: blog.ouseful.info
+  image: ""
+- curated_id: 93f81ba02c9dd001910e9191b5785ee7
+  item_date: "2015-01-23 00:00:00"
+  title: Obama Administration Reverses On Health Care Privacy Problem
+  url: http://www.huffingtonpost.com/2015/01/23/obamacare-privacy_n_6534478.html
+  domain: www.huffingtonpost.com
   image: ""
 - curated_id: aa1c93cbd2f94788ed5583376e1310bc
   item_date: "2015-01-28 00:00:00"
@@ -41,11 +41,17 @@
   url: http://vator.tv/news/2015-02-14-ryan-howard-the-risk-and-costs-of-sharing-health-data
   domain: vator.tv
   image: ""
-- curated_id: c81e79de09ac3983747cdb0b7af4f020
+- curated_id: ac52012615375146665f40631652df6d
   item_date: "2015-02-16 00:00:00"
-  title: 'Privacy Concerns: 8 Best Practices in Online Data Collection'
-  url: https://blog.loginradius.com/2015/02/online-data-collection/
-  domain: blog.loginradius.com
+  title: Did GCHQ illegally spy on you? Privacy International will help you find out
+  url: http://thenextweb.com/insider/2015/02/16/gchq-illegally-spy-privacy-international-will-help-find/
+  domain: thenextweb.com
+  image: ""
+- curated_id: a2355bc62ae2622188066f00ac7ef99d
+  item_date: "2015-02-16 00:00:00"
+  title: How much does privacy cost? According to ATT, about $29
+  url: http://pandodaily.com.feedsportal.com/c/35141/f/650422/s/43754907/sc/4/l/0Lpando0N0C20A150C0A20C160Chow0Emuch0Edoes0Eprivacy0Ecost0Eaccording0Eto0Eatt0Eabout0E290C/story01.htm
+  domain: pandodaily.com.feedsportal.com
   image: ""
 - curated_id: 40b41c573acc0d245a6f40b264f97a2f
   item_date: "2015-02-16 00:00:00"
@@ -54,17 +60,11 @@
   url: https://azure.microsoft.com/en-us/blog/2015/02/16/azure-first-cloud-computing-platform-to-conform-to-isoiec-27018-only-international-set-of-privacy-controls-in-the-cloud/
   domain: azure.microsoft.com
   image: ""
-- curated_id: a2355bc62ae2622188066f00ac7ef99d
+- curated_id: c81e79de09ac3983747cdb0b7af4f020
   item_date: "2015-02-16 00:00:00"
-  title: How much does privacy cost? According to ATT, about $29
-  url: http://pandodaily.com.feedsportal.com/c/35141/f/650422/s/43754907/sc/4/l/0Lpando0N0C20A150C0A20C160Chow0Emuch0Edoes0Eprivacy0Ecost0Eaccording0Eto0Eatt0Eabout0E290C/story01.htm
-  domain: pandodaily.com.feedsportal.com
-  image: ""
-- curated_id: ac52012615375146665f40631652df6d
-  item_date: "2015-02-16 00:00:00"
-  title: Did GCHQ illegally spy on you? Privacy International will help you find out
-  url: http://thenextweb.com/insider/2015/02/16/gchq-illegally-spy-privacy-international-will-help-find/
-  domain: thenextweb.com
+  title: 'Privacy Concerns: 8 Best Practices in Online Data Collection'
+  url: https://blog.loginradius.com/2015/02/online-data-collection/
+  domain: blog.loginradius.com
   image: ""
 - curated_id: 52d13370a29d165a14d96ea4d933b28c
   item_date: "2015-02-16 15:07:21"
@@ -117,11 +117,11 @@
   url: http://www.techrepublic.com/article/the-right-to-record-is-not-a-question-of-technology-but-rather-power-and-policy/
   domain: www.techrepublic.com
   image: ""
-- curated_id: c92013e61300c5ad210b7c6891cf8bf4
+- curated_id: beee44ffaddd1b252af7b94c1a69205b
   item_date: "2015-02-23 00:00:00"
-  title: Facebook?s privacy policy breaches European law, says watchdog
-  url: http://thenextweb.com/facebook/2015/02/23/facebooks-privacy-policy-breaches-european-law-says-watchdog/
-  domain: thenextweb.com
+  title: Report claims Facebook runs afoul of Belgian privacy laws
+  url: http://pandodaily.com.feedsportal.com/c/35141/f/650422/s/43b458dd/sc/46/l/0Lpando0N0C20A150C0A20C230Creport0Eclaims0Efacebook0Eruns0Eafoul0Eof0Ebelgian0Eprivacy0Elaws0C/story01.htm
+  domain: pandodaily.com.feedsportal.com
   image: ""
 - curated_id: 9c2013a2e2a44aaee084d7f710cc0cf9
   item_date: "2015-02-23 00:00:00"
@@ -130,17 +130,11 @@
   url: http://blog.datasift.com/2015/02/23/how-to-respect-user-privacy-intentions-while-still-gaining-insight-from-human-data/
   domain: blog.datasift.com
   image: ""
-- curated_id: beee44ffaddd1b252af7b94c1a69205b
+- curated_id: c92013e61300c5ad210b7c6891cf8bf4
   item_date: "2015-02-23 00:00:00"
-  title: Report claims Facebook runs afoul of Belgian privacy laws
-  url: http://pandodaily.com.feedsportal.com/c/35141/f/650422/s/43b458dd/sc/46/l/0Lpando0N0C20A150C0A20C230Creport0Eclaims0Efacebook0Eruns0Eafoul0Eof0Ebelgian0Eprivacy0Elaws0C/story01.htm
-  domain: pandodaily.com.feedsportal.com
-  image: ""
-- curated_id: bd547ad03d199037718350f666cd5f18
-  item_date: "2015-02-24 00:00:00"
-  title: This company wants to use drones to track your location through WiFi
-  url: https://pando.com/2015/02/24/this-company-wants-to-use-drones-to-track-your-location-through-wifi/
-  domain: pando.com
+  title: Facebook?s privacy policy breaches European law, says watchdog
+  url: http://thenextweb.com/facebook/2015/02/23/facebooks-privacy-policy-breaches-european-law-says-watchdog/
+  domain: thenextweb.com
   image: ""
 - curated_id: 56d2c60aedc94bb9cc07489045e123e9
   item_date: "2015-02-24 00:00:00"
@@ -148,25 +142,37 @@
   url: https://www.schneier.com/blog/archives/2015/02/att_charging_cu.html
   domain: www.schneier.com
   image: ""
+- curated_id: bd547ad03d199037718350f666cd5f18
+  item_date: "2015-02-24 00:00:00"
+  title: This company wants to use drones to track your location through WiFi
+  url: https://pando.com/2015/02/24/this-company-wants-to-use-drones-to-track-your-location-through-wifi/
+  domain: pando.com
+  image: ""
+- curated_id: 9c6a59e9a74c928551b2b5cbae25e552
+  item_date: "2015-02-25 00:00:00"
+  title: 'Bits Blog: Privacy Group Files F.T.C. Complaint Against Samsung?s Voice-Operated
+    TVs'
+  url: http://bits.blogs.nytimes.com/2015/02/25/privacy-group-files-f-t-c-complaint-against-samsungs-voice-operated-tvs//partner=rss&amp;emc=rss
+  domain: bits.blogs.nytimes.com
+  image: ""
+- curated_id: 9c6a59e9a74c928551b2b5cbae25e552
+  item_date: "2015-02-25 00:00:00"
+  title: 'Bits Blog: Privacy Group Files F.T.C. Complaint Against Samsung?s Voice-Operated
+    TVs'
+  url: http://bits.blogs.nytimes.com/2015/02/25/privacy-group-files-f-t-c-complaint-against-samsungs-voice-operated-tvs//partner=rss&amp;emc=rss
+  domain: bits.blogs.nytimes.com
+  image: ""
 - curated_id: 137da2a01508349cf4c7faeaffb0b0e3
   item_date: "2015-02-25 00:00:00"
   title: Looking back- our year in open data and privacy work
   url: http://personal-data.okfn.org/2015/02/25/looking-back-our-year-in-open-data-and-privacy-work/
   domain: personal-data.okfn.org
   image: ""
-- curated_id: 9c6a59e9a74c928551b2b5cbae25e552
-  item_date: "2015-02-25 00:00:00"
-  title: 'Bits Blog: Privacy Group Files F.T.C. Complaint Against Samsung?s Voice-Operated
-    TVs'
-  url: http://bits.blogs.nytimes.com/2015/02/25/privacy-group-files-f-t-c-complaint-against-samsungs-voice-operated-tvs//partner=rss&amp;emc=rss
-  domain: bits.blogs.nytimes.com
-  image: ""
-- curated_id: 9c6a59e9a74c928551b2b5cbae25e552
-  item_date: "2015-02-25 00:00:00"
-  title: 'Bits Blog: Privacy Group Files F.T.C. Complaint Against Samsung?s Voice-Operated
-    TVs'
-  url: http://bits.blogs.nytimes.com/2015/02/25/privacy-group-files-f-t-c-complaint-against-samsungs-voice-operated-tvs//partner=rss&amp;emc=rss
-  domain: bits.blogs.nytimes.com
+- curated_id: a0759c8dfae6c8c7346c5c5c23e20ec2
+  item_date: "2015-02-26 00:00:00"
+  title: 'Safe Browsing and Google Analytics: Keeping More Users Safe, Together'
+  url: https://googleonlinesecurity.blogspot.com/2015/02/safe-browsing-and-google-analytics.html
+  domain: googleonlinesecurity.blogspot.com
   image: ""
 - curated_id: e5a13c538b00244f9c546e968dc0c9c5
   item_date: "2015-02-26 00:00:00"
@@ -174,11 +180,11 @@
   url: http://thenextweb.com/twitter/2015/02/26/twitter-is-making-it-easier-to-report-abuse-on-its-service/
   domain: thenextweb.com
   image: ""
-- curated_id: a0759c8dfae6c8c7346c5c5c23e20ec2
-  item_date: "2015-02-26 00:00:00"
-  title: 'Safe Browsing and Google Analytics: Keeping More Users Safe, Together'
-  url: https://googleonlinesecurity.blogspot.com/2015/02/safe-browsing-and-google-analytics.html
-  domain: googleonlinesecurity.blogspot.com
+- curated_id: ad95d8acd0695d523a1cb011d2b15aa2
+  item_date: "2015-02-27 00:00:00"
+  title: Updating the Skype Privacy Statement
+  url: http://blogs.skype.com/2015/02/27/updating-the-skype-privacy-statement/
+  domain: blogs.skype.com
   image: ""
 - curated_id: 483a46521d8a9b6b861e3b1024ce6f8b
   item_date: "2015-02-27 00:00:00"
@@ -199,22 +205,16 @@
   url: http://www.nytimes.com/2015/02/28/business/white-house-proposes-broad-consumer-data-privacy-bill.html/partner=rss&amp;emc=rss
   domain: www.nytimes.com
   image: ""
-- curated_id: ad95d8acd0695d523a1cb011d2b15aa2
-  item_date: "2015-02-27 00:00:00"
-  title: Updating the Skype Privacy Statement
-  url: http://blogs.skype.com/2015/02/27/updating-the-skype-privacy-statement/
-  domain: blogs.skype.com
+- curated_id: b177c49e8500530dc6d0aef45bb10624
+  item_date: "2015-03-02 00:00:00"
+  title: Is your data anonymous or just encrypted?
+  url: http://disruptiveviews.com/is-your-data-anonymous-or-just-encrypted/
+  domain: disruptiveviews.com
   image: ""
 - curated_id: 8f1ef6d9a31a917cf7a6e6e46790df66
   item_date: "2015-03-02 00:00:00"
   title: White House privacy bill not tough enough
   url: http://disruptiveviews.com/white-house-privacy-bill-not-tough-enough/
-  domain: disruptiveviews.com
-  image: ""
-- curated_id: b177c49e8500530dc6d0aef45bb10624
-  item_date: "2015-03-02 00:00:00"
-  title: Is your data anonymous or just encrypted?
-  url: http://disruptiveviews.com/is-your-data-anonymous-or-just-encrypted/
   domain: disruptiveviews.com
   image: ""
 - curated_id: db95a9715fdbb5a2f65ff299eeaf8a4d
@@ -236,18 +236,6 @@
   url: http://www.smartchicagocollaborative.org/kipp-new-jersey-talks-school-data-at-opengov-hack-night/
   domain: www.smartchicagocollaborative.org
   image: ""
-- curated_id: b086e6d50e5c36f537ddcd4e6b40f839
-  item_date: "2015-03-06 00:00:00"
-  title: Face sculptures using DNA from chewed gum
-  url: http://flowingdata.com/2015/03/06/face-sculptures-using-dna-from-chewed-gum/
-  domain: flowingdata.com
-  image: ""
-- curated_id: fb67f02e7267291d559af5aeb9ea8020
-  item_date: "2015-03-06 00:00:00"
-  title: Data and Goliaths Big Idea
-  url: https://www.schneier.com/blog/archives/2015/03/data_and_goliat_3.html
-  domain: www.schneier.com
-  image: ""
 - curated_id: 7f19067ef8f6c4e9c8c28c24616dc871
   item_date: "2015-03-06 00:00:00"
   title: As the ?quantified self? industry explodes, who will control the data ? us
@@ -255,17 +243,29 @@
   url: https://pando.com/2015/03/06/as-the-quantified-self-industry-explodes-who-will-control-the-data-us-or-them/
   domain: pando.com
   image: ""
-- curated_id: 6ae2435d1aabe762e09c6f3ed4f57b15
-  item_date: "2015-03-09 00:00:00"
-  title: Germany pushes for widespread end-to-end email encryption
-  url: https://gigaom.com/2015/03/09/germany-pushes-for-widespread-end-to-end-email-encryption/
-  domain: gigaom.com
+- curated_id: fb67f02e7267291d559af5aeb9ea8020
+  item_date: "2015-03-06 00:00:00"
+  title: Data and Goliaths Big Idea
+  url: https://www.schneier.com/blog/archives/2015/03/data_and_goliat_3.html
+  domain: www.schneier.com
+  image: ""
+- curated_id: b086e6d50e5c36f537ddcd4e6b40f839
+  item_date: "2015-03-06 00:00:00"
+  title: Face sculptures using DNA from chewed gum
+  url: http://flowingdata.com/2015/03/06/face-sculptures-using-dna-from-chewed-gum/
+  domain: flowingdata.com
   image: ""
 - curated_id: bfc840257c2cc54c229cd29af12a2b14
   item_date: "2015-03-09 00:00:00"
   title: IBM Bluemix Dedicated to your data privacy
   url: http://archive.thoughtsoncloud.com/2015/03/ibm-bluemix-dedicated-bluemix-is-now-yours-alone/
   domain: archive.thoughtsoncloud.com
+  image: ""
+- curated_id: 6ae2435d1aabe762e09c6f3ed4f57b15
+  item_date: "2015-03-09 00:00:00"
+  title: Germany pushes for widespread end-to-end email encryption
+  url: https://gigaom.com/2015/03/09/germany-pushes-for-widespread-end-to-end-email-encryption/
+  domain: gigaom.com
   image: ""
 - curated_id: de1c5d377e108b6cf43e79f54d6dcc75
   item_date: "2015-03-09 17:41:21"
@@ -279,12 +279,6 @@
   url: http://www.businessinsider.com/most-people-are-happy-to-share-their-personal-health-data-with-advertisers-2015-3
   domain: www.businessinsider.com
   image: ""
-- curated_id: 3f37dd1ea866410af986e730b0abf793
-  item_date: "2015-03-11 00:00:00"
-  title: The Seven Principles of Human Data Privacy
-  url: http://blog.datasift.com/2015/03/11/the-seven-principles-of-human-data-privacy/
-  domain: blog.datasift.com
-  image: ""
 - curated_id: 2a847518d56c3853124782aa299134c2
   item_date: "2015-03-11 00:00:00"
   title: Learning Apps Outstrip School Oversight, and Loss of Student Privacy Is Among
@@ -292,12 +286,24 @@
   url: http://www.nytimes.com/glogin/URI=http%3A%2F%2Fwww.nytimes.com%2F2015%2F03%2F12%2Ftechnology%2Flearning-apps-outstrip-school-oversight-and-student-privacy-is-among-the-risks.html%3Fpartner%3Drss%26emc%3Drss%26_r%3D1
   domain: www.nytimes.com
   image: ""
+- curated_id: 3f37dd1ea866410af986e730b0abf793
+  item_date: "2015-03-11 00:00:00"
+  title: The Seven Principles of Human Data Privacy
+  url: http://blog.datasift.com/2015/03/11/the-seven-principles-of-human-data-privacy/
+  domain: blog.datasift.com
+  image: ""
 - curated_id: 6ac9b23d06799aa6e71986934a77a243
   item_date: "2015-03-11 15:26:56"
   title: FTC Signs Memorandum of Understanding with Dutch Agency On Privacy Enforcement
     Cooperation
   url: https://www.ftc.gov/news-events/press-releases/2015/03/ftc-signs-memorandum-understanding-dutch-agency-privacy
   domain: www.ftc.gov
+  image: ""
+- curated_id: 0e95c999df2c278e658a9e2d655cb6c7
+  item_date: "2015-03-12 00:00:00"
+  title: Privacy ? step on the road to trust?
+  url: http://disruptiveviews.com/privacy-step-on-the-road-to-trust/
+  domain: disruptiveviews.com
   image: ""
 - curated_id: 2a6415abf1d5eab0763e02ce0e69324e
   item_date: "2015-03-12 00:00:00"
@@ -311,12 +317,6 @@
   url: http://stream.withknown.com/2015/data-privacy-and-the-business-of-the-internet
   domain: stream.withknown.com
   image: ""
-- curated_id: 0e95c999df2c278e658a9e2d655cb6c7
-  item_date: "2015-03-12 00:00:00"
-  title: Privacy ? step on the road to trust?
-  url: http://disruptiveviews.com/privacy-step-on-the-road-to-trust/
-  domain: disruptiveviews.com
-  image: ""
 - curated_id: b171ed2aaa2b47b24b311935ce7d29cd
   item_date: "2015-03-12 14:31:16"
   title: 'Wyden: Cybersecurity Bill Lacks Privacy Protections, Doesn?t Secure Networks'
@@ -329,12 +329,6 @@
   url: http://ww1.rss2twi.com
   domain: ww1.rss2twi.com
   image: ""
-- curated_id: 7815adfa621cd1708a9af7eb4ed1c3e3
-  item_date: "2015-03-13 00:00:00"
-  title: 'Get your privacy policy down to one page: AVG CEO throws glove down ?...'
-  url: http://www.theregister.co.uk/2015/03/13/avg_ceo_speaks_out_on_surveillance_scams_security/
-  domain: www.theregister.co.uk
-  image: ""
 - curated_id: e7fdebbdd0f1be58d5585021594f6f74
   item_date: "2015-03-13 00:00:00"
   title: Google Apps bug revealed names, addresses, and other data about almost 300K
@@ -342,11 +336,23 @@
   url: http://pandodaily.com.feedsportal.com/c/35141/f/650422/s/445b438e/sc/4/l/0Lpando0N0C20A150C0A30C130Cgoogle0Eapps0Ebug0Erevealed0Enames0Eaddresses0Eand0Eother0Edata0Eabout0Ealmost0E30A0Ak0Epeople0C/story01.htm
   domain: pandodaily.com.feedsportal.com
   image: ""
+- curated_id: 7815adfa621cd1708a9af7eb4ed1c3e3
+  item_date: "2015-03-13 00:00:00"
+  title: 'Get your privacy policy down to one page: AVG CEO throws glove down ?...'
+  url: http://www.theregister.co.uk/2015/03/13/avg_ceo_speaks_out_on_surveillance_scams_security/
+  domain: www.theregister.co.uk
+  image: ""
 - curated_id: e1be884563b6b59afdc2f4af6653d827
   item_date: "2015-03-14 11:24:44"
   title: German Startup Campaigns For Personal Data API Law | TechCrunch
   url: https://techcrunch.com/2015/03/12/free-your-data/
   domain: techcrunch.com
+  image: ""
+- curated_id: 66ae208221f68a5e4804e201bc745103
+  item_date: "2015-03-16 00:00:00"
+  title: 'User Profile Data: Marketing Gold at the End of the Rainbow'
+  url: https://blog.loginradius.com/2015/03/user-profile-data-gold/
+  domain: blog.loginradius.com
   image: ""
 - curated_id: 57ab6b34c853ed5b5666f32058595562
   item_date: "2015-03-16 00:00:00"
@@ -359,12 +365,6 @@
   title: 'Healthcare Security/Privacy: What is MHD beyond XDS-on-FHIR?'
   url: https://healthcaresecprivacy.blogspot.com/2015/03/what-is-mhd-beyond-xds-on-fhir.html
   domain: healthcaresecprivacy.blogspot.com
-  image: ""
-- curated_id: 66ae208221f68a5e4804e201bc745103
-  item_date: "2015-03-16 00:00:00"
-  title: 'User Profile Data: Marketing Gold at the End of the Rainbow'
-  url: https://blog.loginradius.com/2015/03/user-profile-data-gold/
-  domain: blog.loginradius.com
   image: ""
 - curated_id: dea6c58399788c931d07917c044f3114
   item_date: "2015-03-17 10:00:33"
@@ -396,17 +396,17 @@
   url: http://www.businessinsider.com/radioshack-bankruptcy-auction-might-include-customer-data-2015-3
   domain: www.businessinsider.com
   image: ""
-- curated_id: 827f77491d816623853963de3906cc08
-  item_date: "2015-03-24 00:00:00"
-  title: After going bankrupt selling gadgets, RadioShack will now sell customer data
-  url: http://pandodaily.com.feedsportal.com/c/35141/f/650422/s/44c0f7d0/sc/28/l/0Lpando0N0C20A150C0A30C240Cafter0Egoing0Ebankrupt0Eselling0Egizmos0Eradioshack0Ewill0Enow0Esell0Ecustomer0Edata0C/story01.htm
-  domain: pandodaily.com.feedsportal.com
-  image: ""
 - curated_id: 0212758e76f212babf5bf2aaa1ae82ad
   item_date: "2015-03-24 00:00:00"
   title: RadioShack is selling tens of millions of email and home addresses
   url: http://www.theverge.com/2015/3/24/8285319/radioshack-selling-customer-information-bankruptcy
   domain: www.theverge.com
+  image: ""
+- curated_id: 827f77491d816623853963de3906cc08
+  item_date: "2015-03-24 00:00:00"
+  title: After going bankrupt selling gadgets, RadioShack will now sell customer data
+  url: http://pandodaily.com.feedsportal.com/c/35141/f/650422/s/44c0f7d0/sc/28/l/0Lpando0N0C20A150C0A30C240Cafter0Egoing0Ebankrupt0Eselling0Egizmos0Eradioshack0Ewill0Enow0Esell0Ecustomer0Edata0C/story01.htm
+  domain: pandodaily.com.feedsportal.com
   image: ""
 - curated_id: 92b31c869b7edc5bbb4374bb021feab3
   item_date: "2015-03-24 12:16:59"
@@ -421,23 +421,23 @@
   url: https://www.manilaprinciples.org/
   domain: www.manilaprinciples.org
   image: ""
-- curated_id: ff5083060eb2370c93ad551248ddf7a7
-  item_date: "2015-03-25 00:00:00"
-  title: Amazon EMR Now Supports Amazon S3 Client-Side Encryption
-  url: https://aws.amazon.com/blogs/aws/amazon-emr-supports-s3-client-side-encryption/
-  domain: aws.amazon.com
-  image: ""
 - curated_id: 6e3bb29b79b84d783a55abaa5b36c1fa
   item_date: "2015-03-25 00:00:00"
   title: Australians advised how to beat data retention laws
   url: http://www.smh.com.au/federal-politics/political-news/use-encryption-and-overseas-email-to-beat-data-retention-says-ludlam-20150324-1m6vff.html
   domain: www.smh.com.au
   image: ""
-- curated_id: ef5f33602d64d6c20b9b63ee36580d1c
+- curated_id: ff5083060eb2370c93ad551248ddf7a7
+  item_date: "2015-03-25 00:00:00"
+  title: Amazon EMR Now Supports Amazon S3 Client-Side Encryption
+  url: https://aws.amazon.com/blogs/aws/amazon-emr-supports-s3-client-side-encryption/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: ce887e0380823700d7643dd223ed8bbc
   item_date: "2015-03-26 00:00:00"
-  title: Google Announces Safe Browsing API
-  url: http://www.programmableweb.com/news/google-announces-safe-browsing-api/brief/2015/03/2
-  domain: www.programmableweb.com
+  title: What do your mobile apps tell third parties?
+  url: http://www.futurity.org/smartphones-apps-privacy-883822/
+  domain: www.futurity.org
   image: ""
 - curated_id: 848b40b331dd793c915c997126b8b81c
   item_date: "2015-03-26 00:00:00"
@@ -445,11 +445,11 @@
   url: http://venturebeat.com/2015/03/26/spy-cell-towers-a-new-hunting-service-is-looking-for-you/
   domain: venturebeat.com
   image: ""
-- curated_id: ce887e0380823700d7643dd223ed8bbc
+- curated_id: ef5f33602d64d6c20b9b63ee36580d1c
   item_date: "2015-03-26 00:00:00"
-  title: What do your mobile apps tell third parties?
-  url: http://www.futurity.org/smartphones-apps-privacy-883822/
-  domain: www.futurity.org
+  title: Google Announces Safe Browsing API
+  url: http://www.programmableweb.com/news/google-announces-safe-browsing-api/brief/2015/03/2
+  domain: www.programmableweb.com
   image: ""
 - curated_id: 0324e5b530a2e60c217aac7d49ac0bd1
   item_date: "2015-03-26 09:16:37"
@@ -470,18 +470,18 @@
   url: http://thenextweb.com/google/2015/03/27/google-loses-bid-to-stop-uk-consumers-from-suing-it-over-alleged-privacy-violations/
   domain: thenextweb.com
   image: ""
+- curated_id: f283839f4fc99d769c1954c0dbd5e846
+  item_date: "2015-03-27 00:00:00"
+  title: How citizens and investigative journalists handle privacy protection
+  url: http://www.pewresearch.org/fact-tank/2015/03/27/how-citizens-and-investigative-journalists-handle-privacy-protection/
+  domain: www.pewresearch.org
+  image: ""
 - curated_id: b9920c4d368a153e9f0dab0e3c2e4bc1
   item_date: "2015-03-27 00:00:00"
   title: The Monsanto Privacy Model? Monsanto and Farmer Organizations May be Forging
     New Path to Data Cooperation
   url: http://www.huffingtonpost.com/nathan-newman/the-monsanto-privacy-mode_b_6955640.html
   domain: www.huffingtonpost.com
-  image: ""
-- curated_id: f283839f4fc99d769c1954c0dbd5e846
-  item_date: "2015-03-27 00:00:00"
-  title: How citizens and investigative journalists handle privacy protection
-  url: http://www.pewresearch.org/fact-tank/2015/03/27/how-citizens-and-investigative-journalists-handle-privacy-protection/
-  domain: www.pewresearch.org
   image: ""
 - curated_id: 3f627bc614bf0e22df56caecfd907f58
   item_date: "2015-03-28 00:00:00"
@@ -510,6 +510,12 @@
   url: http://www.slate.com/articles/technology/bitwise/2015/03/at_t_gigapower_the_company_wants_you_to_pay_it_not_to_sell_your_data.html
   domain: www.slate.com
   image: ""
+- curated_id: 9150e23c51cf00b83b94b894f13d4e97
+  item_date: "2015-04-02 00:00:00"
+  title: Future Trends in Privacy Activism That Could Affect Big Data
+  url: http://blog.datasift.com/2015/04/02/future-trends-in-privacy-activism-that-could-affect-big-data-2/
+  domain: blog.datasift.com
+  image: ""
 - curated_id: 5e175d05165f69775e54480b592d76c4
   item_date: "2015-04-02 00:00:00"
   title: Snapchat finally atones for its spotty privacy record, taking steps to be
@@ -523,11 +529,11 @@
   url: http://thenextweb.com/google/2015/04/02/google-must-fight-a-lawsuit-claiming-google-wallet-breached-user-privacy/
   domain: thenextweb.com
   image: ""
-- curated_id: 9150e23c51cf00b83b94b894f13d4e97
-  item_date: "2015-04-02 00:00:00"
-  title: Future Trends in Privacy Activism That Could Affect Big Data
-  url: http://blog.datasift.com/2015/04/02/future-trends-in-privacy-activism-that-could-affect-big-data-2/
-  domain: blog.datasift.com
+- curated_id: ba1ce35708918a8367bb98c7e498391e
+  item_date: "2015-04-03 00:00:00"
+  title: Facebook suggests more privacy tips for keeping user accounts secure
+  url: http://www.zdnet.com/article/facebook-suggests-more-privacy-tips-for-keeping-user-accounts-secure/#ftag=RSSbaffb68
+  domain: www.zdnet.com
   image: ""
 - curated_id: 795735b4da9588868729aa7cb204a7a1
   item_date: "2015-04-03 00:00:00"
@@ -535,12 +541,6 @@
     that Microsoft disabled it?
   url: http://pando.com/2015/04/03/do-not-track-wont-stop-tech-companies-from-tracking-you-so-who-cares-that-microsoft-disabled-it/
   domain: pando.com
-  image: ""
-- curated_id: ba1ce35708918a8367bb98c7e498391e
-  item_date: "2015-04-03 00:00:00"
-  title: Facebook suggests more privacy tips for keeping user accounts secure
-  url: http://www.zdnet.com/article/facebook-suggests-more-privacy-tips-for-keeping-user-accounts-secure/#ftag=RSSbaffb68
-  domain: www.zdnet.com
   image: ""
 - curated_id: 46d69923a353c110b80750643bdb8c52
   item_date: "2015-04-06 00:00:00"
@@ -554,17 +554,17 @@
   url: http://rss.nytimes.com/c/34625/f/640387/s/453840d3/sc/28/l/0Lbits0Bblogs0Bnytimes0N0C20A150C0A40C0A80Cf0Ec0Ec0Efines0Eatt0E250Emillion0Efor0Eprivacy0Ebreach0C0Dpartner0Frss0Gemc0Frss/story01.htm
   domain: rss.nytimes.com
   image: ""
-- curated_id: 3c11427764fa7c16def8052125519427
-  item_date: "2015-04-09 00:00:00"
-  title: Techniques to Anonymize Human Data
-  url: http://blog.datasift.com/2015/04/09/techniques-to-anonymize-human-data/
-  domain: blog.datasift.com
-  image: ""
 - curated_id: 4edf5160108459a5a44acf621f832c92
   item_date: "2015-04-09 00:00:00"
   title: Lawsuits in Chicago and Vienna challenge Facebook?s data practices
   url: http://pandodaily.com.feedsportal.com/c/35141/f/650422/s/4540e86a/sc/28/l/0Lpando0N0C20A150C0A40C0A90Clawsuits0Ein0Echicago0Eand0Evienna0Echallenge0Efacebooks0Edata0Epractices0C/story01.htm
   domain: pandodaily.com.feedsportal.com
+  image: ""
+- curated_id: 3c11427764fa7c16def8052125519427
+  item_date: "2015-04-09 00:00:00"
+  title: Techniques to Anonymize Human Data
+  url: http://blog.datasift.com/2015/04/09/techniques-to-anonymize-human-data/
+  domain: blog.datasift.com
   image: ""
 - curated_id: f576ec0d23ce7c99fc343e7fcc3e7c5d
   item_date: "2015-04-13 00:00:00"
@@ -572,17 +572,17 @@
   url: http://www.huffingtonpost.com/2015/04/13/improve-internet-privacy_n_6902622.html
   domain: www.huffingtonpost.com
   image: ""
-- curated_id: e55aed15e04301ed8c36c76d22d6fcfd
-  item_date: "2015-04-14 00:00:00"
-  title: Why some Americans have not changed their privacy and security behaviors
-  url: http://www.pewresearch.org/fact-tank/2015/04/14/why-some-americans-have-not-changed-their-privacy-and-security-behaviors/
-  domain: www.pewresearch.org
-  image: ""
 - curated_id: 6d478052ce524b59c916f977cd76a88b
   item_date: "2015-04-14 00:00:00"
   title: Two Thoughtful Essays on the Future of Privacy
   url: https://www.schneier.com/blog/archives/2015/04/two_thoughtful_.html
   domain: www.schneier.com
+  image: ""
+- curated_id: e55aed15e04301ed8c36c76d22d6fcfd
+  item_date: "2015-04-14 00:00:00"
+  title: Why some Americans have not changed their privacy and security behaviors
+  url: http://www.pewresearch.org/fact-tank/2015/04/14/why-some-americans-have-not-changed-their-privacy-and-security-behaviors/
+  domain: www.pewresearch.org
   image: ""
 - curated_id: 8a0c3e7394ead0dc6c206b235d958859
   item_date: "2015-04-15 21:26:56"
@@ -617,17 +617,17 @@
   url: http://rss2twi.com/link/RedditComTech/
   domain: rss2twi.com
   image: ""
-- curated_id: 5c270c0d7721b490fccbb393446128e6
-  item_date: "2015-04-23 00:00:00"
-  title: Office 365 Management Activity API Aids Transactions Visibility
-  url: http://www.programmableweb.com/news/office-365-management-activity-api-aids-transactions-visibility/2015/04/23
-  domain: www.programmableweb.com
-  image: ""
 - curated_id: 9c6d58e3e37bef3236edbd6c73db6646
   item_date: "2015-04-23 00:00:00"
   title: Examining The Right to be Forgotten
   url: http://blog.datasift.com/2015/04/23/examining-the-right-to-be-forgotten/
   domain: blog.datasift.com
+  image: ""
+- curated_id: 5c270c0d7721b490fccbb393446128e6
+  item_date: "2015-04-23 00:00:00"
+  title: Office 365 Management Activity API Aids Transactions Visibility
+  url: http://www.programmableweb.com/news/office-365-management-activity-api-aids-transactions-visibility/2015/04/23
+  domain: www.programmableweb.com
   image: ""
 - curated_id: 56a571ec827eb9d8038ce6930e23586a
   item_date: "2015-04-27 11:21:10"
@@ -659,17 +659,17 @@
   url: http://bits.blogs.nytimes.com/2015/04/28/franchising-a-student-digital-privacy-law/
   domain: bits.blogs.nytimes.com
   image: ""
-- curated_id: 74197423fb6fee096c579a6312a42ae5
-  item_date: "2015-04-30 00:00:00"
-  title: Private.me API Opens Data Privacy Platform for Businesses
-  url: http://www.programmableweb.com/news/private.me-api-opens-data-privacy-platform-businesses/press-release/2015/04/30
-  domain: www.programmableweb.com
-  image: ""
 - curated_id: 693a22bec7d2c78a12d5e442983b54a4
   item_date: "2015-04-30 00:00:00"
   title: How to Make Sure Your Marketing Strategy is Privacy-Compliant
   url: https://www.callfire.com/blog/2015/04/30/how-to-make-sure-your-marketing-strategy-is-privacy-compliant
   domain: www.callfire.com
+  image: ""
+- curated_id: 74197423fb6fee096c579a6312a42ae5
+  item_date: "2015-04-30 00:00:00"
+  title: Private.me API Opens Data Privacy Platform for Businesses
+  url: http://www.programmableweb.com/news/private.me-api-opens-data-privacy-platform-businesses/press-release/2015/04/30
+  domain: www.programmableweb.com
   image: ""
 - curated_id: dd9b5b6d30a57122339121098d5d1a66
   item_date: "2015-05-01 00:00:00"
@@ -701,17 +701,17 @@
   url: https://ghostinspector.com/blog/integrate-slack/
   domain: ghostinspector.com
   image: ""
-- curated_id: 7bcf97e5f206270a0f3237b8d051afaf
-  item_date: "2015-05-05 00:00:00"
-  title: A federal court just dealt a potentially huge blow to cellphone privacy
-  url: http://www.businessinsider.com/a-federal-court-just-dealt-a-potentially-huge-blow-to-cellphone-privacy-2015-5
-  domain: www.businessinsider.com
-  image: ""
 - curated_id: ac7a50076299f49cbb222de28131f364
   item_date: "2015-05-05 00:00:00"
   title: Protect your privacy online with 70% off the VPN Unlimited Premium Plan
   url: http://thenextweb.com/offers/2015/05/05/protect-your-privacy-online-with-70-off-the-vpn-unlimited-premium-plan/
   domain: thenextweb.com
+  image: ""
+- curated_id: 7bcf97e5f206270a0f3237b8d051afaf
+  item_date: "2015-05-05 00:00:00"
+  title: A federal court just dealt a potentially huge blow to cellphone privacy
+  url: http://www.businessinsider.com/a-federal-court-just-dealt-a-potentially-huge-blow-to-cellphone-privacy-2015-5
+  domain: www.businessinsider.com
   image: ""
 - curated_id: cae55e2ce28560cdecead207e9002c0b
   item_date: "2015-05-08 00:00:00"
@@ -739,17 +739,17 @@
   url: https://www.youtube.com/watch
   domain: www.youtube.com
   image: ""
-- curated_id: 613bd6d8c30d1128523f310a2b40cb64
-  item_date: "2015-05-18 00:00:00"
-  title: FTC asks court to protect consumer information in RadioShack bankruptcy sale
-  url: http://venturebeat.com/2015/05/18/ftc-asks-court-to-protect-consumer-information-in-radioshack-auction/
-  domain: venturebeat.com
-  image: ""
 - curated_id: 383c5c801b5f936428f5179227b4aaaf
   item_date: "2015-05-18 00:00:00"
   title: ?FTCs take on the RadioShack customer data appropriate (for now)
   url: http://www.zdnet.com/article/ftcs-take-on-the-radioshack-customer-data-appropriate-for-now/#ftag=RSSbaffb68
   domain: www.zdnet.com
+  image: ""
+- curated_id: 613bd6d8c30d1128523f310a2b40cb64
+  item_date: "2015-05-18 00:00:00"
+  title: FTC asks court to protect consumer information in RadioShack bankruptcy sale
+  url: http://venturebeat.com/2015/05/18/ftc-asks-court-to-protect-consumer-information-in-radioshack-auction/
+  domain: venturebeat.com
   image: ""
 - curated_id: a766b191ef6313e058aaaed1a7f0eca2
   item_date: "2015-05-18 13:12:15"
@@ -763,18 +763,6 @@
   url: http://hackaday.com/2015/05/19/real-time-video-anonymizer/
   domain: hackaday.com
   image: ""
-- curated_id: 741a6d6029640799832b6f2df6421798
-  item_date: "2015-05-20 00:00:00"
-  title: Americans? Views on Privacy and Security
-  url: http://www.pewinternet.org/2015/05/20/americans-attitudes-about-privacy-security-and-surveillance/
-  domain: www.pewinternet.org
-  image: ""
-- curated_id: e6a43db3d5afae50cb01d353a989a2ad
-  item_date: "2015-05-20 00:00:00"
-  title: Bankruptcy Judge Approves Sale of RadioShack Name and Data
-  url: http://rss.nytimes.com/c/34625/f/640387/s/4680979d/sc/28/l/0L0Snytimes0N0C20A150C0A50C210Cbusiness0Cbankruptcy0Ejudge0Eapproves0Esale0Eof0Eradioshack0Ename0Eand0Edata0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm
-  domain: rss.nytimes.com
-  image: ""
 - curated_id: 6dd265a4e1652c9d5fb9728f8f99abcf
   item_date: "2015-05-20 00:00:00"
   title: Epic denies liability in Coast Guard health-data privacy shortcomings
@@ -787,17 +775,29 @@
   url: http://blog.datasift.com/2015/05/20/what-can-a-privacy-first-approach-do-for-your-business/
   domain: blog.datasift.com
   image: ""
+- curated_id: 741a6d6029640799832b6f2df6421798
+  item_date: "2015-05-20 00:00:00"
+  title: Americans? Views on Privacy and Security
+  url: http://www.pewinternet.org/2015/05/20/americans-attitudes-about-privacy-security-and-surveillance/
+  domain: www.pewinternet.org
+  image: ""
+- curated_id: e6a43db3d5afae50cb01d353a989a2ad
+  item_date: "2015-05-20 00:00:00"
+  title: Bankruptcy Judge Approves Sale of RadioShack Name and Data
+  url: http://rss.nytimes.com/c/34625/f/640387/s/4680979d/sc/28/l/0L0Snytimes0N0C20A150C0A50C210Cbusiness0Cbankruptcy0Ejudge0Eapproves0Esale0Eof0Eradioshack0Ename0Eand0Edata0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm
+  domain: rss.nytimes.com
+  image: ""
 - curated_id: b96839131010f02580aeb22c201e5e7a
   item_date: "2015-05-21 00:00:00"
   title: The Importance of Offense and Defense When It Comes to the Privacy of Data
   url: http://blog.datasift.com/2015/05/21/the-importance-of-offense-and-defense-when-it-comes-to-the-privacy-of-data/
   domain: blog.datasift.com
   image: ""
-- curated_id: 8aa282670bc7a96dc0a01abe4363d100
+- curated_id: d42acc6828b81f2cacf5c0ce83d10782
   item_date: "2015-05-22 00:00:00"
-  title: Germany sues e-commerce sites for sharing data with Facebook
-  url: http://pando.com/2015/05/22/germany-sues-e-commerce-sites-for-sharing-data-with-facebook/
-  domain: pando.com
+  title: Security vs privacy ? deadlock in Congress
+  url: http://disruptiveviews.com/security-vs-privacy-deadlock-in-congress/
+  domain: disruptiveviews.com
   image: ""
 - curated_id: a847cd39c129bf1be3e5c82112dd9d5c
   item_date: "2015-05-22 00:00:00"
@@ -805,11 +805,11 @@
   url: http://www.securenet.com/company/blog/plight-protecting-consumer-information
   domain: www.securenet.com
   image: ""
-- curated_id: d42acc6828b81f2cacf5c0ce83d10782
+- curated_id: 8aa282670bc7a96dc0a01abe4363d100
   item_date: "2015-05-22 00:00:00"
-  title: Security vs privacy ? deadlock in Congress
-  url: http://disruptiveviews.com/security-vs-privacy-deadlock-in-congress/
-  domain: disruptiveviews.com
+  title: Germany sues e-commerce sites for sharing data with Facebook
+  url: http://pando.com/2015/05/22/germany-sues-e-commerce-sites-for-sharing-data-with-facebook/
+  domain: pando.com
   image: ""
 - curated_id: 3c783c84607978cb211594fc7e3620bf
   item_date: "2015-05-22 10:29:59"
@@ -835,11 +835,11 @@
   url: https://opensource.com/education/15/4/open-source-student-data-privacy-policies
   domain: opensource.com
   image: ""
-- curated_id: b07d61e306478318bdc9a652f43faf52
+- curated_id: a62110574e6441b425c313ea021c3906
   item_date: "2015-05-26 00:00:00"
-  title: Got a wearable? Almost anybody can track you using simple technology
-  url: http://pando.com/2015/05/26/got-a-wearable-almost-anybody-can-track-you-using-simple-technology/
-  domain: pando.com
+  title: Skype summoned for failure to share call data
+  url: http://disruptiveviews.com/skype-summoned-for-failure-to-share-call-data/
+  domain: disruptiveviews.com
   image: ""
 - curated_id: d4cca0e6f73bf495b2ef42448f280a62
   item_date: "2015-05-26 00:00:00"
@@ -847,17 +847,11 @@
   url: http://thenextweb.com/shareables/2015/05/26/hackers-may-be-using-malware-to-track-subway-riders-whereabouts/
   domain: thenextweb.com
   image: ""
-- curated_id: a62110574e6441b425c313ea021c3906
+- curated_id: b07d61e306478318bdc9a652f43faf52
   item_date: "2015-05-26 00:00:00"
-  title: Skype summoned for failure to share call data
-  url: http://disruptiveviews.com/skype-summoned-for-failure-to-share-call-data/
-  domain: disruptiveviews.com
-  image: ""
-- curated_id: 973ffbbae365302c018429163f3b187d
-  item_date: "2015-05-27 00:00:00"
-  title: White House Presses for Deal on Phone Data Bill
-  url: http://www.nytimes.com/2015/05/28/us/politics/white-house-presses-for-deal-on-phone-data-bill.html
-  domain: www.nytimes.com
+  title: Got a wearable? Almost anybody can track you using simple technology
+  url: http://pando.com/2015/05/26/got-a-wearable-almost-anybody-can-track-you-using-simple-technology/
+  domain: pando.com
   image: ""
 - curated_id: 46730769b95cb2c28d70060c464539fe
   item_date: "2015-05-27 00:00:00"
@@ -865,23 +859,17 @@
   url: http://www.nytimes.com/2015/05/28/technology/personaltech/hiding-smartphone-photo-location-information.html
   domain: www.nytimes.com
   image: ""
+- curated_id: 973ffbbae365302c018429163f3b187d
+  item_date: "2015-05-27 00:00:00"
+  title: White House Presses for Deal on Phone Data Bill
+  url: http://www.nytimes.com/2015/05/28/us/politics/white-house-presses-for-deal-on-phone-data-bill.html
+  domain: www.nytimes.com
+  image: ""
 - curated_id: 961571bf842b748574aa234b60dd30e5
   item_date: "2015-05-28 00:00:00"
   title: Social media apps are tracking your location in shocking detail (FB)
   url: http://www.businessinsider.com/three-ways-social-media-is-tracking-you-2015-5
   domain: www.businessinsider.com
-  image: ""
-- curated_id: b7f0285d41efe45286fc120448e048cd
-  item_date: "2015-06-01 00:00:00"
-  title: Google launches a central hub for your security and privacy settings
-  url: http://thenextweb.com/google/2015/06/01/google-launches-a-central-hub-for-your-security-and-privacy-settings/
-  domain: thenextweb.com
-  image: ""
-- curated_id: 670d45f1c91c118d88ed6126bb60e666
-  item_date: "2015-06-01 00:00:00"
-  title: Google shows what it knows about us in new privacy hub
-  url: http://www.theverge.com/2015/6/1/8696705/google-privacy-settings-hub-my-account
-  domain: www.theverge.com
   image: ""
 - curated_id: 2c6012a255ecd3c06407c1ee7e011aa6
   item_date: "2015-06-01 00:00:00"
@@ -895,19 +883,17 @@
   url: http://www.zdnet.com/article/google-streamlines-privacy-security-account-management/#ftag=RSSbaffb68
   domain: www.zdnet.com
   image: ""
-- curated_id: c486f0e6eb5048cf81dbc415a0245c68
-  item_date: "2015-06-02 00:00:00"
-  title: Apple CEO Tim Cook castigates Silicon Valley rivals over privacy, and he?s
-    right
-  url: http://thenextweb.com/google/2015/06/03/apple-ceo-tim-cook-castigates-silicon-valley-rivals-over-privacy-and-hes-right/
-  domain: thenextweb.com
+- curated_id: 670d45f1c91c118d88ed6126bb60e666
+  item_date: "2015-06-01 00:00:00"
+  title: Google shows what it knows about us in new privacy hub
+  url: http://www.theverge.com/2015/6/1/8696705/google-privacy-settings-hub-my-account
+  domain: www.theverge.com
   image: ""
-- curated_id: 41aca24e2520146d48c7caef004a954e
-  item_date: "2015-06-02 00:00:00"
-  title: Facebook and Googles new privacy announcements may seem huge but they still
-    have a ways to go
-  url: http://www.businessinsider.com/privacy-experts-think-facebook-and-googles-new-privacy-features-dont-amount-to-much-2015-6
-  domain: www.businessinsider.com
+- curated_id: b7f0285d41efe45286fc120448e048cd
+  item_date: "2015-06-01 00:00:00"
+  title: Google launches a central hub for your security and privacy settings
+  url: http://thenextweb.com/google/2015/06/01/google-launches-a-central-hub-for-your-security-and-privacy-settings/
+  domain: thenextweb.com
   image: ""
 - curated_id: 2d02d280648ce8fe0639a3bb304a9a53
   item_date: "2015-06-02 00:00:00"
@@ -921,17 +907,31 @@
   url: http://techcrunch.com/2015/06/02/apples-tim-cook-delivers-blistering-speech-on-encryption-privacy/
   domain: techcrunch.com
   image: ""
-- curated_id: 35c18412b7683c4ee21d382522d63994
-  item_date: "2015-06-03 00:00:00"
-  title: On Apple?s Privacy Argument Regarding Cloud Services
-  url: http://www.theverge.com/2015/6/3/8718011/Tim-cook-brings-a-knife-to-a-cloud-fight-first-click
-  domain: www.theverge.com
+- curated_id: 41aca24e2520146d48c7caef004a954e
+  item_date: "2015-06-02 00:00:00"
+  title: Facebook and Googles new privacy announcements may seem huge but they still
+    have a ways to go
+  url: http://www.businessinsider.com/privacy-experts-think-facebook-and-googles-new-privacy-features-dont-amount-to-much-2015-6
+  domain: www.businessinsider.com
+  image: ""
+- curated_id: c486f0e6eb5048cf81dbc415a0245c68
+  item_date: "2015-06-02 00:00:00"
+  title: Apple CEO Tim Cook castigates Silicon Valley rivals over privacy, and he?s
+    right
+  url: http://thenextweb.com/google/2015/06/03/apple-ceo-tim-cook-castigates-silicon-valley-rivals-over-privacy-and-hes-right/
+  domain: thenextweb.com
   image: ""
 - curated_id: 994cae1ef129a95bf936bf6b867b714b
   item_date: "2015-06-03 00:00:00"
   title: Tim Cook Just Threw Down on Data Privacy, And It Was Awesome
   url: http://susanetlinger.com/2015/06/03/tim-cook-just-threw-down-on-data-privacy-and-it-was-awesome/
   domain: susanetlinger.com
+  image: ""
+- curated_id: 35c18412b7683c4ee21d382522d63994
+  item_date: "2015-06-03 00:00:00"
+  title: On Apple?s Privacy Argument Regarding Cloud Services
+  url: http://www.theverge.com/2015/6/3/8718011/Tim-cook-brings-a-knife-to-a-cloud-fight-first-click
+  domain: www.theverge.com
   image: ""
 - curated_id: 3d62a2347e5163462a0d8795bc36a184
   item_date: "2015-06-04 00:00:00"
@@ -951,17 +951,17 @@
   url: http://techcrunch.com/2015/06/06/the-online-privacy-lie-is-unraveling/
   domain: techcrunch.com
   image: ""
-- curated_id: 2223f71de8201bd07c3b8309fe868920
-  item_date: "2015-06-08 00:00:00"
-  title: FERPA Compliance in the AWS Cloud
-  url: https://blogs.aws.amazon.com/security/post/Tx22APPVO2WNHLR/FERPA-Compliance-in-the-AWS-Cloud
-  domain: blogs.aws.amazon.com
-  image: ""
 - curated_id: 9305b23a9cdd0657e5172b3b66751b1e
   item_date: "2015-06-08 00:00:00"
   title: Apple shows convenience doesn?t always undermine privacy
   url: http://pando.com/2015/06/08/apple-shows-convenience-doesnt-always-undermine-privacy/
   domain: pando.com
+  image: ""
+- curated_id: 2223f71de8201bd07c3b8309fe868920
+  item_date: "2015-06-08 00:00:00"
+  title: FERPA Compliance in the AWS Cloud
+  url: https://blogs.aws.amazon.com/security/post/Tx22APPVO2WNHLR/FERPA-Compliance-in-the-AWS-Cloud
+  domain: blogs.aws.amazon.com
   image: ""
 - curated_id: ec2df08512d0367b3ec4a791f1b34a18
   item_date: "2015-06-09 00:00:00"
@@ -975,23 +975,17 @@
   url: http://www.huffingtonpost.com/alison-novak/policing-privacy-in-the-a_b_7553030.html
   domain: www.huffingtonpost.com
   image: ""
-- curated_id: ffa6aff84c5401484db1964b8be56671
-  item_date: "2015-06-12 00:00:00"
-  title: Setting the Privacy Status for a Video
-  url: https://support.brightcove.com/en/docs/setting-privacy-status-video
-  domain: support.brightcove.com
-  image: ""
 - curated_id: a48c78e40374e63c8dec8a6753114369
   item_date: "2015-06-12 00:00:00"
   title: Privacy and Data Security
   url: https://blogs.aws.amazon.com/security/post/Tx35449P4T7DJIA/Privacy-and-Data-Security
   domain: blogs.aws.amazon.com
   image: ""
-- curated_id: f99e83f15b9a4be0748cb3b6a85dbd66
-  item_date: "2015-06-15 00:00:00"
-  title: Privacy advocates quit facial-recognition group in protest
-  url: http://www.theverge.com/2015/6/16/8786885/privacy-advocates-quit-facial-recognition-group-in-protest
-  domain: www.theverge.com
+- curated_id: ffa6aff84c5401484db1964b8be56671
+  item_date: "2015-06-12 00:00:00"
+  title: Setting the Privacy Status for a Video
+  url: https://support.brightcove.com/en/docs/setting-privacy-status-video
+  domain: support.brightcove.com
   image: ""
 - curated_id: 53d50593f0560ff6df9a50effa5cabe3
   item_date: "2015-06-15 00:00:00"
@@ -999,17 +993,17 @@
   url: http://janrain.com/blog/social-id-provider-rules-api-transferred-user-information/
   domain: janrain.com
   image: ""
+- curated_id: f99e83f15b9a4be0748cb3b6a85dbd66
+  item_date: "2015-06-15 00:00:00"
+  title: Privacy advocates quit facial-recognition group in protest
+  url: http://www.theverge.com/2015/6/16/8786885/privacy-advocates-quit-facial-recognition-group-in-protest
+  domain: www.theverge.com
+  image: ""
 - curated_id: 2c3ec944ac5dff9e05a24778e2ab19d0
   item_date: "2015-06-15 11:23:01"
   title: Mystery Show Debunks License Plate Privacy Myth
   url: https://www.eff.org/deeplinks/2015/06/mystery-show-podcast-debunks-license-plate-privacy-myth
   domain: www.eff.org
-  image: ""
-- curated_id: f20577919113e3babba0bba8603166c2
-  item_date: "2015-06-16 00:00:00"
-  title: Corporations Want to Follow Your Every Move, Whether You Like It Or Not
-  url: http://www.motherjones.com/kevin-drum/2015/06/corporations-want-follow-your-every-move-whether-you-it-or-not
-  domain: www.motherjones.com
   image: ""
 - curated_id: 62b13c78b41c03f19270cf46435ef735
   item_date: "2015-06-16 00:00:00"
@@ -1017,6 +1011,12 @@
     Google and Yahoo (MSFT)
   url: http://www.businessinsider.com/microsoft-encrypts-bing-searches-to-rival-google-and-yahoo-2015-6
   domain: www.businessinsider.com
+  image: ""
+- curated_id: f20577919113e3babba0bba8603166c2
+  item_date: "2015-06-16 00:00:00"
+  title: Corporations Want to Follow Your Every Move, Whether You Like It Or Not
+  url: http://www.motherjones.com/kevin-drum/2015/06/corporations-want-follow-your-every-move-whether-you-it-or-not
+  domain: www.motherjones.com
   image: ""
 - curated_id: e28ced0553cd4cf6a4e6a218232fe5da
   item_date: "2015-06-17 00:00:00"
@@ -1030,18 +1030,18 @@
   url: https://www.eff.org/who-has-your-back-government-data-requests-2015
   domain: www.eff.org
   image: ""
+- curated_id: e69a35ea590f9b34aa76a1baf872b15f
+  item_date: "2015-06-18 00:00:00"
+  title: Facebook Moments not coming to Europe because of privacy concerns
+  url: http://thenextweb.com/facebook/2015/06/18/facebook-moments-not-coming-to-europe-because-of-privacy-concerns/
+  domain: thenextweb.com
+  image: ""
 - curated_id: 984209ee0404574c5f59e2147640d4fd
   item_date: "2015-06-18 00:00:00"
   title: Privacy advocates are calling for Facebook to be more transparent about what
     it censors (FB)
   url: http://www.businessinsider.com/new-report-questions-how-facebook-censors-content-2015-6
   domain: www.businessinsider.com
-  image: ""
-- curated_id: e69a35ea590f9b34aa76a1baf872b15f
-  item_date: "2015-06-18 00:00:00"
-  title: Facebook Moments not coming to Europe because of privacy concerns
-  url: http://thenextweb.com/facebook/2015/06/18/facebook-moments-not-coming-to-europe-because-of-privacy-concerns/
-  domain: thenextweb.com
   image: ""
 - curated_id: b8cb2c0fa8316243a3150847ad4e3eba
   item_date: "2015-06-19 00:00:00"
@@ -1068,11 +1068,11 @@
   url: https://www.privateinternetaccess.com/blog/2015/06/google-chrome-listening-in-to-your-room-shows-the-importance-of-privacy-defense-in-depth/#.VYlV-TqXotg.twitter
   domain: www.privateinternetaccess.com
   image: ""
-- curated_id: e10cdb54ed5105d53b7e42667a1f14c9
+- curated_id: bdc278bdfc898350688a2c04a7ae13d0
   item_date: "2015-06-24 00:00:00"
-  title: Optimize Mobile Marketing ? Respecting Users Privacy
-  url: http://www.openi-ict.eu/optimize-mobile-marketing-respecting-users-privacy/
-  domain: www.openi-ict.eu
+  title: Myfox Introduces Security Camera With Worlds First Privacy Shutter
+  url: http://www.saherald.co.za/myfox-introduces-security-camera-with-worlds-first-privacy-shutter/
+  domain: www.saherald.co.za
   image: ""
 - curated_id: 7dbe853b18c29a04c6779d6d86411062
   item_date: "2015-06-24 00:00:00"
@@ -1080,24 +1080,17 @@
   url: http://www.weijieworld.com/apple-to-protect-user-data-from-misuse-in-ios-9/
   domain: www.weijieworld.com
   image: ""
-- curated_id: bdc278bdfc898350688a2c04a7ae13d0
+- curated_id: e10cdb54ed5105d53b7e42667a1f14c9
   item_date: "2015-06-24 00:00:00"
-  title: Myfox Introduces Security Camera With Worlds First Privacy Shutter
-  url: http://www.saherald.co.za/myfox-introduces-security-camera-with-worlds-first-privacy-shutter/
-  domain: www.saherald.co.za
+  title: Optimize Mobile Marketing ? Respecting Users Privacy
+  url: http://www.openi-ict.eu/optimize-mobile-marketing-respecting-users-privacy/
+  domain: www.openi-ict.eu
   image: ""
-- curated_id: 9871086c5d9ddc34653fe3c1023e6ff6
+- curated_id: 3a24aed42c01cbefebbecc271284ed25
   item_date: "2015-06-25 00:00:00"
-  title: Apple rolling out a new policy restricting advertisers from obtaining app
-    download data
-  url: http://economictimes.indiatimes.com/tech/software/apple-rolling-out-a-new-policy-restricting-advertisers-from-obtaining-app-download-data/articleshow/47813239.cms
-  domain: economictimes.indiatimes.com
-  image: ""
-- curated_id: 161af81d701bcdcfd21eece5ec2eedab
-  item_date: "2015-06-25 00:00:00"
-  title: Two Quick Tips for Protecting Consumer Privacy in the ?Space Age?
-  url: http://www.gigya.com/blog/two-quick-tips-for-protecting-consumer-privacy-in-the-space-age/
-  domain: www.gigya.com
+  title: Facebook vs. Europe ? privacy, ethics, and tech innovation
+  url: http://venturebeat.com/2015/06/25/facebook-vs-europe-privacy-ethics-and-tech-innovation/
+  domain: venturebeat.com
   image: ""
 - curated_id: cf150749bbb70ce6a8b566cd64f65415
   item_date: "2015-06-25 00:00:00"
@@ -1105,11 +1098,18 @@
   url: http://susanetlinger.com/2015/06/25/the-trust-imperative-a-framework-for-ethical-data-use/
   domain: susanetlinger.com
   image: ""
-- curated_id: 3a24aed42c01cbefebbecc271284ed25
+- curated_id: 161af81d701bcdcfd21eece5ec2eedab
   item_date: "2015-06-25 00:00:00"
-  title: Facebook vs. Europe ? privacy, ethics, and tech innovation
-  url: http://venturebeat.com/2015/06/25/facebook-vs-europe-privacy-ethics-and-tech-innovation/
-  domain: venturebeat.com
+  title: Two Quick Tips for Protecting Consumer Privacy in the ?Space Age?
+  url: http://www.gigya.com/blog/two-quick-tips-for-protecting-consumer-privacy-in-the-space-age/
+  domain: www.gigya.com
+  image: ""
+- curated_id: 9871086c5d9ddc34653fe3c1023e6ff6
+  item_date: "2015-06-25 00:00:00"
+  title: Apple rolling out a new policy restricting advertisers from obtaining app
+    download data
+  url: http://economictimes.indiatimes.com/tech/software/apple-rolling-out-a-new-policy-restricting-advertisers-from-obtaining-app-download-data/articleshow/47813239.cms
+  domain: economictimes.indiatimes.com
   image: ""
 - curated_id: c62984387b13ab91c1a5b4fdbdbd77b4
   item_date: "2015-06-26 00:00:00"
@@ -1199,6 +1199,12 @@
   url: http://venturebeat.com/2015/08/12/mastercard-and-nymi-say-theyve-completed-the-first-heartbeat-authenticated-mobile-payment-in-the-wild/
   domain: venturebeat.com
   image: ""
+- curated_id: 0ef366b3b47b71a6aee7582f89aba7c8
+  item_date: "2015-08-13 00:00:00"
+  title: Are we building a data ?genome??
+  url: http://susanetlinger.com/2015/08/13/are-we-building-a-data-genome/
+  domain: susanetlinger.com
+  image: ""
 - curated_id: 7489a81eaca787ed8c9a8aa0952a7285
   item_date: "2015-08-13 00:00:00"
   title: Myfox Home Security Cameras Protect Your Privacy
@@ -1210,12 +1216,6 @@
   title: 'New Whitepaper: CJIS Compliance on AWS'
   url: https://blogs.aws.amazon.com/security/post/Tx2XYH7IO0328NJ/New-Whitepaper-CJIS-Compliance-on-AWS
   domain: blogs.aws.amazon.com
-  image: ""
-- curated_id: 0ef366b3b47b71a6aee7582f89aba7c8
-  item_date: "2015-08-13 00:00:00"
-  title: Are we building a data ?genome??
-  url: http://susanetlinger.com/2015/08/13/are-we-building-a-data-genome/
-  domain: susanetlinger.com
   image: ""
 - curated_id: b0c39d092459896737118538d9bf5106
   item_date: "2015-08-15 13:31:59"
@@ -1256,16 +1256,16 @@
   url: http://www.businessinsider.com/ashley-madison-leak-reveals-which-states-like-to-cheat-the-most-2015-8
   domain: www.businessinsider.com
   image: ""
-- curated_id: 3fb009256eefa9ec22fcd12f8ad35f2b
-  item_date: "2015-08-24 00:00:00"
-  title: What are we actually doing about personal data in the IoT?
-  url: http://disruptiveviews.com/what-are-we-actually-doing-about-personal-data-in-the-iot/
-  domain: disruptiveviews.com
-  image: ""
 - curated_id: 1835d0a91ad70d10e403306b19fb9e85
   item_date: "2015-08-24 00:00:00"
   title: Privacy no longer exists and it hasn?t for some time
   url: http://disruptiveviews.com/privacy-no-longer-exists-and-it-hasnt-for-some-time/
+  domain: disruptiveviews.com
+  image: ""
+- curated_id: 3fb009256eefa9ec22fcd12f8ad35f2b
+  item_date: "2015-08-24 00:00:00"
+  title: What are we actually doing about personal data in the IoT?
+  url: http://disruptiveviews.com/what-are-we-actually-doing-about-personal-data-in-the-iot/
   domain: disruptiveviews.com
   image: ""
 - curated_id: 479f962c679f7874a2909e6b8e09ca0c
@@ -1373,17 +1373,17 @@
   url: http://blog.ouseful.info/2015/10/18/when-your-identity-can-be-used-against-you/
   domain: blog.ouseful.info
   image: ""
-- curated_id: 37f259affd8eb13e8a48c1924a891b10
-  item_date: "2015-10-22 00:00:00"
-  title: Balancing Personalization and Privacy
-  url: https://www.urbanairship.com/blog/balancing-personalization-and-privacy
-  domain: www.urbanairship.com
-  image: ""
 - curated_id: c7536b01f83eb7fd753db4d1fdfb77ce
   item_date: "2015-10-22 00:00:00"
   title: Cybersecurity Bill Could Put More Personal Data in Government Hands
   url: http://www.motherjones.com/politics/2015/10/controversial-cybersecurity-bill-cisa-may-come-to-vote-this-week
   domain: www.motherjones.com
+  image: ""
+- curated_id: 37f259affd8eb13e8a48c1924a891b10
+  item_date: "2015-10-22 00:00:00"
+  title: Balancing Personalization and Privacy
+  url: https://www.urbanairship.com/blog/balancing-personalization-and-privacy
+  domain: www.urbanairship.com
   image: ""
 - curated_id: 7479b405735f38e02f6a47f78a3fcdd9
   item_date: "2015-10-24 00:00:00"
@@ -1404,17 +1404,17 @@
   url: https://www.eff.org/deeplinks/2010/12/breaking-news-eff-victory-appeals-court-holds
   domain: www.eff.org
   image: ""
-- curated_id: ee502d3f3f3f4610c3f90c5919cf9c86
-  item_date: "2015-12-15 00:00:00"
-  title: E.U. Expected to Approve Tough New Data Protection Rules
-  url: http://www.nytimes.com/2015/12/16/technology/eu-data-privacy.html
-  domain: www.nytimes.com
-  image: ""
 - curated_id: e37b8d551ec478cc8aa7b9a94abc64c8
   item_date: "2015-12-15 00:00:00"
   title: Do friends give your data to third-party apps?
   url: http://www.futurity.org/privacy-data-apps-friends-1070762-2/
   domain: www.futurity.org
+  image: ""
+- curated_id: ee502d3f3f3f4610c3f90c5919cf9c86
+  item_date: "2015-12-15 00:00:00"
+  title: E.U. Expected to Approve Tough New Data Protection Rules
+  url: http://www.nytimes.com/2015/12/16/technology/eu-data-privacy.html
+  domain: www.nytimes.com
   image: ""
 - curated_id: 54f90f1a05ca0fedc6b620d2db8b92cc
   item_date: "2015-12-16 08:44:23"
@@ -1434,16 +1434,16 @@
   url: https://www.privacyrights.org/organizedsports
   domain: www.privacyrights.org
   image: ""
-- curated_id: 50bb841dd0b387299b6918608575bb22
-  item_date: "2016-01-06 00:00:00"
-  title: Uber fined just $20,000 for spying on users in God View
-  url: http://thenextweb.com/insider/2016/01/07/uber-fined-just-20000-for-spying-on-users-in-god-view/
-  domain: thenextweb.com
-  image: ""
 - curated_id: 7a35b549e5fbbd4c9e615c768efd19bb
   item_date: "2016-01-06 00:00:00"
   title: New privacy-focused search engine promises to never sell or store your data
   url: http://thenextweb.com/insider/2016/01/06/new-privacy-focused-search-engine-promises-to-never-sell-or-store-your-data/
+  domain: thenextweb.com
+  image: ""
+- curated_id: 50bb841dd0b387299b6918608575bb22
+  item_date: "2016-01-06 00:00:00"
+  title: Uber fined just $20,000 for spying on users in God View
+  url: http://thenextweb.com/insider/2016/01/07/uber-fined-just-20000-for-spying-on-users-in-god-view/
   domain: thenextweb.com
   image: ""
 - curated_id: 76519a8da1f92218be7d406f9f2129f7
@@ -1488,6 +1488,12 @@
   url: http://www.theguardian.com/us-news/2016/jan/13/us-library-records-purged-data-privacy
   domain: www.theguardian.com
   image: ""
+- curated_id: fb38be23b832290a55de18a2f51ec2f9
+  item_date: "2016-01-14 00:00:00"
+  title: Americans want privacy at home, but are more open to surveillance at work
+  url: http://www.theverge.com/2016/1/14/10767570/pew-research-center-data-sharing-privacy
+  domain: www.theverge.com
+  image: ""
 - curated_id: 3a0e1a06ea50c8891af4c349ac40bd69
   item_date: "2016-01-14 00:00:00"
   title: 'Privacy and Information Sharing: Scenarios'
@@ -1499,12 +1505,6 @@
   title: Privacy and Information Sharing
   url: http://www.pewinternet.org/2016/01/14/privacy-and-information-sharing/
   domain: www.pewinternet.org
-  image: ""
-- curated_id: fb38be23b832290a55de18a2f51ec2f9
-  item_date: "2016-01-14 00:00:00"
-  title: Americans want privacy at home, but are more open to surveillance at work
-  url: http://www.theverge.com/2016/1/14/10767570/pew-research-center-data-sharing-privacy
-  domain: www.theverge.com
   image: ""
 - curated_id: abaf99d408d4c38ca6b4267182853dd0
   item_date: "2016-01-15 00:00:00"
@@ -1537,18 +1537,6 @@
   url: http://www.geektime.com/2016/01/18/israeli-neura-raises-11m-to-bring-privacy-back-to-iot/
   domain: www.geektime.com
   image: ""
-- curated_id: 958e54b8801dedc2f8b72c299ac6fc29
-  item_date: "2016-01-20 00:00:00"
-  title: Maximizing User-Generated Content with Respect to User Privacy
-  url: http://janrain.com/blog/maximizing-user-generated-content-with-respect-to-user-privacy/
-  domain: janrain.com
-  image: ""
-- curated_id: 87a068e623a98fae9ab6d5d5d2ee5fda
-  item_date: "2016-01-20 00:00:00"
-  title: The ACLU and lawmakers just made a huge push for digital privacy
-  url: http://www.theverge.com/2016/1/20/10801806/aclu-privacy-bill-legislation
-  domain: www.theverge.com
-  image: ""
 - curated_id: 9e01b9489cdd44387e0ad950c5b3bb3f
   item_date: "2016-01-20 00:00:00"
   title: FCC urged to review privacy protection for broadband users
@@ -1560,6 +1548,18 @@
   title: 'The state of privacy in America: What we learned'
   url: http://www.pewresearch.org/fact-tank/2016/01/20/the-state-of-privacy-in-america/
   domain: www.pewresearch.org
+  image: ""
+- curated_id: 87a068e623a98fae9ab6d5d5d2ee5fda
+  item_date: "2016-01-20 00:00:00"
+  title: The ACLU and lawmakers just made a huge push for digital privacy
+  url: http://www.theverge.com/2016/1/20/10801806/aclu-privacy-bill-legislation
+  domain: www.theverge.com
+  image: ""
+- curated_id: 958e54b8801dedc2f8b72c299ac6fc29
+  item_date: "2016-01-20 00:00:00"
+  title: Maximizing User-Generated Content with Respect to User Privacy
+  url: http://janrain.com/blog/maximizing-user-generated-content-with-respect-to-user-privacy/
+  domain: janrain.com
   image: ""
 - curated_id: 3bc1f397a5b71759644d2fe134e4dae3
   item_date: "2016-01-20 14:47:40"
@@ -1592,18 +1592,18 @@
   url: http://arstechnica.com/security/2016/01/how-to-search-the-internet-of-things-for-photos-of-sleeping-babies/
   domain: arstechnica.com
   image: ""
-- curated_id: 0c886f4690e3d36b546ef399e5c2e5a1
-  item_date: "2016-01-25 00:00:00"
-  title: Skype Now Hides Your Internet Address
-  url: http://krebsonsecurity.com/2016/01/skype-now-hides-your-internet-address/
-  domain: krebsonsecurity.com
-  image: ""
 - curated_id: 5a2bb6029e742f22c8071c5ffff9bc9d
   item_date: "2016-01-25 00:00:00"
   title: Uber accidentally exposed one drivers personal tax information and social
     security number
   url: http://www.businessinsider.com/uber-exposed-one-drivers-personal-tax-information-and-social-security-number-2016-1
   domain: www.businessinsider.com
+  image: ""
+- curated_id: 0c886f4690e3d36b546ef399e5c2e5a1
+  item_date: "2016-01-25 00:00:00"
+  title: Skype Now Hides Your Internet Address
+  url: http://krebsonsecurity.com/2016/01/skype-now-hides-your-internet-address/
+  domain: krebsonsecurity.com
   image: ""
 - curated_id: 06296f27c7bc45b205265e8a51f5f417
   item_date: "2016-01-26 00:00:00"
@@ -1636,18 +1636,18 @@
   url: http://www.whitecase.com/publications/article/international-data-privacy-how-navigate-challenges
   domain: www.whitecase.com
   image: ""
-- curated_id: 18bacb3b346872bda1df34801310b3f8
-  item_date: "2016-01-28 00:00:00"
-  title: The transatlantic data deadline in danger
-  url: http://disruptiveviews.com/the-transatlantic-data-deadline-in-danger/
-  domain: disruptiveviews.com
-  image: ""
 - curated_id: 38ca5b3857307d41a5bb1cceb213002c
   item_date: "2016-01-28 00:00:00"
   title: New York Department of Consumer Affairs investigates connected baby monitor
     hacks
   url: http://thenextweb.com/insider/2016/01/29/new-york-department-of-consumer-affairs-investigates-connected-baby-monitor-hacks/
   domain: thenextweb.com
+  image: ""
+- curated_id: 18bacb3b346872bda1df34801310b3f8
+  item_date: "2016-01-28 00:00:00"
+  title: The transatlantic data deadline in danger
+  url: http://disruptiveviews.com/the-transatlantic-data-deadline-in-danger/
+  domain: disruptiveviews.com
   image: ""
 - curated_id: 128845fb58a328858306dd2487a8b780
   item_date: "2016-01-29 10:51:56"
@@ -1667,6 +1667,24 @@
   url: http://www.jdsupra.com/legalnews/cybersecurity-in-postmarket-medical-37006/
   domain: www.jdsupra.com
   image: ""
+- curated_id: 657a01da596c6aac5690cc4cae29b415
+  item_date: "2016-02-02 00:00:00"
+  title: EU and U.S agree on data pact ? safe harbour sails home
+  url: http://disruptiveviews.com/eu-and-u-s-agree-on-data-pact-safe-harbour-sails-home/
+  domain: disruptiveviews.com
+  image: ""
+- curated_id: 617eef39908e0944fa0733f0a7348814
+  item_date: "2016-02-02 00:00:00"
+  title: ""
+  url: http://www.businessinsider.com/european-regulators-discuss-safe-harbor-data-transfer-replacement-2016-2
+  domain: www.businessinsider.com
+  image: ""
+- curated_id: 621e0735dc57c30146224f797222e685
+  item_date: "2016-02-02 00:00:00"
+  title: Balancing post-conviction data and privacy
+  url: http://sunlightfoundation.com/blog/2016/02/02/balancing-post-conviction-data-and-privacy/
+  domain: sunlightfoundation.com
+  image: ""
 - curated_id: 16399ba6c08115f069327c58730718f9
   item_date: "2016-02-02 00:00:00"
   title: 'The Cost of Non-Compliance: Putting a Price on Privacy'
@@ -1678,24 +1696,6 @@
   title: At Berkeley, a New Digital Privacy Protest
   url: http://www.nytimes.com/2016/02/02/technology/at-uc-berkeley-a-new-digital-privacy-protest.html
   domain: www.nytimes.com
-  image: ""
-- curated_id: 657a01da596c6aac5690cc4cae29b415
-  item_date: "2016-02-02 00:00:00"
-  title: EU and U.S agree on data pact ? safe harbour sails home
-  url: http://disruptiveviews.com/eu-and-u-s-agree-on-data-pact-safe-harbour-sails-home/
-  domain: disruptiveviews.com
-  image: ""
-- curated_id: 621e0735dc57c30146224f797222e685
-  item_date: "2016-02-02 00:00:00"
-  title: Balancing post-conviction data and privacy
-  url: http://sunlightfoundation.com/blog/2016/02/02/balancing-post-conviction-data-and-privacy/
-  domain: sunlightfoundation.com
-  image: ""
-- curated_id: 617eef39908e0944fa0733f0a7348814
-  item_date: "2016-02-02 00:00:00"
-  title: ""
-  url: http://www.businessinsider.com/european-regulators-discuss-safe-harbor-data-transfer-replacement-2016-2
-  domain: www.businessinsider.com
   image: ""
 - curated_id: 8c566e5ff918cd33352b99031b6dbbab
   item_date: "2016-02-02 11:06:16"
@@ -1716,6 +1716,13 @@
   url: http://www.nytimes.com/2016/02/04/technology/european-privacy-regulators-want-more-details-on-us-safe-harbor-data-deal.html
   domain: www.nytimes.com
   image: ""
+- curated_id: 7c0f4812dddb517bd65268fe5fa8c9f2
+  item_date: "2016-02-05 00:00:00"
+  title: 'EU-US Data Privacy: Is it time to consider keeping your EU customer data
+    exclusively in Europe?'
+  url: https://www.apteligent.com/2016/02/eu-us-data-privacy-is-it-time-to-consider-keeping-your-eu-customer-data-exclusively-in-europe/
+  domain: www.apteligent.com
+  image: ""
 - curated_id: 6888e8f7ce54179f9bf9a785a238cfb5
   item_date: "2016-02-05 00:00:00"
   title: 'EU-US Data Privacy: Is it time to consider keeping your EU customer data
@@ -1729,13 +1736,6 @@
   url: https://www.schneier.com/blog/archives/2016/02/tracking_anonym.html
   domain: www.schneier.com
   image: ""
-- curated_id: 7c0f4812dddb517bd65268fe5fa8c9f2
-  item_date: "2016-02-05 00:00:00"
-  title: 'EU-US Data Privacy: Is it time to consider keeping your EU customer data
-    exclusively in Europe?'
-  url: https://www.apteligent.com/2016/02/eu-us-data-privacy-is-it-time-to-consider-keeping-your-eu-customer-data-exclusively-in-europe/
-  domain: www.apteligent.com
-  image: ""
 - curated_id: dfe7516964a65b2ecc878f35b2ff10ab
   item_date: "2016-02-06 09:53:31"
   title: From Safe Harbor to Privacy Shield
@@ -1748,17 +1748,17 @@
   url: https://dzone.com/articles/the-perception-of-privacy-and-security-on-the-inte
   domain: dzone.com
   image: ""
-- curated_id: 1391c58092c6fa7af10bb0706666dd9e
-  item_date: "2016-02-10 00:00:00"
-  title: ATT Does Not Care about Your Privacy
-  url: https://www.schneier.com/blog/archives/2016/02/att_does_not_ca.html
-  domain: www.schneier.com
-  image: ""
 - curated_id: 385c860e59f19dd924a4493a8ed51518
   item_date: "2016-02-10 00:00:00"
   title: Google starts scrubbing to soothe European privacy regulators
   url: http://disruptiveviews.com/google-starts-scrubbing-to-soothe-european-privacy-regulators/
   domain: disruptiveviews.com
+  image: ""
+- curated_id: 1391c58092c6fa7af10bb0706666dd9e
+  item_date: "2016-02-10 00:00:00"
+  title: ATT Does Not Care about Your Privacy
+  url: https://www.schneier.com/blog/archives/2016/02/att_does_not_ca.html
+  domain: www.schneier.com
   image: ""
 - curated_id: bc32a75dd7d22e68adbd70980cbcf044
   item_date: "2016-02-11 00:00:00"
@@ -1766,16 +1766,16 @@
   url: https://www.schneier.com/blog/archives/2016/02/make_privacy_a_.html
   domain: www.schneier.com
   image: ""
-- curated_id: 90003ec1a8e35a63fa3dde59d562f123
-  item_date: "2016-02-12 00:00:00"
-  title: Sensitive California School Students Information to be Released
-  url: https://www.privacyrights.org/node/62056
-  domain: www.privacyrights.org
-  image: ""
 - curated_id: cfbb7bda2504a69ca441378805f28f32
   item_date: "2016-02-12 00:00:00"
   title: California Student Records to be Disclosed in Ongoing Lawsuit
   url: https://www.privacyrights.org/California-student-records-disclosed
+  domain: www.privacyrights.org
+  image: ""
+- curated_id: 90003ec1a8e35a63fa3dde59d562f123
+  item_date: "2016-02-12 00:00:00"
+  title: Sensitive California School Students Information to be Released
+  url: https://www.privacyrights.org/node/62056
   domain: www.privacyrights.org
   image: ""
 - curated_id: 593c79b5131be6a3ec62f5934dd32a49
@@ -1790,11 +1790,17 @@
   url: http://www.nytimes.com/2016/02/18/us/politics/whether-phones-should-lock-out-the-fbi.html
   domain: www.nytimes.com
   image: ""
-- curated_id: 3ef606688b9e67f45921859d3827cf99
+- curated_id: 2eb23902f70f21aeeb781a254df2e092
   item_date: "2016-02-18 00:00:00"
-  title: Public Split Between Concern Over Terrorism and Privacy
-  url: http://www.nytimes.com/2016/02/19/technology/public-split-between-concern-over-terrorism-and-privacy.html
-  domain: www.nytimes.com
+  title: Are There API Terms of Use With Specific Language for Privacy and Security?
+  url: http://www.programmableweb.com/news/are-there-api-terms-use-specific-language-privacy-and-security/analysis/2016/02/18
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 5e3bae114764bd5d57d02b383c4aa8f8
+  item_date: "2016-02-18 00:00:00"
+  title: Law expert applauds Apple for protecting our privacy
+  url: http://www.futurity.org/apple-law-privacy-1108092-2/
+  domain: www.futurity.org
   image: ""
 - curated_id: e7160d8090464c37364c4c5c7650e8ee
   item_date: "2016-02-18 00:00:00"
@@ -1803,23 +1809,17 @@
   url: http://www.programmableweb.com/news/must-api-developers-be-certified-privacy-or-security-standards-your-organization/analysis/2016/02/18
   domain: www.programmableweb.com
   image: ""
+- curated_id: 3ef606688b9e67f45921859d3827cf99
+  item_date: "2016-02-18 00:00:00"
+  title: Public Split Between Concern Over Terrorism and Privacy
+  url: http://www.nytimes.com/2016/02/19/technology/public-split-between-concern-over-terrorism-and-privacy.html
+  domain: www.nytimes.com
+  image: ""
 - curated_id: 6993a7be426f6747e61a01a0a743b9b7
   item_date: "2016-02-18 00:00:00"
   title: How Tim Cook Became a Bulwark for Digital Privacy
   url: http://www.nytimes.com/2016/02/19/technology/how-tim-cook-became-a-bulwark-for-digital-privacy.html
   domain: www.nytimes.com
-  image: ""
-- curated_id: 5e3bae114764bd5d57d02b383c4aa8f8
-  item_date: "2016-02-18 00:00:00"
-  title: Law expert applauds Apple for protecting our privacy
-  url: http://www.futurity.org/apple-law-privacy-1108092-2/
-  domain: www.futurity.org
-  image: ""
-- curated_id: 2eb23902f70f21aeeb781a254df2e092
-  item_date: "2016-02-18 00:00:00"
-  title: Are There API Terms of Use With Specific Language for Privacy and Security?
-  url: http://www.programmableweb.com/news/are-there-api-terms-use-specific-language-privacy-and-security/analysis/2016/02/18
-  domain: www.programmableweb.com
   image: ""
 - curated_id: b6641704ed96a65038617cfe563961b3
   item_date: "2016-02-19 00:00:00"
@@ -1833,17 +1833,17 @@
   url: http://www.nytimes.com/2016/02/21/technology/apple-sees-value-in-privacy-vow.html
   domain: www.nytimes.com
   image: ""
-- curated_id: c31013aa0ebbcb3beabe2650d7514e7e
-  item_date: "2016-02-21 00:00:00"
-  title: Announcing the Twitter Trust  Safety Council
-  url: https://blog.twitter.com/2016/announcing-the-twitter-trust-safety-council
-  domain: blog.twitter.com
-  image: ""
 - curated_id: 524465e8037f1de3946eb01c843fe814
   item_date: "2016-02-21 00:00:00"
   title: Privacy fears causing consumer trust in mobile services to plunge
   url: http://venturebeat.com/2016/02/21/privacy-fears-causing-consumer-trust-in-mobile-services-to-plunge/
   domain: venturebeat.com
+  image: ""
+- curated_id: c31013aa0ebbcb3beabe2650d7514e7e
+  item_date: "2016-02-21 00:00:00"
+  title: Announcing the Twitter Trust  Safety Council
+  url: https://blog.twitter.com/2016/announcing-the-twitter-trust-safety-council
+  domain: blog.twitter.com
   image: ""
 - curated_id: ea8241698392604d45fdb21343b2c884
   item_date: "2016-02-23 00:00:00"
@@ -1863,17 +1863,17 @@
   url: https://www.schneier.com/blog/archives/2016/02/research_on_bal.html
   domain: www.schneier.com
   image: ""
-- curated_id: 83d48e91b5c8c1ef9f13e56604b9f798
-  item_date: "2016-02-25 00:00:00"
-  title: Time to reconsider your data privacy policy
-  url: http://blogs.ca.com/2016/02/25/time-reconsider-data-privacy-policy/
-  domain: blogs.ca.com
-  image: ""
 - curated_id: 1c827912e3dc454aec94131fb60b0b66
   item_date: "2016-02-25 00:00:00"
   title: F.B.I. Chief Presses Congress to Act on Data Privacy
   url: http://www.nytimes.com/2016/02/26/technology/fbi-chief-presses-congress-to-act-on-data-privacy.html
   domain: www.nytimes.com
+  image: ""
+- curated_id: 83d48e91b5c8c1ef9f13e56604b9f798
+  item_date: "2016-02-25 00:00:00"
+  title: Time to reconsider your data privacy policy
+  url: http://blogs.ca.com/2016/02/25/time-reconsider-data-privacy-policy/
+  domain: blogs.ca.com
   image: ""
 - curated_id: 877141cc12519f51b0586e88e39a2ec3
   item_date: "2016-02-28 00:00:00"
@@ -1881,17 +1881,17 @@
   url: http://www.nytimes.com/2016/02/29/technology/obamas-effort-on-consumer-privacy-falls-short-critics-say.html
   domain: www.nytimes.com
   image: ""
-- curated_id: 20c5716e9e0d67d1b43c26bb3f6c6d88
-  item_date: "2016-03-02 00:00:00"
-  title: Privacy ? what could non-compliance cost your business?
-  url: http://wallblog.co.uk/2016/03/03/privacy-what-could-non-compliance-cost-your-business/
-  domain: wallblog.co.uk
-  image: ""
 - curated_id: 498d697517f6b347431c969a7324c81b
   item_date: "2016-03-02 00:00:00"
   title: 'Bits: Debate Over Privacy Finds Little Agreement'
   url: http://www.nytimes.com/2016/03/03/technology/debate-over-privacy-finds-little-agreement.html
   domain: www.nytimes.com
+  image: ""
+- curated_id: 20c5716e9e0d67d1b43c26bb3f6c6d88
+  item_date: "2016-03-02 00:00:00"
+  title: Privacy ? what could non-compliance cost your business?
+  url: http://wallblog.co.uk/2016/03/03/privacy-what-could-non-compliance-cost-your-business/
+  domain: wallblog.co.uk
   image: ""
 - curated_id: 980a3a4be1a0466949b5a6cc61c68aa1
   item_date: "2016-03-07 00:00:00"
@@ -1911,11 +1911,24 @@
   url: https://www.privacyrights.org/node/62080
   domain: www.privacyrights.org
   image: ""
-- curated_id: 4a1c940277760b07b6d7f62071c1a94f
+- curated_id: 281bbff0126e1d1a13c706276999ed3d
   item_date: "2016-03-10 00:00:00"
-  title: F.C.C. Proposes Privacy Rules for Internet Providers
-  url: http://www.nytimes.com/2016/03/11/technology/fcc-proposes-privacy-rules-for-internet-providers.html
-  domain: www.nytimes.com
+  title: What people think about before deciding to share personal information with
+    the government
+  url: https://18f.gsa.gov/2016/03/10/what-people-think-about-before-sharing-personal-information/
+  domain: 18f.gsa.gov
+  image: ""
+- curated_id: 3a3c89d593b43c809f225ea0a3e745ac
+  item_date: "2016-03-10 00:00:00"
+  title: 'Its Your Data: Empowering Consumers to Protect Online Privacy'
+  url: http://www.huffingtonpost.com/tom-wheeler/its-your-data-protect-online-privacy_b_9428484.html
+  domain: www.huffingtonpost.com
+  image: ""
+- curated_id: 2400393b9b2a7e34afc1c0d924f9eed5
+  item_date: "2016-03-10 00:00:00"
+  title: The Government Is Taking A Huge Step On Online Privacy
+  url: http://www.huffingtonpost.com/entry/fcc-unveils-online-privacy-plan_us_56e1ada1e4b065e2e3d50b45
+  domain: www.huffingtonpost.com
   image: ""
 - curated_id: c0a95a46896da1fffb58c77a369dabbb
   item_date: "2016-03-10 00:00:00"
@@ -1924,36 +1937,17 @@
   url: http://venturebeat.com/2016/03/10/fcc-wont-extend-privacy-proposal-for-broadband-providers-to-twitter-google-or-facebook/
   domain: venturebeat.com
   image: ""
-- curated_id: 3a3c89d593b43c809f225ea0a3e745ac
+- curated_id: 4a1c940277760b07b6d7f62071c1a94f
   item_date: "2016-03-10 00:00:00"
-  title: 'Its Your Data: Empowering Consumers to Protect Online Privacy'
-  url: http://www.huffingtonpost.com/tom-wheeler/its-your-data-protect-online-privacy_b_9428484.html
-  domain: www.huffingtonpost.com
-  image: ""
-- curated_id: 281bbff0126e1d1a13c706276999ed3d
-  item_date: "2016-03-10 00:00:00"
-  title: What people think about before deciding to share personal information with
-    the government
-  url: https://18f.gsa.gov/2016/03/10/what-people-think-about-before-sharing-personal-information/
-  domain: 18f.gsa.gov
-  image: ""
-- curated_id: 2400393b9b2a7e34afc1c0d924f9eed5
-  item_date: "2016-03-10 00:00:00"
-  title: The Government Is Taking A Huge Step On Online Privacy
-  url: http://www.huffingtonpost.com/entry/fcc-unveils-online-privacy-plan_us_56e1ada1e4b065e2e3d50b45
-  domain: www.huffingtonpost.com
+  title: F.C.C. Proposes Privacy Rules for Internet Providers
+  url: http://www.nytimes.com/2016/03/11/technology/fcc-proposes-privacy-rules-for-internet-providers.html
+  domain: www.nytimes.com
   image: ""
 - curated_id: 069082db4fd0acbfec694a1b158b32d4
   item_date: "2016-03-10 10:25:10"
   title: Privacy, Security, and Encryption
   url: https://www.graphite.org/privacy/blog/privacy-security-encryption
   domain: www.graphite.org
-  image: ""
-- curated_id: 652fdd5735a585302974dbe48e4575dd
-  item_date: "2016-03-11 00:00:00"
-  title: US privacy bill does not bar data collection practices
-  url: http://disruptiveviews.com/us-privacy-bill-not-bar-data-collection-practices/
-  domain: disruptiveviews.com
   image: ""
 - curated_id: fa6c02acd8f47c5519aeed5f806dc297
   item_date: "2016-03-11 00:00:00"
@@ -1966,6 +1960,12 @@
   title: ""
   url: http://venturebeat.com/2016/03/11/u-s-attaches-hope-to-boost-digital-trade-overseas-despite-privacy-controversies/
   domain: venturebeat.com
+  image: ""
+- curated_id: 652fdd5735a585302974dbe48e4575dd
+  item_date: "2016-03-11 00:00:00"
+  title: US privacy bill does not bar data collection practices
+  url: http://disruptiveviews.com/us-privacy-bill-not-bar-data-collection-practices/
+  domain: disruptiveviews.com
   image: ""
 - curated_id: 3fc208338a407f5e5b1a817ecfe5924d
   item_date: "2016-03-11 11:26:18"
@@ -2029,17 +2029,17 @@
   url: http://waag.org/en/blog/kids-and-online-privacy
   domain: waag.org
   image: ""
-- curated_id: 87bc9876445e3f2f33111df69b8328b8
-  item_date: "2016-04-04 00:00:00"
-  title: 'Interview: In Conversation with Bing on Privacy and Social Data'
-  url: https://www.brandwatch.com/2016/04/interview-in-conversation-with-bing-on-privacy-and-social-data/
-  domain: www.brandwatch.com
-  image: ""
 - curated_id: d55745d79931c5722855f308c3854251
   item_date: "2016-04-04 00:00:00"
   title: 'Ghost Riders: Combatting Account Take Overs'
   url: https://medium.com/@UberPubPolicy/ghost-riders-combatting-account-take-overs-d3d48b84dc48
   domain: medium.com
+  image: ""
+- curated_id: 87bc9876445e3f2f33111df69b8328b8
+  item_date: "2016-04-04 00:00:00"
+  title: 'Interview: In Conversation with Bing on Privacy and Social Data'
+  url: https://www.brandwatch.com/2016/04/interview-in-conversation-with-bing-on-privacy-and-social-data/
+  domain: www.brandwatch.com
   image: ""
 - curated_id: fdb32106680c45f7cee21d5952e565f7
   item_date: "2016-04-05 05:47:16"
@@ -2059,17 +2059,17 @@
   url: http://thenextweb.com/insider/2016/04/08/proposed-senate-bill-would-kill-online-privacy-as-we-know-it/
   domain: thenextweb.com
   image: ""
-- curated_id: c7969e220cd0382a247579c0e2cfaabe
-  item_date: "2016-04-13 00:00:00"
-  title: PlaceIQ Joins NAI to Tackle Issues Of Location Data And Consumer Privacy
-  url: http://placeiq.com/2016/04/13/placeiq-joins-nai-to-tackle-issues-of-location-data-and-consumer-privacy/
-  domain: placeiq.com
-  image: ""
 - curated_id: 75bc541870c41b131cf0ab62e1f06911
   item_date: "2016-04-13 00:00:00"
   title: 'Big data and privacy: Getting the balance right'
   url: http://thenextweb.com/digital-life/2016/04/13/big-data-analytics-privacy-getting-balance-right/
   domain: thenextweb.com
+  image: ""
+- curated_id: c7969e220cd0382a247579c0e2cfaabe
+  item_date: "2016-04-13 00:00:00"
+  title: PlaceIQ Joins NAI to Tackle Issues Of Location Data And Consumer Privacy
+  url: http://placeiq.com/2016/04/13/placeiq-joins-nai-to-tackle-issues-of-location-data-and-consumer-privacy/
+  domain: placeiq.com
   image: ""
 - curated_id: 32ab767bba3b4893c49515313567d88c
   item_date: "2016-04-14 00:00:00"
@@ -2078,17 +2078,17 @@
   url: https://developers.googleblog.com/2016/04/growing-eddystone-with-ephemeral-identifiers.html
   domain: developers.googleblog.com
   image: ""
-- curated_id: 8289e28d3dd8f0543a6ea5969cd48580
-  item_date: "2016-04-18 00:00:00"
-  title: Prepaid Cards and Your Privacy
-  url: https://www.privacyrights.org/prepaid-cards-privacy
-  domain: www.privacyrights.org
-  image: ""
 - curated_id: 2f4004d82e991be79bf83b408e6bd455
   item_date: "2016-04-18 00:00:00"
   title: Google?s Surprising Role as Privacy Watchdog in Europe
   url: http://www.nytimes.com/2016/04/19/technology/google-europe-privacy-watchdog.html
   domain: www.nytimes.com
+  image: ""
+- curated_id: 8289e28d3dd8f0543a6ea5969cd48580
+  item_date: "2016-04-18 00:00:00"
+  title: Prepaid Cards and Your Privacy
+  url: https://www.privacyrights.org/prepaid-cards-privacy
+  domain: www.privacyrights.org
   image: ""
 - curated_id: d56e5c3b717fab6ea188f1cee7435922
   item_date: "2016-04-19 00:00:00"
@@ -2134,17 +2134,17 @@
   url: http://fusion.net/story/293157/waze-hack/
   domain: fusion.net
   image: ""
-- curated_id: c5acef7e45f55b8c7d97fa3ab42268fb
-  item_date: "2016-04-28 00:00:00"
-  title: 'Identity Theft: The Risky Side of Big Data'
-  url: https://dzone.com/articles/identity-theft-the-risky-side-of-big-data
-  domain: dzone.com
-  image: ""
 - curated_id: bdb93cb5f6803eaa9301f9b01e4a0f99
   item_date: "2016-04-28 00:00:00"
   title: Facebook Sees Spike In Government Data Requests
   url: http://www.huffingtonpost.com/entry/facebook-government-data-request_us_57225d9fe4b0f309baf03766
   domain: www.huffingtonpost.com
+  image: ""
+- curated_id: c5acef7e45f55b8c7d97fa3ab42268fb
+  item_date: "2016-04-28 00:00:00"
+  title: 'Identity Theft: The Risky Side of Big Data'
+  url: https://dzone.com/articles/identity-theft-the-risky-side-of-big-data
+  domain: dzone.com
   image: ""
 - curated_id: 4ba90f04617e4ab7c979ad224f01d956
   item_date: "2016-04-28 09:30:07"
@@ -2200,23 +2200,30 @@
   url: https://www.tune.com/blog/what-1-3b-app-installs-by-150m-people-told-us-about-privacy-and-adblocking/
   domain: www.tune.com
   image: ""
-- curated_id: dbe194b0a24312261964f6caef99f110
-  item_date: "2016-05-13 00:00:00"
-  title: 'European Court advisor: Dynamic IP addresses are personal data'
-  url: http://www.zdnet.com/article/european-court-advisor-dynamic-ip-addresses-are-personal-data/
-  domain: www.zdnet.com
-  image: ""
 - curated_id: d548529950721ea89f23cb4d7c177acb
   item_date: "2016-05-13 00:00:00"
   title: Security vs privacy ? mixed messages for tech companies this week
   url: http://disruptiveviews.com/security-vs-privacy-mixed-messages-tech-companies-week/
   domain: disruptiveviews.com
   image: ""
+- curated_id: dbe194b0a24312261964f6caef99f110
+  item_date: "2016-05-13 00:00:00"
+  title: 'European Court advisor: Dynamic IP addresses are personal data'
+  url: http://www.zdnet.com/article/european-court-advisor-dynamic-ip-addresses-are-personal-data/
+  domain: www.zdnet.com
+  image: ""
 - curated_id: d1cfdf48bd7c20b302976fc41a175d42
   item_date: "2016-05-18 00:00:00"
   title: 'Shields Up!: Getting Ready for the Privacy Shield'
   url: http://www.janrain.com/blog/shields-up-getting-ready-for-the-privacy-shield/
   domain: www.janrain.com
+  image: ""
+- curated_id: a0b24219023b14bc35fed8d7e217e7dd
+  item_date: "2016-05-19 00:00:00"
+  title: 'Security and risk professionals: Team up with your marketing peers to design
+    your customers privacy experiences'
+  url: http://blogs.forrester.com/enza_iannopollo/16-05-19-security_and_risk_professionals_team_up_with_your_marketing_peers_to_design_your_customers_privacy
+  domain: blogs.forrester.com
   image: ""
 - curated_id: e69228ff9d82ff8ba9094f5b52cbb8d5
   item_date: "2016-05-19 00:00:00"
@@ -2230,24 +2237,17 @@
   url: http://www.nytimes.com/2016/05/20/technology/google-appeals-french-privacy-ruling.html
   domain: www.nytimes.com
   image: ""
-- curated_id: a0b24219023b14bc35fed8d7e217e7dd
-  item_date: "2016-05-19 00:00:00"
-  title: 'Security and risk professionals: Team up with your marketing peers to design
-    your customers privacy experiences'
-  url: http://blogs.forrester.com/enza_iannopollo/16-05-19-security_and_risk_professionals_team_up_with_your_marketing_peers_to_design_your_customers_privacy
-  domain: blogs.forrester.com
+- curated_id: 20d012e3168c18b66eb27d24193b3289
+  item_date: "2016-05-20 00:00:00"
+  title: An easier way to share Tweets privately
+  url: https://blog.twitter.com/2016/an-easier-way-to-share-tweets-privately
+  domain: blog.twitter.com
   image: ""
 - curated_id: c54d679335a914cd63eca5a66023d01f
   item_date: "2016-05-20 00:00:00"
   title: Evolving the Safe Browsing API
   url: https://security.googleblog.com/2016/05/evolving-safe-browsing-api.html
   domain: security.googleblog.com
-  image: ""
-- curated_id: 20d012e3168c18b66eb27d24193b3289
-  item_date: "2016-05-20 00:00:00"
-  title: An easier way to share Tweets privately
-  url: https://blog.twitter.com/2016/an-easier-way-to-share-tweets-privately
-  domain: blog.twitter.com
   image: ""
 - curated_id: 4d37480705d8eee3736bfbd39478037c
   item_date: "2016-05-25 00:00:00"
@@ -2273,18 +2273,18 @@
   url: https://www.schneier.com/blog/archives/2016/06/apples_differen.html
   domain: www.schneier.com
   image: ""
+- curated_id: 0f7cd5ceec057da6d1bb13321cda0154
+  item_date: "2016-06-28 00:00:00"
+  title: Facebook Using Physical Location to Suggest Friends
+  url: https://www.schneier.com/blog/archives/2016/06/facebook_using_.html
+  domain: www.schneier.com
+  image: ""
 - curated_id: 9036b65f43e89b8a3d026395d08aaeee
   item_date: "2016-06-28 00:00:00"
   title: Facebook Backtracks After Telling Reporter It Suggests Friends Based On Phone
     Location Data
   url: http://www.huffingtonpost.com/entry/facebook-backtracks-after-telling-reporter-it-suggests-friends-based-on-phone-location-data_us_5772bb4ae4b0eb90355c772f
   domain: www.huffingtonpost.com
-  image: ""
-- curated_id: 0f7cd5ceec057da6d1bb13321cda0154
-  item_date: "2016-06-28 00:00:00"
-  title: Facebook Using Physical Location to Suggest Friends
-  url: https://www.schneier.com/blog/archives/2016/06/facebook_using_.html
-  domain: www.schneier.com
   image: ""
 - curated_id: ca9b0ef23586b0b8bd52e6bf704ce6c9
   item_date: "2016-06-29 11:27:10"
@@ -2317,17 +2317,11 @@
   url: https://twitter.com/CloudMine/statuses/752574813030473728
   domain: twitter.com
   image: ""
-- curated_id: fd8a5935dabd1808c9085bf25d20db01
+- curated_id: b9f2073ed59607df116d7028088ecf0a
   item_date: "2016-07-12 00:00:00"
-  title: ""
-  url: https://www.wired.com/2016/07/update-pokemon-go-app-now-fix-privacy-mess/
+  title: Privacy Shield Will Let US Tech Giants Grab Europeans? Data
+  url: http://www.wired.com/2016/07/privacy-shield-will-let-us-tech-giants-grab-europeans-data/
   domain: www.wired.com
-  image: ""
-- curated_id: 456532337c81fe2b7985fdfedcf22c36
-  item_date: "2016-07-12 00:00:00"
-  title: 'MIT Thinks It Can One-Up TOR With New Anonymity Network: Riffle'
-  url: https://hackaday.com/2016/07/12/mit-thinks-it-can-one-up-tor-with-new-anonymity-network-riffle/
-  domain: hackaday.com
   image: ""
 - curated_id: e87d29d56e1a7a2a7480cac0d4e11327
   item_date: "2016-07-12 00:00:00"
@@ -2335,10 +2329,16 @@
   url: https://techcrunch.com/2016/07/12/pokemon-go-update-addresses-privacy-concerns/
   domain: techcrunch.com
   image: ""
-- curated_id: b9f2073ed59607df116d7028088ecf0a
+- curated_id: 456532337c81fe2b7985fdfedcf22c36
   item_date: "2016-07-12 00:00:00"
-  title: Privacy Shield Will Let US Tech Giants Grab Europeans? Data
-  url: http://www.wired.com/2016/07/privacy-shield-will-let-us-tech-giants-grab-europeans-data/
+  title: 'MIT Thinks It Can One-Up TOR With New Anonymity Network: Riffle'
+  url: https://hackaday.com/2016/07/12/mit-thinks-it-can-one-up-tor-with-new-anonymity-network-riffle/
+  domain: hackaday.com
+  image: ""
+- curated_id: fd8a5935dabd1808c9085bf25d20db01
+  item_date: "2016-07-12 00:00:00"
+  title: ""
+  url: https://www.wired.com/2016/07/update-pokemon-go-app-now-fix-privacy-mess/
   domain: www.wired.com
   image: ""
 - curated_id: 4f0aced0dd29b6d79a2fcd3cdb19fece
@@ -2386,22 +2386,16 @@
   url: https://www.eff.org/deeplinks/2016/07/new-tool-help-notify-users-when-their-content-taken-offline
   domain: www.eff.org
   image: ""
-- curated_id: 2b314f8bf049b441dbccf7d35f7fb1c2
-  item_date: "2016-07-29 00:00:00"
-  title: Research shows deleted WhatsApp messages aren?t actually deleted
-  url: https://techcrunch.com/2016/07/29/research-shows-deleted-whatsapp-messages-arent-actually-deleted/
-  domain: techcrunch.com
-  image: ""
 - curated_id: 1fae87524d659f0764a93b9679e7baad
   item_date: "2016-07-29 00:00:00"
   title: Our data has value ? the future of privacy Part II, with Doc Searls
   url: http://disruptiveviews.com/our-data-has-value-the-future-of-privacy-part-ii-with-doc-searls/
   domain: disruptiveviews.com
   image: ""
-- curated_id: 75c48d277d5ad42adb260c48dc9ed749
-  item_date: "2016-07-30 00:00:00"
-  title: Serious privacy flaws discovered in Glow fertility tracker app
-  url: https://techcrunch.com/2016/07/30/serious-privacy-flaws-discovered-in-glow-fertility-tracker-app/
+- curated_id: 2b314f8bf049b441dbccf7d35f7fb1c2
+  item_date: "2016-07-29 00:00:00"
+  title: Research shows deleted WhatsApp messages aren?t actually deleted
+  url: https://techcrunch.com/2016/07/29/research-shows-deleted-whatsapp-messages-arent-actually-deleted/
   domain: techcrunch.com
   image: ""
 - curated_id: 61f4e6588731cbac2904219f223e0756
@@ -2410,6 +2404,12 @@
     (FB)
   url: http://www.businessinsider.com/security-researcher-jonathan-zdziarski-has-found-that-whatsapp-isnt-properly-deleting-messages-2016-7
   domain: www.businessinsider.com
+  image: ""
+- curated_id: 75c48d277d5ad42adb260c48dc9ed749
+  item_date: "2016-07-30 00:00:00"
+  title: Serious privacy flaws discovered in Glow fertility tracker app
+  url: https://techcrunch.com/2016/07/30/serious-privacy-flaws-discovered-in-glow-fertility-tracker-app/
+  domain: techcrunch.com
   image: ""
 - curated_id: 0d39d8fb2d2036ed8f202198ce4b4a0b
   item_date: "2016-07-31 00:00:00"
@@ -2423,17 +2423,17 @@
   url: https://www.aclu.org/blog/free-future/why-broadband-carriers-are-menace-privacy
   domain: www.aclu.org
   image: ""
-- curated_id: 4d32e0d784f6dda9adf418aab7d58b29
-  item_date: "2016-08-01 00:00:00"
-  title: Your phone battery is leaking details about you
-  url: http://www.alphr.com/mobile-phones/1004067/your-phone-battery-is-leaking-details-about-you
-  domain: www.alphr.com
-  image: ""
 - curated_id: 6b7c9c2d6549dce302cbf2ca5d809914
   item_date: "2016-08-01 00:00:00"
   title: EU-US Privacy Shield open for sign ups from today
   url: https://techcrunch.com/2016/08/01/eu-us-privacy-shield-open-for-sign-ups-from-today/
   domain: techcrunch.com
+  image: ""
+- curated_id: 4d32e0d784f6dda9adf418aab7d58b29
+  item_date: "2016-08-01 00:00:00"
+  title: Your phone battery is leaking details about you
+  url: http://www.alphr.com/mobile-phones/1004067/your-phone-battery-is-leaking-details-about-you
+  domain: www.alphr.com
   image: ""
 - curated_id: 8486e585f7d389839b8e7e95d5021730
   item_date: "2016-08-01 13:45:01"
@@ -2441,6 +2441,18 @@
     test results before it is stored: https://t.co/HRfQkwoz9b'
   url: https://twitter.com/Runscope/statuses/760214776358121472
   domain: twitter.com
+  image: ""
+- curated_id: ddf616af418f621d168ca241b38a0e41
+  item_date: "2016-08-02 00:00:00"
+  title: 'Customer Update: Amazon Web Services and the EU-US Privacy Shield'
+  url: https://blogs.aws.amazon.com/security/post/Tx154OKLVWMHKVW/Customer-Update-Amazon-Web-Services-and-the-EU-US-Privacy-Shield
+  domain: blogs.aws.amazon.com
+  image: ""
+- curated_id: 1e36b2057c81d527c82a2b929a238bbf
+  item_date: "2016-08-02 00:00:00"
+  title: Privacy Shield certifications begin trickling in
+  url: http://www.pcworld.com/article/3103426/privacy-shield-certifications-begin-trickling-in.html#tk.rss_all
+  domain: www.pcworld.com
   image: ""
 - curated_id: 92ee498b25d32a4118fe620397358328
   item_date: "2016-08-02 00:00:00"
@@ -2454,17 +2466,11 @@
   url: http://www.pcmag.com/news/346689/millions-of-yahoo-accounts-pop-up-for-sale-on-the-dark-web
   domain: www.pcmag.com
   image: ""
-- curated_id: 1e36b2057c81d527c82a2b929a238bbf
-  item_date: "2016-08-02 00:00:00"
-  title: Privacy Shield certifications begin trickling in
-  url: http://www.pcworld.com/article/3103426/privacy-shield-certifications-begin-trickling-in.html#tk.rss_all
-  domain: www.pcworld.com
-  image: ""
-- curated_id: ddf616af418f621d168ca241b38a0e41
-  item_date: "2016-08-02 00:00:00"
-  title: 'Customer Update: Amazon Web Services and the EU-US Privacy Shield'
-  url: https://blogs.aws.amazon.com/security/post/Tx154OKLVWMHKVW/Customer-Update-Amazon-Web-Services-and-the-EU-US-Privacy-Shield
-  domain: blogs.aws.amazon.com
+- curated_id: 0878201b12ea772d270976cf2d6e6a93
+  item_date: "2016-08-03 00:00:00"
+  title: 'Comcast: ISPs should be able to sell your Web history to advertisers'
+  url: http://thenextweb.com/insider/2016/08/03/comcast-isps-should-be-able-to-sell-your-web-history-to-advertisers/
+  domain: thenextweb.com
   image: ""
 - curated_id: 7bfa58d7193706babb5e97533512591f
   item_date: "2016-08-03 00:00:00"
@@ -2479,12 +2485,6 @@
   url: http://www.reuters.com/article/us-match-group-tinder-eu-data-protection-idUSKCN10E1RR
   domain: www.reuters.com
   image: ""
-- curated_id: 0878201b12ea772d270976cf2d6e6a93
-  item_date: "2016-08-03 00:00:00"
-  title: 'Comcast: ISPs should be able to sell your Web history to advertisers'
-  url: http://thenextweb.com/insider/2016/08/03/comcast-isps-should-be-able-to-sell-your-web-history-to-advertisers/
-  domain: thenextweb.com
-  image: ""
 - curated_id: 6b51867f7e43b81ccd6f59f626e9cb03
   item_date: "2016-08-03 13:23:11"
   title: 'Online tracking: A 1-million-site measurement and analysis Draft: July 11th,
@@ -2492,17 +2492,11 @@
   url: http://randomwalker.info/publications/OpenWPM_1_million_site_tracking_measurement.pdf
   domain: randomwalker.info
   image: ""
-- curated_id: a7498837503e6976b2962691b82105ed
+- curated_id: 5a4b5bbbe4a7120e403c71c277271346
   item_date: "2016-08-04 00:00:00"
-  title: Can companies ever keep our data safe?
-  url: http://www.bbc.co.uk/news/technology-36972499
+  title: Tinder violates privacy rules, claims Belgian MEP
+  url: http://www.bbc.co.uk/news/technology-36976462
   domain: www.bbc.co.uk
-  image: ""
-- curated_id: 6dc6c250fffcd5ab105ecd1828f0a461
-  item_date: "2016-08-04 00:00:00"
-  title: Tinder swipes too much personal information, says E.U. lawmaker
-  url: http://www.pcworld.com/article/3104504/security/tinder-swipes-too-much-personal-information-says-eu-lawmaker.html#tk.rss_all
-  domain: www.pcworld.com
   image: ""
 - curated_id: 5354009a61fd6d6da470d0873dc74eaa
   item_date: "2016-08-04 00:00:00"
@@ -2510,11 +2504,23 @@
   url: http://motherboard.vice.com/read/comcasts-defense-of-pay-for-privacy-alarms-consumer-advocates
   domain: motherboard.vice.com
   image: ""
-- curated_id: 5a4b5bbbe4a7120e403c71c277271346
+- curated_id: 6dc6c250fffcd5ab105ecd1828f0a461
   item_date: "2016-08-04 00:00:00"
-  title: Tinder violates privacy rules, claims Belgian MEP
-  url: http://www.bbc.co.uk/news/technology-36976462
+  title: Tinder swipes too much personal information, says E.U. lawmaker
+  url: http://www.pcworld.com/article/3104504/security/tinder-swipes-too-much-personal-information-says-eu-lawmaker.html#tk.rss_all
+  domain: www.pcworld.com
+  image: ""
+- curated_id: a7498837503e6976b2962691b82105ed
+  item_date: "2016-08-04 00:00:00"
+  title: Can companies ever keep our data safe?
+  url: http://www.bbc.co.uk/news/technology-36972499
   domain: www.bbc.co.uk
+  image: ""
+- curated_id: b48ac4228c4da9ea8166e10d42392be3
+  item_date: "2016-08-05 00:00:00"
+  title: EU digital privacy law should extend to WhatsApp, Gmail, Skype says public
+  url: http://www.itsecurityguru.org/2016/08/05/eu-digital-privacy-law-should-extend-to-whatsapp-gmail-skype-says-public/
+  domain: www.itsecurityguru.org
   image: ""
 - curated_id: ff71a2972d0a01a4e66ed2668ce37ca6
   item_date: "2016-08-05 00:00:00"
@@ -2522,12 +2528,6 @@
     and Security'
   url: http://www.fabbaloo.com/blog/2016/8/5/hacking-the-tsas-master-keys-3d-printing-adds-a-new-dimension-to-privacy-and-security
   domain: www.fabbaloo.com
-  image: ""
-- curated_id: b48ac4228c4da9ea8166e10d42392be3
-  item_date: "2016-08-05 00:00:00"
-  title: EU digital privacy law should extend to WhatsApp, Gmail, Skype says public
-  url: http://www.itsecurityguru.org/2016/08/05/eu-digital-privacy-law-should-extend-to-whatsapp-gmail-skype-says-public/
-  domain: www.itsecurityguru.org
   image: ""
 - curated_id: 457de41b68058c6b43b604ed2261ef60
   item_date: "2016-08-08 00:00:00"
@@ -2541,12 +2541,6 @@
   url: https://www.sott.net/article/324878-History-of-privacy-violations-dogs-Pokemon-Gos-CEO-John-Hanke
   domain: www.sott.net
   image: ""
-- curated_id: 69b523939e0561fe6ede77505bb78db8
-  item_date: "2016-08-12 00:00:00"
-  title: Is Your Sex Toy Phoning Home?
-  url: http://www.pcmag.com/news/346949/is-your-sex-toy-phoning-home
-  domain: www.pcmag.com
-  image: ""
 - curated_id: 36e2a97fe1283ee7a31b5323ac1bb14d
   item_date: "2016-08-12 00:00:00"
   title: 'The Tor Projects social contract: we will not backdoor Tor'
@@ -2559,17 +2553,23 @@
   url: https://www.aclu.org/blog/free-future/making-sure-revolution-gets-televised
   domain: www.aclu.org
   image: ""
-- curated_id: 0256a78698a60c7e200bdf8a0e342de9
-  item_date: "2016-08-15 00:00:00"
-  title: Ten Reasons to Implement the EU-U.S. Privacy Shield
-  url: http://www.truste.com/blog/2016/08/15/ten-reasons-implement-eu-u-s-privacy-shield/
-  domain: www.truste.com
+- curated_id: 69b523939e0561fe6ede77505bb78db8
+  item_date: "2016-08-12 00:00:00"
+  title: Is Your Sex Toy Phoning Home?
+  url: http://www.pcmag.com/news/346949/is-your-sex-toy-phoning-home
+  domain: www.pcmag.com
   image: ""
 - curated_id: e923f378b156b8f6662348a0e4947bac
   item_date: "2016-08-15 00:00:00"
   title: Array of Things Final Governance  Privacy Policies Released
   url: http://www.smartchicagocollaborative.org/array-of-things-final-governance-privacy-policies-released/
   domain: www.smartchicagocollaborative.org
+  image: ""
+- curated_id: 0256a78698a60c7e200bdf8a0e342de9
+  item_date: "2016-08-15 00:00:00"
+  title: Ten Reasons to Implement the EU-U.S. Privacy Shield
+  url: http://www.truste.com/blog/2016/08/15/ten-reasons-implement-eu-u-s-privacy-shield/
+  domain: www.truste.com
   image: ""
 - curated_id: ab35717025f425d714592de96bf0e558
   item_date: "2016-08-16 00:00:00"
@@ -2613,17 +2613,17 @@
   url: http://www.darkreading.com/endpoint/darknet-where-your-stolen-identity-goes-to-live/a/d-id/1326679
   domain: www.darkreading.com
   image: ""
-- curated_id: 3746d335e35892629b4eed9e32d8b0df
-  item_date: "2016-08-22 00:00:00"
-  title: EFF takes a deep dive into Windows 10s brutal privacy breaches
-  url: http://boingboing.net/2016/08/22/eff-takes-a-deep-dive-into-win.html
-  domain: boingboing.net
-  image: ""
 - curated_id: 6cf8099892b7133869f16257b82a6f2e
   item_date: "2016-08-22 00:00:00"
   title: "A Tor General Strike Wants to Shut Down the Tor Network for a Day\r\n"
   url: http://motherboard.vice.com/read/a-tor-general-strike-wants-to-shut-down-the-tor-network-for-a-day
   domain: motherboard.vice.com
+  image: ""
+- curated_id: 3746d335e35892629b4eed9e32d8b0df
+  item_date: "2016-08-22 00:00:00"
+  title: EFF takes a deep dive into Windows 10s brutal privacy breaches
+  url: http://boingboing.net/2016/08/22/eff-takes-a-deep-dive-into-win.html
+  domain: boingboing.net
   image: ""
 - curated_id: 34d6e744d756319c32597b545e1bda90
   item_date: "2016-08-23 00:00:00"
@@ -2644,6 +2644,31 @@
   url: http://boingboing.net/2016/08/25/whatsapp-wooed-users-with-priv.html
   domain: boingboing.net
   image: ""
+- curated_id: 22a712619e886beaa8624adb3bd60fdf
+  item_date: "2016-08-26 00:00:00"
+  title: 'WhatsApp + Facebook: When does the sharing end?'
+  url: https://www.abine.com/blog/2016/whatsapp-facebook-when-does-the-sharing-end/
+  domain: www.abine.com
+  image: ""
+- curated_id: cfeaa2b299dd9202b255c5ed0c382934
+  item_date: "2016-08-26 00:00:00"
+  title: Privacy Shield data transfer agreement now shelters 200 companies
+  url: http://www.pcworld.com/article/3112795/privacy-shield-data-transfer-agreement-now-shelters-200-companies.html#tk.rss_all
+  domain: www.pcworld.com
+  image: ""
+- curated_id: 1cab0ea5498321a2e91d9304c8d2b4be
+  item_date: "2016-08-26 00:00:00"
+  title: 'Ranking Digital Rights: Companies ranked on privacy and free expression
+    respond'
+  url: https://www.accessnow.org/transparency-update-companies-respond-rdrs-2015-corporate-accountability-index/
+  domain: www.accessnow.org
+  image: ""
+- curated_id: 34d24f4bb654886ec2b1a45c75d38007
+  item_date: "2016-08-26 00:00:00"
+  title: "Facebook?s WhatsApp Data Gambit Faces Federal Privacy Complaint\r\n"
+  url: http://motherboard.vice.com/read/whatsapp-facebook-privacy-complaint
+  domain: motherboard.vice.com
+  image: ""
 - curated_id: d45d530a9d5f134d178c8852b35c2859
   item_date: "2016-08-26 00:00:00"
   title: UK regulator to monitor WhatsApps data sharing with Facebook
@@ -2656,30 +2681,11 @@
   url: http://www.itsecurityguru.org/2016/08/26/firms-could-target-whatsapp-users-after-privacy-policy-change/
   domain: www.itsecurityguru.org
   image: ""
-- curated_id: 34d24f4bb654886ec2b1a45c75d38007
-  item_date: "2016-08-26 00:00:00"
-  title: "Facebook?s WhatsApp Data Gambit Faces Federal Privacy Complaint\r\n"
-  url: http://motherboard.vice.com/read/whatsapp-facebook-privacy-complaint
-  domain: motherboard.vice.com
-  image: ""
-- curated_id: 22a712619e886beaa8624adb3bd60fdf
-  item_date: "2016-08-26 00:00:00"
-  title: 'WhatsApp + Facebook: When does the sharing end?'
-  url: https://www.abine.com/blog/2016/whatsapp-facebook-when-does-the-sharing-end/
-  domain: www.abine.com
-  image: ""
-- curated_id: 1cab0ea5498321a2e91d9304c8d2b4be
-  item_date: "2016-08-26 00:00:00"
-  title: 'Ranking Digital Rights: Companies ranked on privacy and free expression
-    respond'
-  url: https://www.accessnow.org/transparency-update-companies-respond-rdrs-2015-corporate-accountability-index/
-  domain: www.accessnow.org
-  image: ""
-- curated_id: cfeaa2b299dd9202b255c5ed0c382934
-  item_date: "2016-08-26 00:00:00"
-  title: Privacy Shield data transfer agreement now shelters 200 companies
-  url: http://www.pcworld.com/article/3112795/privacy-shield-data-transfer-agreement-now-shelters-200-companies.html#tk.rss_all
-  domain: www.pcworld.com
+- curated_id: 124a6bdcd331a67edd87deafb1d6a37a
+  item_date: "2016-08-29 00:00:00"
+  title: European privacy regulators to scrutinise WhatsApp privacy switch
+  url: http://www.reuters.com/article/us-privacy-whatsapp-europe-idUSKCN1141UW
+  domain: www.reuters.com
   image: ""
 - curated_id: 805f970a68feda706ca6011a27292823
   item_date: "2016-08-29 00:00:00"
@@ -2693,12 +2699,6 @@
   url: http://www.newsjs.com/pk/whatsapp-and-facebook-data-sharing-privacy-group-threatens-legal-action-over-invasive-new-terms/dDdK6m8mKBoF4wMSQhvsXq9XtMCVM/
   domain: www.newsjs.com
   image: ""
-- curated_id: 124a6bdcd331a67edd87deafb1d6a37a
-  item_date: "2016-08-29 00:00:00"
-  title: European privacy regulators to scrutinise WhatsApp privacy switch
-  url: http://www.reuters.com/article/us-privacy-whatsapp-europe-idUSKCN1141UW
-  domain: www.reuters.com
-  image: ""
 - curated_id: 9f2fe311f28eb85278cce32c39fc71af
   item_date: "2016-08-30 00:00:00"
   title: Unprotected database exposes off-grid energy users in Guatemala, South Africa
@@ -2711,17 +2711,23 @@
   url: http://spectrum.ieee.org/automaton/robotics/drones/maybe-drone-privacy-shouldnt-be-a-federal-case
   domain: spectrum.ieee.org
   image: ""
+- curated_id: d167c7af6eebc31d73906e77c84051ff
+  item_date: "2016-08-31 00:00:00"
+  title: How to Change Your WhatsApp Settings Before Facebook Data Sharing Begins
+  url: https://www.eff.org/deeplinks/2016/08/how-keep-your-whatsapp-data-whatsapp
+  domain: www.eff.org
+  image: ""
 - curated_id: 3bdaf7a51b0b7fcafa6b2c2e34c2ce4a
   item_date: "2016-08-31 00:00:00"
   title: What Facebook and WhatsApp?s Data Sharing Plans Really Mean for User Privacy
   url: https://www.eff.org/deeplinks/2016/08/what-facebook-and-whatsapps-data-sharing-plans-really-mean-user-privacy-0
   domain: www.eff.org
   image: ""
-- curated_id: d167c7af6eebc31d73906e77c84051ff
-  item_date: "2016-08-31 00:00:00"
-  title: How to Change Your WhatsApp Settings Before Facebook Data Sharing Begins
-  url: https://www.eff.org/deeplinks/2016/08/how-keep-your-whatsapp-data-whatsapp
-  domain: www.eff.org
+- curated_id: 02c54f0d90fa353e16c4d1a5a5034b8a
+  item_date: "2016-09-01 00:00:00"
+  title: "Dating While Black: The Privacy Risks and Rewards of Niche Dating Apps\r\n"
+  url: http://motherboard.vice.com/read/dating-while-black-the-risks-and-rewards-of-minority-focused-dating-apps
+  domain: motherboard.vice.com
   image: ""
 - curated_id: d9759869add5fb6666fc21771feece71
   item_date: "2016-09-01 00:00:00"
@@ -2734,12 +2740,6 @@
   title: ""
   url: http://www.businessinsider.com/niantic-labs-letter-al-franken-privacy-2016-9
   domain: www.businessinsider.com
-  image: ""
-- curated_id: 02c54f0d90fa353e16c4d1a5a5034b8a
-  item_date: "2016-09-01 00:00:00"
-  title: "Dating While Black: The Privacy Risks and Rewards of Niche Dating Apps\r\n"
-  url: http://motherboard.vice.com/read/dating-while-black-the-risks-and-rewards-of-minority-focused-dating-apps
-  domain: motherboard.vice.com
   image: ""
 - curated_id: a4dbdec8a78ed2cb388b411c0c623607
   item_date: "2016-09-01 11:19:41"
@@ -2766,12 +2766,6 @@
   url: https://nakedsecurity.sophos.com/2016/09/12/scammer-unmasked-by-friends-poor-facebook-privacy/
   domain: nakedsecurity.sophos.com
   image: ""
-- curated_id: ff9994ab5b600470a1146e5f6c862fb8
-  item_date: "2016-09-14 00:00:00"
-  title: "A Sex Toy Lawsuit Highlights Privacy Concerns Around Smart Dildos\r\n"
-  url: http://motherboard.vice.com/read/a-sex-toy-lawsuit-highlights-privacy-concerns-around-smart-dildos
-  domain: motherboard.vice.com
-  image: ""
 - curated_id: 49b8647eea8827f20987f11621248b46
   item_date: "2016-09-14 00:00:00"
   title: 'Class action suit: smart sex toys spy on their owners and transmit their
@@ -2785,16 +2779,22 @@
   url: http://www.bbc.co.uk/news/technology-37359470
   domain: www.bbc.co.uk
   image: ""
-- curated_id: 5526d3c5fe3c868f31b762ec7f015b59
-  item_date: "2016-09-15 00:00:00"
-  title: 'Apps Not Really Safe For Personal Privacy: Study'
-  url: http://www.cxotoday.com/story/apps-may-not-be-as-safe-for-personal-privacy/
-  domain: www.cxotoday.com
+- curated_id: ff9994ab5b600470a1146e5f6c862fb8
+  item_date: "2016-09-14 00:00:00"
+  title: "A Sex Toy Lawsuit Highlights Privacy Concerns Around Smart Dildos\r\n"
+  url: http://motherboard.vice.com/read/a-sex-toy-lawsuit-highlights-privacy-concerns-around-smart-dildos
+  domain: motherboard.vice.com
   image: ""
 - curated_id: c1db4ca521b7a2bfcaf6b75ee5a5092b
   item_date: "2016-09-15 00:00:00"
   title: WhatsApp Refutes Charges Of Privacy Breach Of Users? Data
   url: http://www.cxotoday.com/story/whatsapp-refutes-charges-of-privacy-breach-of-users-data/
+  domain: www.cxotoday.com
+  image: ""
+- curated_id: 5526d3c5fe3c868f31b762ec7f015b59
+  item_date: "2016-09-15 00:00:00"
+  title: 'Apps Not Really Safe For Personal Privacy: Study'
+  url: http://www.cxotoday.com/story/apps-may-not-be-as-safe-for-personal-privacy/
   domain: www.cxotoday.com
   image: ""
 - curated_id: 27b63329f5749f512f8f7da6a895e231
@@ -2817,6 +2817,12 @@
     http://thehill.com/blogs/pundits-blog/homeland-security/296661-for-the-sake-of-transparency-lets-protect-privacy
   domain: thehill.com
   image: ""
+- curated_id: 3ba926e3b34a65a42733dc9433726e95
+  item_date: "2016-09-20 00:00:00"
+  title: Google backs off on previously announced Allo privacy feature
+  url: http://www.theverge.com/2016/9/21/12994362/allo-privacy-message-logs-google
+  domain: www.theverge.com
+  image: ""
 - curated_id: f09d399e47a67c8a73514df36f474ff9
   item_date: "2016-09-20 00:00:00"
   title: "This Tool Lets You Check If Your Personal Info Is on the Dark Web\r\n"
@@ -2829,23 +2835,12 @@
   url: https://blog.clever.com/2016/09/five-tips-app-developers-comply-new-student-data-privacy-laws/
   domain: blog.clever.com
   image: ""
-- curated_id: 3ba926e3b34a65a42733dc9433726e95
-  item_date: "2016-09-20 00:00:00"
-  title: Google backs off on previously announced Allo privacy feature
-  url: http://www.theverge.com/2016/9/21/12994362/allo-privacy-message-logs-google
-  domain: www.theverge.com
-  image: ""
-- curated_id: c0338cce17741e76c890819d3e434020
+- curated_id: d0c4565463823b2ca7b9ddb8c2fc78ef
   item_date: "2016-09-21 00:00:00"
-  title: Google weakens Allo chat app privacy promise
-  url: http://www.bbc.co.uk/news/technology-37429849
-  domain: www.bbc.co.uk
-  image: ""
-- curated_id: 152f5790f25eb10894ff1374dee761ca
-  item_date: "2016-09-21 00:00:00"
-  title: "A Frustrating Conversation About Privacy With Googles New Allo Chatbot\r\n"
-  url: http://motherboard.vice.com/read/allo-chatbot-privacy
-  domain: motherboard.vice.com
+  title: 'Snowden on Allo: Its ?Google Surveillance,? so ?Dont use? messaging and
+    personal assistant app'
+  url: http://boingboing.net/2016/09/21/snowden-on-allo-its-goog.html
+  domain: boingboing.net
   image: ""
 - curated_id: e503c1415890c41b0359e99f34f3584e
   item_date: "2016-09-21 00:00:00"
@@ -2853,12 +2848,17 @@
   url: http://www.pewresearch.org/fact-tank/2016/09/21/the-state-of-privacy-in-america/
   domain: www.pewresearch.org
   image: ""
-- curated_id: d0c4565463823b2ca7b9ddb8c2fc78ef
+- curated_id: 152f5790f25eb10894ff1374dee761ca
   item_date: "2016-09-21 00:00:00"
-  title: 'Snowden on Allo: Its ?Google Surveillance,? so ?Dont use? messaging and
-    personal assistant app'
-  url: http://boingboing.net/2016/09/21/snowden-on-allo-its-goog.html
-  domain: boingboing.net
+  title: "A Frustrating Conversation About Privacy With Googles New Allo Chatbot\r\n"
+  url: http://motherboard.vice.com/read/allo-chatbot-privacy
+  domain: motherboard.vice.com
+  image: ""
+- curated_id: c0338cce17741e76c890819d3e434020
+  item_date: "2016-09-21 00:00:00"
+  title: Google weakens Allo chat app privacy promise
+  url: http://www.bbc.co.uk/news/technology-37429849
+  domain: www.bbc.co.uk
   image: ""
 - curated_id: 2ac61e5c4aa42e96ac70e1f7e7a71e30
   item_date: "2016-09-22 00:00:00"
@@ -2879,11 +2879,36 @@
   url: http://www.bbc.co.uk/news/business-37476335
   domain: www.bbc.co.uk
   image: ""
+- curated_id: ca400ca2f36684f1c3ae726f50f5b648
+  item_date: "2016-09-27 00:00:00"
+  title: Facebook to appeal German order on WhatsApp data
+  url: http://www.reuters.com/article/us-germany-facebook-idUSKCN11X149
+  domain: www.reuters.com
+  image: ""
+- curated_id: df86dce36f5edf3fae7322c45290c1af
+  item_date: "2016-09-27 00:00:00"
+  title: Facebook Ordered to Stop Collecting Data on WhatsApp Users in Germany
+  url: http://www.nytimes.com/2016/09/28/technology/whatsapp-facebook-germany.html
+  domain: www.nytimes.com
+  image: ""
+- curated_id: fc5be1f12d81f5064e5b4154cfaa7e25
+  item_date: "2016-09-27 00:00:00"
+  title: German authority tells Facebook not to collect data from WhatsApp
+  url: |
+    http://thehill.com/policy/technology/298097-german-authority-tells-facebook-not-to-collect-data-from-whatsapp
+  domain: thehill.com
+  image: ""
 - curated_id: 78eb6c5949914057313806584f07aa50
   item_date: "2016-09-27 00:00:00"
   title: Facial Recognition, Differential Privacy, and Trade-Offs in Apples Latest
     OS Releases
   url: https://www.eff.org/deeplinks/2016/09/facial-recognition-differential-privacy-and-trade-offs-apples-latest-os-releases
+  domain: www.eff.org
+  image: ""
+- curated_id: 462d29b36159799a1de6b8b7143ef803
+  item_date: "2016-09-27 00:00:00"
+  title: Five EFF Tools to Help You Protect Yourself Online
+  url: https://www.eff.org/deeplinks/2016/09/five-eff-tools-help-you-protect-yourself-online
   domain: www.eff.org
   image: ""
 - curated_id: 487410f515b0a3da3f587d09422af4e6
@@ -2898,31 +2923,6 @@
   url: http://motherboard.vice.com/read/private-data-is-the-ultimate-luxury-good
   domain: motherboard.vice.com
   image: ""
-- curated_id: 462d29b36159799a1de6b8b7143ef803
-  item_date: "2016-09-27 00:00:00"
-  title: Five EFF Tools to Help You Protect Yourself Online
-  url: https://www.eff.org/deeplinks/2016/09/five-eff-tools-help-you-protect-yourself-online
-  domain: www.eff.org
-  image: ""
-- curated_id: df86dce36f5edf3fae7322c45290c1af
-  item_date: "2016-09-27 00:00:00"
-  title: Facebook Ordered to Stop Collecting Data on WhatsApp Users in Germany
-  url: http://www.nytimes.com/2016/09/28/technology/whatsapp-facebook-germany.html
-  domain: www.nytimes.com
-  image: ""
-- curated_id: ca400ca2f36684f1c3ae726f50f5b648
-  item_date: "2016-09-27 00:00:00"
-  title: Facebook to appeal German order on WhatsApp data
-  url: http://www.reuters.com/article/us-germany-facebook-idUSKCN11X149
-  domain: www.reuters.com
-  image: ""
-- curated_id: fc5be1f12d81f5064e5b4154cfaa7e25
-  item_date: "2016-09-27 00:00:00"
-  title: German authority tells Facebook not to collect data from WhatsApp
-  url: |
-    http://thehill.com/policy/technology/298097-german-authority-tells-facebook-not-to-collect-data-from-whatsapp
-  domain: thehill.com
-  image: ""
 - curated_id: 0ffacd38b337f1e28f4461d558b98dac
   item_date: "2016-09-28 00:00:00"
   title: BRIEF-CA Technologies signs up to EU - U.S. Privacy Shield
@@ -2935,18 +2935,18 @@
   url: https://www.propublica.org/article/breaking-the-black-box-what-facebook-knows-about-you
   domain: www.propublica.org
   image: ""
-- curated_id: b8a9901313fb7f32e1cabaf816ce5ac7
-  item_date: "2016-09-30 00:00:00"
-  title: Further Enhancing the Federal Government?s Privacy Practices
-  url: https://www.digitalgov.gov/2016/09/30/further-enhancing-the-federal-governments-privacy-practices/
-  domain: www.digitalgov.gov
-  image: ""
 - curated_id: 90656d59569cb85e7d74b7ae79f57ab1
   item_date: "2016-09-30 00:00:00"
   title: WhatsApp?s privacy U-turn on sharing data with Facebook draws more heat in
     Europe
   url: https://techcrunch.com/2016/09/30/whatsapps-privacy-u-turn-on-sharing-data-with-facebook-draws-more-heat-in-europe/
   domain: techcrunch.com
+  image: ""
+- curated_id: b8a9901313fb7f32e1cabaf816ce5ac7
+  item_date: "2016-09-30 00:00:00"
+  title: Further Enhancing the Federal Government?s Privacy Practices
+  url: https://www.digitalgov.gov/2016/09/30/further-enhancing-the-federal-governments-privacy-practices/
+  domain: www.digitalgov.gov
   image: ""
 - curated_id: 3e03918f4c46941e46faa836b3fc9bde
   item_date: "2016-10-03 00:00:00"
@@ -2966,24 +2966,11 @@
   url: https://www.accessnow.org/cms/assets/uploads/2016/10/The-Human-Rights-Principles-for-Connectivity-and-Development.pdf
   domain: www.accessnow.org
   image: ""
-- curated_id: a48bced9ab9568d5af4067c3c3a5b253
+- curated_id: 853d938b97ea114bbfb0fb3901ee17dc
   item_date: "2016-10-06 00:00:00"
-  title: FCC to vote this month on privacy rules for internet providers
-  url: |
-    http://thehill.com/policy/technology/299645-fcc-to-vote-this-month-on-privacy-rules-for-internet-providers
-  domain: thehill.com
-  image: ""
-- curated_id: c9e20d7334196d6dc6600766aee32e46
-  item_date: "2016-10-06 00:00:00"
-  title: Google Changes Its Tune When it Comes to Tracking Students
-  url: https://www.eff.org/deeplinks/2016/10/google-changes-its-tune-when-it-comes-tracking-students
-  domain: www.eff.org
-  image: ""
-- curated_id: 216a7092c9800ef63042dcc1d21929e1
-  item_date: "2016-10-06 00:00:00"
-  title: Announcing Auth0s Certification in the EU-US Privacy Shield Framework
-  url: https://auth0.com/blog/announcing-auth0-eu-us-privacy-shield-certification/
-  domain: auth0.com
+  title: FCC to vote on strict privacy rules for ISPs in late October
+  url: http://www.pcworld.com/article/3128810/fcc-to-vote-on-strict-privacy-rules-for-isps-in-late-october.html#tk.rss_all
+  domain: www.pcworld.com
   image: ""
 - curated_id: 984cb0a5492c219ead7d0808119e0a2f
   item_date: "2016-10-06 00:00:00"
@@ -2991,11 +2978,24 @@
   url: http://www.macworld.com/article/3128206/security/travelers-keep-your-data-secure-by-using-a-virtual-private-network.html#tk.rss_all
   domain: www.macworld.com
   image: ""
-- curated_id: 853d938b97ea114bbfb0fb3901ee17dc
+- curated_id: a48bced9ab9568d5af4067c3c3a5b253
   item_date: "2016-10-06 00:00:00"
-  title: FCC to vote on strict privacy rules for ISPs in late October
-  url: http://www.pcworld.com/article/3128810/fcc-to-vote-on-strict-privacy-rules-for-isps-in-late-october.html#tk.rss_all
-  domain: www.pcworld.com
+  title: FCC to vote this month on privacy rules for internet providers
+  url: |
+    http://thehill.com/policy/technology/299645-fcc-to-vote-this-month-on-privacy-rules-for-internet-providers
+  domain: thehill.com
+  image: ""
+- curated_id: 216a7092c9800ef63042dcc1d21929e1
+  item_date: "2016-10-06 00:00:00"
+  title: Announcing Auth0s Certification in the EU-US Privacy Shield Framework
+  url: https://auth0.com/blog/announcing-auth0-eu-us-privacy-shield-certification/
+  domain: auth0.com
+  image: ""
+- curated_id: c9e20d7334196d6dc6600766aee32e46
+  item_date: "2016-10-06 00:00:00"
+  title: Google Changes Its Tune When it Comes to Tracking Students
+  url: https://www.eff.org/deeplinks/2016/10/google-changes-its-tune-when-it-comes-tracking-students
+  domain: www.eff.org
   image: ""
 - curated_id: 68cb0da900edc7c673eb5faadc72d10b
   item_date: "2016-10-07 00:00:00"
@@ -3062,6 +3062,12 @@
   url: http://www.businessinsider.com/do-not-snap-badge-protect-privacy-facial-recognition-unwelcome-photos-avg-innovation-labs-2016-10
   domain: www.businessinsider.com
   image: ""
+- curated_id: 16356da90e8a922db90e3fb5a7f4775f
+  item_date: "2016-10-21 00:00:00"
+  title: Facebook, Apple rank high on messaging privacy while Snapchat scores low
+  url: http://www.siliconbeat.com/2016/10/21/facebook-apple-rank-high-on-messaging-privacy-while-snapchat-scores-low/
+  domain: www.siliconbeat.com
+  image: ""
 - curated_id: 58a0a4a4e3fcc1cb53470e778e62c747
   item_date: "2016-10-21 00:00:00"
   title: 500th Company Posted to Privacy Shield Framework
@@ -3073,12 +3079,6 @@
   title: 'Privacy groups target kids advertising disguised as YouTube content '
   url: http://www.pcworld.com/article/3133908/internet/privacy-groups-target-kids-advertising-disguised-as-youtube-content.html#tk.rss_all
   domain: www.pcworld.com
-  image: ""
-- curated_id: 16356da90e8a922db90e3fb5a7f4775f
-  item_date: "2016-10-21 00:00:00"
-  title: Facebook, Apple rank high on messaging privacy while Snapchat scores low
-  url: http://www.siliconbeat.com/2016/10/21/facebook-apple-rank-high-on-messaging-privacy-while-snapchat-scores-low/
-  domain: www.siliconbeat.com
   image: ""
 - curated_id: 4d59124817985bfc58e2e3edd933dcc8
   item_date: "2016-10-23 00:00:00"
@@ -3099,17 +3099,17 @@
   url: https://www.finder.com.au/customers-dont-want-to-share-their-transaction-data
   domain: www.finder.com.au
   image: ""
+- curated_id: 62ca0faf212c19189551fec7ca4aaede
+  item_date: "2016-11-02 00:00:00"
+  title: Download EFF?s New, Improved Mobile App
+  url: https://www.eff.org/deeplinks/2016/11/download-effs-new-improved-mobile-app
+  domain: www.eff.org
+  image: ""
 - curated_id: fa4c845bd98e9ca176d93a40f3d14a49
   item_date: "2016-11-02 00:00:00"
   title: 'Fewer Resources, Fewer Choices: A School Administrator in Indiana Works
     to Protect Student Privacy'
   url: https://www.eff.org/deeplinks/2016/10/fewer-resources-fewer-choices-school-administrator-indiana-works-protect-student
-  domain: www.eff.org
-  image: ""
-- curated_id: 62ca0faf212c19189551fec7ca4aaede
-  item_date: "2016-11-02 00:00:00"
-  title: Download EFF?s New, Improved Mobile App
-  url: https://www.eff.org/deeplinks/2016/11/download-effs-new-improved-mobile-app
   domain: www.eff.org
   image: ""
 - curated_id: bd22537655d769e5e2a8d94f1a3db56b
@@ -3124,17 +3124,17 @@
   url: http://www.bleepingcomputer.com/news/software/battery-status-api-being-removed-from-firefox-due-to-privacy-concerns/
   domain: www.bleepingcomputer.com
   image: ""
-- curated_id: 141fe87204180cafbcacddd819c87fab
-  item_date: "2016-11-07 00:00:00"
-  title: Firefox Removing Battery Status API
-  url: https://www.schneier.com/blog/archives/2016/11/firefox_removin.html
-  domain: www.schneier.com
-  image: ""
 - curated_id: 52f49371bf40cfb50ee4673ca555f59d
   item_date: "2016-11-07 00:00:00"
   title: U.S. broadband privacy rules grant users control, meaningful rights protections
   url: https://www.accessnow.org/u-s-broadband-privacy-rules-grant-users-control-meaningful-rights-protections/
   domain: www.accessnow.org
+  image: ""
+- curated_id: 141fe87204180cafbcacddd819c87fab
+  item_date: "2016-11-07 00:00:00"
+  title: Firefox Removing Battery Status API
+  url: https://www.schneier.com/blog/archives/2016/11/firefox_removin.html
+  domain: www.schneier.com
   image: ""
 - curated_id: 319b45141ea4d04d73f87d754896c82a
   item_date: "2016-11-09 00:00:00"
@@ -3148,10 +3148,11 @@
   url: http://motherboard.vice.com/read/open-database-exposes-millions-of-job-seekers-personal-information
   domain: motherboard.vice.com
   image: ""
-- curated_id: d54839e6ea8a617a905a1f2cb251a1f9
+- curated_id: 7c7b3fd5069cc49f033948f4b291b7df
   item_date: "2016-12-13 00:00:00"
-  title: The New and Improved Privacy Badger 2.0 Is Here
-  url: https://www.eff.org/deeplinks/2016/12/new-and-improved-privacy-badger-20-here
+  title: New Privacy Badger Upgrades Help Protect Your Online Holiday Shopping from
+    Sneaky Data Collection
+  url: https://www.eff.org/press/releases/new-privacy-badger-upgrades-help-protect-your-online-holiday-shopping-sneaky-data
   domain: www.eff.org
   image: ""
 - curated_id: c4e755f43570d47b2dfe2bca1845429f
@@ -3160,18 +3161,10 @@
   url: https://www.icims.com/about-us/news-room/press-releases/icims-inc-achieves-eu-us-privacy-shield-certification
   domain: www.icims.com
   image: ""
-- curated_id: 7c7b3fd5069cc49f033948f4b291b7df
+- curated_id: d54839e6ea8a617a905a1f2cb251a1f9
   item_date: "2016-12-13 00:00:00"
-  title: New Privacy Badger Upgrades Help Protect Your Online Holiday Shopping from
-    Sneaky Data Collection
-  url: https://www.eff.org/press/releases/new-privacy-badger-upgrades-help-protect-your-online-holiday-shopping-sneaky-data
-  domain: www.eff.org
-  image: ""
-- curated_id: b9bc0487810ac8b0d66503bb8865b98b
-  item_date: "2016-12-14 00:00:00"
-  title: Second Annual Report Rates Mexican Telecoms on how well they Protect User
-    Privacy
-  url: https://www.eff.org/deeplinks/2016/12/second-annual-report-rates-mexican-telecoms-how-well-they-protect-user-privacy
+  title: The New and Improved Privacy Badger 2.0 Is Here
+  url: https://www.eff.org/deeplinks/2016/12/new-and-improved-privacy-badger-20-here
   domain: www.eff.org
   image: ""
 - curated_id: 84c03688f39a728492e915418838c7ee
@@ -3180,17 +3173,12 @@
   url: http://www.theverge.com/2016/12/14/13958884/google-email-scanning-lawsuit-ecpa-cipa-matera
   domain: www.theverge.com
   image: ""
-- curated_id: d3601b87229ffdfb712cc4684a6e3977
-  item_date: "2016-12-15 00:00:00"
-  title: Evernote Update Lets Employees Read Your Notes
-  url: http://www.pcmag.com/news/350341/evernote-update-lets-employees-read-your-notes
-  domain: www.pcmag.com
-  image: ""
-- curated_id: 30a01c1bfb97cb33ff8ba4bb5f33f383
-  item_date: "2016-12-15 00:00:00"
-  title: Privacy protections for wearable devices are weak, study says
-  url: http://www.macworld.com/article/3150801/security/privacy-protections-for-wearable-devices-are-weak-study-says.html#tk.rss_all
-  domain: www.macworld.com
+- curated_id: b9bc0487810ac8b0d66503bb8865b98b
+  item_date: "2016-12-14 00:00:00"
+  title: Second Annual Report Rates Mexican Telecoms on how well they Protect User
+    Privacy
+  url: https://www.eff.org/deeplinks/2016/12/second-annual-report-rates-mexican-telecoms-how-well-they-protect-user-privacy
+  domain: www.eff.org
   image: ""
 - curated_id: 49b1e533bda69d1b27fabe1d775bcc2b
   item_date: "2016-12-15 00:00:00"
@@ -3204,6 +3192,24 @@
   url: http://www.theverge.com/2016/12/15/13970842/evernote-review-notes-access-machine-learning-law-request
   domain: www.theverge.com
   image: ""
+- curated_id: 30a01c1bfb97cb33ff8ba4bb5f33f383
+  item_date: "2016-12-15 00:00:00"
+  title: Privacy protections for wearable devices are weak, study says
+  url: http://www.macworld.com/article/3150801/security/privacy-protections-for-wearable-devices-are-weak-study-says.html#tk.rss_all
+  domain: www.macworld.com
+  image: ""
+- curated_id: d3601b87229ffdfb712cc4684a6e3977
+  item_date: "2016-12-15 00:00:00"
+  title: Evernote Update Lets Employees Read Your Notes
+  url: http://www.pcmag.com/news/350341/evernote-update-lets-employees-read-your-notes
+  domain: www.pcmag.com
+  image: ""
+- curated_id: 62a453e16d19e079aa77f279285486e6
+  item_date: "2016-12-16 00:00:00"
+  title: Evernote Backtracks on Privacy Policy
+  url: http://www.pcmag.com/news/350374/evernote-backtracks-on-privacy-policy
+  domain: www.pcmag.com
+  image: ""
 - curated_id: 934e6b062b3fce70645d216caf1c555f
   item_date: "2016-12-16 00:00:00"
   title: 'Evernote CEO: We let our users down with privacy policy change'
@@ -3216,12 +3222,6 @@
     people to ditch the app in outrage
   url: http://www.businessinsider.com/evernote-u-turn-employees-read-users-notes-machine-learning-2016-12
   domain: www.businessinsider.com
-  image: ""
-- curated_id: 62a453e16d19e079aa77f279285486e6
-  item_date: "2016-12-16 00:00:00"
-  title: Evernote Backtracks on Privacy Policy
-  url: http://www.pcmag.com/news/350374/evernote-backtracks-on-privacy-policy
-  domain: www.pcmag.com
   image: ""
 - curated_id: a00c793e8810c04d01781edeb54c1c5a
   item_date: "2016-12-17 19:15:39"
@@ -3293,29 +3293,29 @@
   url: http://motherboard.vice.com/read/hack-exposes-reams-of-private-jabber-chats
   domain: motherboard.vice.com
   image: ""
-- curated_id: 57a1fdb65329b0814d3057a72da3b6c5
-  item_date: "2017-01-12 00:00:00"
-  title: Just in Time for Trump, the NSA Loosens Its Privacy Rules
-  url: https://www.wired.com/2017/01/just-time-trump-nsa-loosens-privacy-rules/
-  domain: www.wired.com
-  image: ""
 - curated_id: cbcd42cb13ad656c776cc89dc63ad960
   item_date: "2017-01-12 00:00:00"
   title: Access Now joins legal brief supporting privacy of Facebook users
   url: https://www.accessnow.org/access-now-joins-legal-brief-supporting-privacy-facebook-users/
   domain: www.accessnow.org
   image: ""
-- curated_id: e7cd174a8ccdf70b8757b5cb63035f54
-  item_date: "2017-01-13 00:00:00"
-  title: 'Poll: Will Digital Privacy Become a Luxury?'
-  url: http://time.com/4634811/davos-world-economic-forum-digital-privacy/
-  domain: time.com
+- curated_id: 57a1fdb65329b0814d3057a72da3b6c5
+  item_date: "2017-01-12 00:00:00"
+  title: Just in Time for Trump, the NSA Loosens Its Privacy Rules
+  url: https://www.wired.com/2017/01/just-time-trump-nsa-loosens-privacy-rules/
+  domain: www.wired.com
   image: ""
 - curated_id: d34976bbe9a5dfe0481f395c7c6395ec
   item_date: "2017-01-13 00:00:00"
   title: Empirical Data on the Privacy Paradox
   url: https://www.lawfareblog.com/empirical-data-privacy-paradox
   domain: www.lawfareblog.com
+  image: ""
+- curated_id: e7cd174a8ccdf70b8757b5cb63035f54
+  item_date: "2017-01-13 00:00:00"
+  title: 'Poll: Will Digital Privacy Become a Luxury?'
+  url: http://time.com/4634811/davos-world-economic-forum-digital-privacy/
+  domain: time.com
   image: ""
 - curated_id: 042ec70e0e2f94b875d3fef93ff8f5bd
   item_date: "2017-01-14 00:00:00"
@@ -3385,18 +3385,18 @@
   url: https://www.nytimes.com/2017/01/31/technology/ad-blocking-internet.html
   domain: www.nytimes.com
   image: ""
-- curated_id: 6557f85ad4520bf9340bce31a7ece8da
-  item_date: "2017-02-01 00:00:00"
-  title: 'KYC vs. data privacy: Can this fintech thread the needle?'
-  url: https://www.americanbanker.com/news/kyc-vs-data-privacy-can-this-fintech-square-the-circle
-  domain: www.americanbanker.com
-  image: ""
 - curated_id: 5911b20b34e903df477f1a80735157c5
   item_date: "2017-02-01 00:00:00"
   title: ' Mailjet Becomes the First EU Data Compliant Email Provider Available on
     Microsoft Azure'
   url: http://www.itnewsonline.com/prnewswire/Mailjet-Becomes-the-First-EU-Data-Compliant-Email-Provider-Available-on-Microsoft-Azure/473262
   domain: www.itnewsonline.com
+  image: ""
+- curated_id: 6557f85ad4520bf9340bce31a7ece8da
+  item_date: "2017-02-01 00:00:00"
+  title: 'KYC vs. data privacy: Can this fintech thread the needle?'
+  url: https://www.americanbanker.com/news/kyc-vs-data-privacy-can-this-fintech-square-the-circle
+  domain: www.americanbanker.com
   image: ""
 - curated_id: 14f5407d57e4ac63a63722036a0fdd25
   item_date: "2017-02-03 00:00:00"
@@ -3410,12 +3410,30 @@
   url: https://dzone.com/articles/eu-privacy-laws-and-their-implications-for-big-dat
   domain: dzone.com
   image: ""
+- curated_id: e80928d26d31e58a59024ce7f7aa7c53
+  item_date: "2017-02-06 00:00:00"
+  title: Learn How to Operationalize Privacy
+  url: http://www.truste.com/blog/2017/02/06/operationalize-privacy/
+  domain: www.truste.com
+  image: ""
 - curated_id: 508278d834ecf2be4c1a06e1e1d3a614
   item_date: "2017-02-06 00:00:00"
   title: Google calls on U.S. Senate to pass bill requiring warrants for government
     email snooping
   url: http://www.siliconbeat.com/2017/02/06/google-issues-strong-statement-support-email-privacy-act-passed-house/
   domain: www.siliconbeat.com
+  image: ""
+- curated_id: eb28bd81b14cd035051cf349e241c181
+  item_date: "2017-02-06 00:00:00"
+  title: US House approves new privacy protections for email and the cloud
+  url: http://www.pcworld.com/article/3166405/security/us-house-approves-new-privacy-protections-for-email-and-the-cloud.html#tk.rss_all
+  domain: www.pcworld.com
+  image: ""
+- curated_id: dd12fee7cbf320485d9d4431977d779f
+  item_date: "2017-02-06 00:00:00"
+  title: Passing the Email Privacy Act Has Never Been More Urgent
+  url: https://www.wired.com/2017/02/trump-power-email-privacy-act-never-urgent/
+  domain: www.wired.com
   image: ""
 - curated_id: d27f6970c89737327b1cf8424ed80ef7
   item_date: "2017-02-06 00:00:00"
@@ -3431,29 +3449,37 @@
   url: https://www.techdirt.com/articles/20170202/08082436612/comcast-verizon-t-mobile-att-issue-breathless-love-letter-to-privacy-with-one-hand-lobby-to-kill-all-privacy-protections-with.shtml
   domain: www.techdirt.com
   image: ""
-- curated_id: eb28bd81b14cd035051cf349e241c181
-  item_date: "2017-02-06 00:00:00"
-  title: US House approves new privacy protections for email and the cloud
-  url: http://www.pcworld.com/article/3166405/security/us-house-approves-new-privacy-protections-for-email-and-the-cloud.html#tk.rss_all
-  domain: www.pcworld.com
-  image: ""
-- curated_id: e80928d26d31e58a59024ce7f7aa7c53
-  item_date: "2017-02-06 00:00:00"
-  title: Learn How to Operationalize Privacy
-  url: http://www.truste.com/blog/2017/02/06/operationalize-privacy/
-  domain: www.truste.com
-  image: ""
-- curated_id: dd12fee7cbf320485d9d4431977d779f
-  item_date: "2017-02-06 00:00:00"
-  title: Passing the Email Privacy Act Has Never Been More Urgent
-  url: https://www.wired.com/2017/02/trump-power-email-privacy-act-never-urgent/
-  domain: www.wired.com
-  image: ""
 - curated_id: 32ea0a0bb66fbfd04d2d46a1280a39ca
   item_date: "2017-02-07 00:00:00"
   title: The Fight Over Email Privacy Moves to the Senate
   url: https://www.eff.org/deeplinks/2017/02/fight-over-email-privacy-moves-senate
   domain: www.eff.org
+  image: ""
+- curated_id: 41ca202505d7cf70d420cf7b1923b7a7
+  item_date: "2017-02-08 00:00:00"
+  title: 'End the Privacy Shield: Access Now urges the European Commission to suspend
+    Privacy Shield due to changes in US policies'
+  url: https://www.accessnow.org/end-privacy-shield-access-now-urges-european-commission-suspend-privacy-shield-due-changes-us-policies/
+  domain: www.accessnow.org
+  image: ""
+- curated_id: 13b99fd0eabd677b3547bd5003ec20f3
+  item_date: "2017-02-08 00:00:00"
+  title: Enterprise firewalls are man-in-the-middling HTTPS sessions like crazy, and
+    weakening security
+  url: http://boingboing.net/2017/02/08/enterprise-firewalls-are-man-i.html
+  domain: boingboing.net
+  image: ""
+- curated_id: edb2aadf9d6dd54306bd1d3d00d1e326
+  item_date: "2017-02-08 00:00:00"
+  title: Do-It-Yourself Online Privacy/Safety Guide
+  url: https://www.schneier.com/blog/archives/2017/02/do-it-yourself_.html
+  domain: www.schneier.com
+  image: ""
+- curated_id: eea0337f9c9d4e0c7870324ade57a085
+  item_date: "2017-02-08 00:00:00"
+  title: "Beware: Most Mobile VPNs Aren\u2019t as Safe as They Seem"
+  url: https://www.wired.com/2017/02/beware-mobile-vpns-arent-safe-seem/
+  domain: www.wired.com
   image: ""
 - curated_id: 5cb1ee4f2bfbed93c776cf0298f23b4e
   item_date: "2017-02-08 00:00:00"
@@ -3479,32 +3505,6 @@
   title: Dutch Voter Guide Website Leak Highlights Privacy Concerns
   url: http://www.darkreading.com/attacks-breaches/dutch-voter-guide-website-leak-highlights-privacy-concerns/d/d-id/1328080
   domain: www.darkreading.com
-  image: ""
-- curated_id: edb2aadf9d6dd54306bd1d3d00d1e326
-  item_date: "2017-02-08 00:00:00"
-  title: Do-It-Yourself Online Privacy/Safety Guide
-  url: https://www.schneier.com/blog/archives/2017/02/do-it-yourself_.html
-  domain: www.schneier.com
-  image: ""
-- curated_id: 41ca202505d7cf70d420cf7b1923b7a7
-  item_date: "2017-02-08 00:00:00"
-  title: 'End the Privacy Shield: Access Now urges the European Commission to suspend
-    Privacy Shield due to changes in US policies'
-  url: https://www.accessnow.org/end-privacy-shield-access-now-urges-european-commission-suspend-privacy-shield-due-changes-us-policies/
-  domain: www.accessnow.org
-  image: ""
-- curated_id: 13b99fd0eabd677b3547bd5003ec20f3
-  item_date: "2017-02-08 00:00:00"
-  title: Enterprise firewalls are man-in-the-middling HTTPS sessions like crazy, and
-    weakening security
-  url: http://boingboing.net/2017/02/08/enterprise-firewalls-are-man-i.html
-  domain: boingboing.net
-  image: ""
-- curated_id: eea0337f9c9d4e0c7870324ade57a085
-  item_date: "2017-02-08 00:00:00"
-  title: "Beware: Most Mobile VPNs Aren\u2019t as Safe as They Seem"
-  url: https://www.wired.com/2017/02/beware-mobile-vpns-arent-safe-seem/
-  domain: www.wired.com
   image: ""
 - curated_id: 750e19c439391591a1afaf308f3f0ae0
   item_date: "2017-02-09 00:00:00"
@@ -3562,19 +3562,6 @@
   url: https://techcrunch.com/2017/02/23/privacy-labs/
   domain: techcrunch.com
   image: ""
-- curated_id: 32c8ec780eb26e03fc0af315887c5f30
-  item_date: "2017-02-23 00:00:00"
-  title: Sen. Wyden Wants Answers From New DHS Head, Introducing Legislation To Create
-    Warrant Requirement For Border Phone Searches
-  url: https://www.techdirt.com/articles/20170222/11492136768/sen-wyden-wants-answers-new-dhs-head-introducing-legislation-to-create-warrant-requirement-border-phone-searches.shtml
-  domain: www.techdirt.com
-  image: ""
-- curated_id: d745947324efa0ec18957ced34badfec
-  item_date: "2017-02-23 00:00:00"
-  title: "Amazon Says Alexa\u2019s Speech Is Protected by the First Amendment"
-  url: http://www.theverge.com/2017/2/23/14714656/amazon-alexa-data-protection-court-free-speech
-  domain: www.theverge.com
-  image: ""
 - curated_id: 596d10e651e2f41e1619fdcfc5e28b4d
   item_date: "2017-02-23 00:00:00"
   title: Fitness data and photos help expose race cheat
@@ -3587,11 +3574,24 @@
   url: https://www.eff.org/deeplinks/2017/02/protect-biometric-privacy-montana
   domain: www.eff.org
   image: ""
-- curated_id: 0c5fde0619f6876daf0f01831f0bb2b7
+- curated_id: d745947324efa0ec18957ced34badfec
+  item_date: "2017-02-23 00:00:00"
+  title: "Amazon Says Alexa\u2019s Speech Is Protected by the First Amendment"
+  url: http://www.theverge.com/2017/2/23/14714656/amazon-alexa-data-protection-court-free-speech
+  domain: www.theverge.com
+  image: ""
+- curated_id: 32c8ec780eb26e03fc0af315887c5f30
+  item_date: "2017-02-23 00:00:00"
+  title: Sen. Wyden Wants Answers From New DHS Head, Introducing Legislation To Create
+    Warrant Requirement For Border Phone Searches
+  url: https://www.techdirt.com/articles/20170222/11492136768/sen-wyden-wants-answers-new-dhs-head-introducing-legislation-to-create-warrant-requirement-border-phone-searches.shtml
+  domain: www.techdirt.com
+  image: ""
+- curated_id: 87cbd8266e606fa8048b9af5037b6778
   item_date: "2017-02-24 00:00:00"
-  title: There are no heroes or villains in data access debate
-  url: https://www.americanbanker.com/opinion/there-are-no-heroes-or-villains-in-data-access-debate
-  domain: www.americanbanker.com
+  title: Respect and Equality are Basic Human Rights
+  url: https://blogs.adobe.com/conversations/2017/02/respect-and-equality-are-basic-human-rights.html
+  domain: blogs.adobe.com
   image: ""
 - curated_id: 21361aeaf72b26a277d42b78f5b2086d
   item_date: "2017-02-24 00:00:00"
@@ -3599,11 +3599,11 @@
   url: http://bhconsulting.ie/securitywatch/
   domain: bhconsulting.ie
   image: ""
-- curated_id: 87cbd8266e606fa8048b9af5037b6778
+- curated_id: 0c5fde0619f6876daf0f01831f0bb2b7
   item_date: "2017-02-24 00:00:00"
-  title: Respect and Equality are Basic Human Rights
-  url: https://blogs.adobe.com/conversations/2017/02/respect-and-equality-are-basic-human-rights.html
-  domain: blogs.adobe.com
+  title: There are no heroes or villains in data access debate
+  url: https://www.americanbanker.com/opinion/there-are-no-heroes-or-villains-in-data-access-debate
+  domain: www.americanbanker.com
   image: ""
 - curated_id: a21b16dc1b19b711682a1b0b82b45b44
   item_date: "2017-02-28 00:00:00"
@@ -3612,12 +3612,11 @@
   url: https://www.techdirt.com/articles/20170227/06404736792/fcc-boss-moves-to-kill-broadband-privacy-protections-you-know-to-help-little-guy.shtml
   domain: www.techdirt.com
   image: ""
-- curated_id: affe913aefac15938a35b565cdeae3b8
+- curated_id: e4776b226ce84112708e64cdad9b4364
   item_date: "2017-03-01 00:00:00"
-  title: "An Illinois Court Just Didn\u2019t Get It: We Are Entitled to Expect Privacy
-    In Our Smart Meter Data, Which Reveals What\u2019s Going On Inside Our Homes"
-  url: https://www.eff.org/deeplinks/2017/03/illinois-court-just-didnt-get-it-we-are-entitled-expect-privacy-our-smart
-  domain: www.eff.org
+  title: F.C.C., in Potential Sign of the Future, Halts New Data Security Rules
+  url: https://www.nytimes.com/2017/03/01/technology/fcc-data-security-rules.html
+  domain: www.nytimes.com
   image: ""
 - curated_id: 492a3bf15713340c10c0e4cf37d65494
   item_date: "2017-03-01 00:00:00"
@@ -3625,11 +3624,12 @@
   url: https://www.eff.org/deeplinks/2017/02/new-fcc-chairman-begins-attacks-internet-privacy
   domain: www.eff.org
   image: ""
-- curated_id: e4776b226ce84112708e64cdad9b4364
+- curated_id: affe913aefac15938a35b565cdeae3b8
   item_date: "2017-03-01 00:00:00"
-  title: F.C.C., in Potential Sign of the Future, Halts New Data Security Rules
-  url: https://www.nytimes.com/2017/03/01/technology/fcc-data-security-rules.html
-  domain: www.nytimes.com
+  title: "An Illinois Court Just Didn\u2019t Get It: We Are Entitled to Expect Privacy
+    In Our Smart Meter Data, Which Reveals What\u2019s Going On Inside Our Homes"
+  url: https://www.eff.org/deeplinks/2017/03/illinois-court-just-didnt-get-it-we-are-entitled-expect-privacy-our-smart
+  domain: www.eff.org
   image: ""
 - curated_id: 490574a36a0df08da18478970873a5d4
   item_date: "2017-03-01 12:35:37"
@@ -3637,12 +3637,6 @@
     excited to introduce you to Message Body Redactiohellip; https://t.co/2c0CC4lv4d"
   url: https://twitter.com/twilio/statuses/837038639976759296
   domain: twitter.com
-  image: ""
-- curated_id: b7e2ed90ca09e9f85d2e88aa7b5e1a21
-  item_date: "2017-03-02 00:00:00"
-  title: FCC and FTC put last minute block on stricter privacy for ISPs over DSPs
-  url: https://disruptiveviews.com/fcc-ftc-last-minute-block-stricter-privacy/
-  domain: disruptiveviews.com
   image: ""
 - curated_id: 75b2256c85377cd3881a4b80499d915b
   item_date: "2017-03-02 00:00:00"
@@ -3657,18 +3651,11 @@
   url: https://motherboard.vice.com/en_us/article/heres-how-trumps-fcc-privacy-rollback-puts-your-internet-data-at-risk
   domain: motherboard.vice.com
   image: ""
-- curated_id: fc6ead73b1b626c8d7b78fcfe5f7e1f4
-  item_date: "2017-03-03 00:00:00"
-  title: 'EFF: Data Collected From Utility Smart Meters Should Be Protected By The
-    Fourth Amendment'
-  url: https://www.techdirt.com/articles/20170302/06563736823/eff-data-collected-utility-smart-meters-should-be-protected-fourth-amendment.shtml
-  domain: www.techdirt.com
-  image: ""
-- curated_id: 7f856bc958fcdef35dc8bd2b95ad6e62
-  item_date: "2017-03-03 00:00:00"
-  title: FCC Blocks Rules to Let You Control How ISPs Use Your Data
-  url: //www.pcmag.com/news/348516/fcc-moves-to-let-you-control-how-isps-use-your-data
-  domain: www.pcmag.com
+- curated_id: b7e2ed90ca09e9f85d2e88aa7b5e1a21
+  item_date: "2017-03-02 00:00:00"
+  title: FCC and FTC put last minute block on stricter privacy for ISPs over DSPs
+  url: https://disruptiveviews.com/fcc-ftc-last-minute-block-stricter-privacy/
+  domain: disruptiveviews.com
   image: ""
 - curated_id: e5850e778a92a8ed23f18688d21a2003
   item_date: "2017-03-03 00:00:00"
@@ -3676,17 +3663,30 @@
   url: http://www.darkreading.com/endpoint/how-to-use-and-share-customer-data-without-damaging-trust/a/d-id/1328314
   domain: www.darkreading.com
   image: ""
-- curated_id: ed4b8873abd2982ff2f7fa1db5c76ae2
-  item_date: "2017-03-06 00:00:00"
-  title: Consumer Reports to grade tech products on security, privacy
-  url: http://www.pcworld.com/article/3177291/security/consumer-reports-to-grade-tech-products-on-security-privacy.html#tk.rss_all
-  domain: www.pcworld.com
+- curated_id: 7f856bc958fcdef35dc8bd2b95ad6e62
+  item_date: "2017-03-03 00:00:00"
+  title: FCC Blocks Rules to Let You Control How ISPs Use Your Data
+  url: //www.pcmag.com/news/348516/fcc-moves-to-let-you-control-how-isps-use-your-data
+  domain: www.pcmag.com
+  image: ""
+- curated_id: fc6ead73b1b626c8d7b78fcfe5f7e1f4
+  item_date: "2017-03-03 00:00:00"
+  title: 'EFF: Data Collected From Utility Smart Meters Should Be Protected By The
+    Fourth Amendment'
+  url: https://www.techdirt.com/articles/20170302/06563736823/eff-data-collected-utility-smart-meters-should-be-protected-fourth-amendment.shtml
+  domain: www.techdirt.com
   image: ""
 - curated_id: db22b968ddbabbdc84efc8edef071e8f
   item_date: "2017-03-06 00:00:00"
   title: Testing products for data privacy and security
   url: http://boingboing.net/2017/03/06/testing-products-for-data-priv.html
   domain: boingboing.net
+  image: ""
+- curated_id: ed4b8873abd2982ff2f7fa1db5c76ae2
+  item_date: "2017-03-06 00:00:00"
+  title: Consumer Reports to grade tech products on security, privacy
+  url: http://www.pcworld.com/article/3177291/security/consumer-reports-to-grade-tech-products-on-security-privacy.html#tk.rss_all
+  domain: www.pcworld.com
   image: ""
 - curated_id: ddb6ce5dd3fd99baa872421bcd144921
   item_date: "2017-03-07 00:00:00"
@@ -3708,6 +3708,13 @@
   url: http://www.pcworld.com/article/3178285/security/us-senate-resolution-aims-to-roll-back-privacy-rules-for-isps.html#tk.rss_all
   domain: www.pcworld.com
   image: ""
+- curated_id: 6f2f2c631a6cfa947a66e20efca47400
+  item_date: "2017-03-09 00:00:00"
+  title: ACLU challenges warrant to search Facebook page of Dakota Access opponents
+  url: |
+    http://thehill.com/policy/cybersecurity/323131-aclu-challenges-police-effort-to-search-facebook-page-of-dakota-access
+  domain: thehill.com
+  image: ""
 - curated_id: 494607b7bb04960dc0145a5452c8eff0
   item_date: "2017-03-09 00:00:00"
   title: CIA Documents Highlight Privacy Issues of the Internet of Things
@@ -3719,13 +3726,6 @@
   title: Humanising the Internet of Things
   url: http://www.itsecurityguru.org/2017/03/09/humanising-internet-things/
   domain: www.itsecurityguru.org
-  image: ""
-- curated_id: 6f2f2c631a6cfa947a66e20efca47400
-  item_date: "2017-03-09 00:00:00"
-  title: ACLU challenges warrant to search Facebook page of Dakota Access opponents
-  url: |
-    http://thehill.com/policy/cybersecurity/323131-aclu-challenges-police-effort-to-search-facebook-page-of-dakota-access
-  domain: thehill.com
   image: ""
 - curated_id: 46d69b3ca222bffd56a9c8af0f3c38e4
   item_date: "2017-03-13 00:00:00"
@@ -3745,18 +3745,18 @@
   url: http://www.itsecurityguru.org/2017/03/15/new-research-finds-uk-consumers-fear-data-theft-apps/
   domain: www.itsecurityguru.org
   image: ""
-- curated_id: 6c5fadcedf2d72aaae54b37cf285d795
-  item_date: "2017-03-16 00:00:00"
-  title: Discover and redact sensitive data with the Data Loss Prevention API
-  url: http://cloudplatform.googleblog.com/2017/03/discover-and-redact-sensitive-data-with-the-Data-Loss-Prevention-API.html
-  domain: cloudplatform.googleblog.com
-  image: ""
 - curated_id: ca753db097551627e6cc0280621fc9bc
   item_date: "2017-03-16 00:00:00"
   title: "Google\u2019s DeepMind made \u2018inexcusable\u2019 errors handling UK health
     data, says report"
   url: http://www.theverge.com/2017/3/16/14932764/deepmind-google-uk-nhs-health-data-analysis
   domain: www.theverge.com
+  image: ""
+- curated_id: 6c5fadcedf2d72aaae54b37cf285d795
+  item_date: "2017-03-16 00:00:00"
+  title: Discover and redact sensitive data with the Data Loss Prevention API
+  url: http://cloudplatform.googleblog.com/2017/03/discover-and-redact-sensitive-data-with-the-Data-Loss-Prevention-API.html
+  domain: cloudplatform.googleblog.com
   image: ""
 - curated_id: 627fa4461b93eb6a4a61eb3a44345822
   item_date: "2017-03-17 00:00:00"
@@ -3776,12 +3776,6 @@
   url: https://www.techdirt.com/articles/20170320/17373336958/should-you-have-any-4th-amendment-rights-airport.shtml
   domain: www.techdirt.com
   image: ""
-- curated_id: fa8e8950f7371b62d9920bfc6ef03021
-  item_date: "2017-03-22 00:00:00"
-  title: The Ad Industry Is Really Excited About Plans To Gut Broadband Privacy Protections
-  url: https://www.techdirt.com/articles/20170320/07040936956/ad-industry-is-really-excited-about-plans-to-gut-broadband-privacy-protections.shtml
-  domain: www.techdirt.com
-  image: ""
 - curated_id: f7216ab8605746c10ecdcbb29cb993c9
   item_date: "2017-03-22 00:00:00"
   title: Why Tim Berners-Lee Is Right On Privacy
@@ -3793,6 +3787,42 @@
   title: 'FAQ: Online Data Brokers  People Search Sites'
   url: https://www.privacyrights.org/blog/faq-online-data-brokers-people-search-sites
   domain: www.privacyrights.org
+  image: ""
+- curated_id: fa8e8950f7371b62d9920bfc6ef03021
+  item_date: "2017-03-22 00:00:00"
+  title: The Ad Industry Is Really Excited About Plans To Gut Broadband Privacy Protections
+  url: https://www.techdirt.com/articles/20170320/07040936956/ad-industry-is-really-excited-about-plans-to-gut-broadband-privacy-protections.shtml
+  domain: www.techdirt.com
+  image: ""
+- curated_id: 0b73b298b1e9918ea673d94a444dd559
+  item_date: "2017-03-23 00:00:00"
+  title: Access Now condemns U.S. Senate measure to gut internet privacy
+  url: https://www.accessnow.org/access-now-condemns-u-s-senate-measure-gut-internet-privacy/
+  domain: www.accessnow.org
+  image: ""
+- curated_id: 395e53684affb86605730062368adbef
+  item_date: "2017-03-23 00:00:00"
+  title: Republican Senators just sold your privacy to the highest bidder
+  url: https://thenextweb.com/politics/2017/03/23/republican-senators-just-sold-your-privacy-to-the-highest-bidder/
+  domain: thenextweb.com
+  image: ""
+- curated_id: 073d06428b7a8ab74e8561313da6d8c1
+  item_date: "2017-03-23 00:00:00"
+  title: Senate Republicans Vote to Allow ISPs to Sell Your Private Data
+  url: https://motherboard.vice.com/en_us/article/senate-republicans-vote-to-allow-isps-to-sell-your-private-data
+  domain: motherboard.vice.com
+  image: ""
+- curated_id: e137ce83f9e5179ad3b6c5af58971ff1
+  item_date: "2017-03-23 00:00:00"
+  title: UPDATE 1-U.S. Senate votes to overturn Obama broadband privacy rules
+  url: http://www.reuters.com/article/us-usa-internet-idUSKBN16U2ER
+  domain: www.reuters.com
+  image: ""
+- curated_id: ba2b42e9b16f2fc968851f127e2ece57
+  item_date: "2017-03-23 00:00:00"
+  title: Congress Just Voted To Kill Consumer Broadband Privacy Protections
+  url: https://www.techdirt.com/articles/20170323/10251536993/congress-just-voted-to-kill-consumer-broadband-privacy-protections.shtml
+  domain: www.techdirt.com
   image: ""
 - curated_id: 13928a7d8f00d5380f7fbb8a7bd26690
   item_date: "2017-03-23 00:00:00"
@@ -3819,35 +3849,11 @@
   url: https://continuum.cisco.com/2017/03/23/senate-vote-allows-isps-to-legally-sell-your-browsing-history-without-permission/
   domain: continuum.cisco.com
   image: ""
-- curated_id: e137ce83f9e5179ad3b6c5af58971ff1
-  item_date: "2017-03-23 00:00:00"
-  title: UPDATE 1-U.S. Senate votes to overturn Obama broadband privacy rules
-  url: http://www.reuters.com/article/us-usa-internet-idUSKBN16U2ER
-  domain: www.reuters.com
-  image: ""
-- curated_id: ba2b42e9b16f2fc968851f127e2ece57
-  item_date: "2017-03-23 00:00:00"
-  title: Congress Just Voted To Kill Consumer Broadband Privacy Protections
-  url: https://www.techdirt.com/articles/20170323/10251536993/congress-just-voted-to-kill-consumer-broadband-privacy-protections.shtml
-  domain: www.techdirt.com
-  image: ""
-- curated_id: 0b73b298b1e9918ea673d94a444dd559
-  item_date: "2017-03-23 00:00:00"
-  title: Access Now condemns U.S. Senate measure to gut internet privacy
-  url: https://www.accessnow.org/access-now-condemns-u-s-senate-measure-gut-internet-privacy/
-  domain: www.accessnow.org
-  image: ""
-- curated_id: 395e53684affb86605730062368adbef
-  item_date: "2017-03-23 00:00:00"
-  title: Republican Senators just sold your privacy to the highest bidder
-  url: https://thenextweb.com/politics/2017/03/23/republican-senators-just-sold-your-privacy-to-the-highest-bidder/
-  domain: thenextweb.com
-  image: ""
-- curated_id: 073d06428b7a8ab74e8561313da6d8c1
-  item_date: "2017-03-23 00:00:00"
-  title: Senate Republicans Vote to Allow ISPs to Sell Your Private Data
-  url: https://motherboard.vice.com/en_us/article/senate-republicans-vote-to-allow-isps-to-sell-your-private-data
-  domain: motherboard.vice.com
+- curated_id: 5a378073693ff18faf10b38c387733a0
+  item_date: "2017-03-24 00:00:00"
+  title: US Senate Overturns Obama Consumer Privacy Rule
+  url: http://www.darkreading.com/vulnerabilities---threats/us-senate-overturns-obama-consumer-privacy-rule/d/d-id/1328479
+  domain: www.darkreading.com
   image: ""
 - curated_id: bfe0bc5a2e1721a8c96b55eb48283e85
   item_date: "2017-03-24 00:00:00"
@@ -3861,54 +3867,11 @@
   url: http://www.pcworld.com/article/3184767/security/three-privacy-tools-that-block-your-internet-provider-from-tracking-you.html#tk.rss_all
   domain: www.pcworld.com
   image: ""
-- curated_id: 5a378073693ff18faf10b38c387733a0
-  item_date: "2017-03-24 00:00:00"
-  title: US Senate Overturns Obama Consumer Privacy Rule
-  url: http://www.darkreading.com/vulnerabilities---threats/us-senate-overturns-obama-consumer-privacy-rule/d/d-id/1328479
-  domain: www.darkreading.com
-  image: ""
-- curated_id: a2bf85352194fc593acef2f3ce2d0df9
-  item_date: "2017-04-03 00:00:00"
-  title: Hackers Can Easily Hijack This Dildo Camera and Livestream the Inside of
-    Your Vagina
-  url: https://motherboard.vice.com/en_us/article/camera-dildo-svakom-siime-eye-hacked-livestream
-  domain: motherboard.vice.com
-  image: ""
-- curated_id: 9c6fa5c9fc2afc90f1db8df16c6fe85b
-  item_date: "2017-04-03 00:00:00"
-  title: Use Of VPNs Banned Completely For Millions Of People By Chinese Authorities
-  url: https://www.techdirt.com/articles/20170330/04094837040/use-vpns-banned-completely-millions-people-chinese-authorities.shtml
-  domain: www.techdirt.com
-  image: ""
-- curated_id: ed0c511855e3b4f88e17d39a6b961d10
-  item_date: "2017-04-03 00:00:00"
-  title: Trump Signs Bill to Roll Back Privacy Rules into Law
-  url: https://www.eff.org/deeplinks/2017/04/trump-signs-bill-roll-back-privacy-rules-law
-  domain: www.eff.org
-  image: ""
-- curated_id: ce9321d37982d65bce735bd7790cf468
-  item_date: "2017-04-03 00:00:00"
-  title: Trump signs resolution nullifying privacy requirements for internet providers
-  url: https://techcrunch.com/2017/04/03/trump-signs-resolution-removing-privacy-requirements-for-internet-providers/
-  domain: techcrunch.com
-  image: ""
-- curated_id: 88885939a37060247495d21e4b3bf208
-  item_date: "2017-04-03 00:00:00"
-  title: Trump Completes Repeal of Online Privacy Protections From Obama Era
-  url: https://www.nytimes.com/2017/04/03/technology/trump-repeal-online-privacy-protections.html
-  domain: www.nytimes.com
-  image: ""
 - curated_id: 4e68b6c0428b17b4bd3d4cc2affc7038
   item_date: "2017-04-03 00:00:00"
   title: 'The Bill of Rights at the Border: Fourth Amendment Limits on Searching Your
     Data and Devices'
   url: https://www.eff.org/deeplinks/2017/04/bill-rights-border-fourth-amendment-limits-searching-your-data-and-devices
-  domain: www.eff.org
-  image: ""
-- curated_id: b3861a70fec0aaccaa167f12869ec51d
-  item_date: "2017-04-03 00:00:00"
-  title: "Here\u2019s How to Protect Your Privacy From Your Internet Service Provider"
-  url: https://www.eff.org/deeplinks/2017/04/heres-how-protect-your-privacy-your-internet-service-provider
   domain: www.eff.org
   image: ""
 - curated_id: 4c5cd2f82823eb2f6f93d5378cb69304
@@ -3917,35 +3880,42 @@
   url: https://disruptiveviews.com/privacy-wars-isps-customer-data/
   domain: disruptiveviews.com
   image: ""
-- curated_id: 514ca6967a9f5b5aef6bb9d1f64dd90a
-  item_date: "2017-04-04 00:00:00"
-  title: Politicians web browsing history targeted after privacy vote
-  url: http://www.pcworld.com/article/3187615/security/politicians-web-browsing-history-targeted-after-privacy-vote.html#tk.rss_all
-  domain: www.pcworld.com
+- curated_id: 88885939a37060247495d21e4b3bf208
+  item_date: "2017-04-03 00:00:00"
+  title: Trump Completes Repeal of Online Privacy Protections From Obama Era
+  url: https://www.nytimes.com/2017/04/03/technology/trump-repeal-online-privacy-protections.html
+  domain: www.nytimes.com
   image: ""
-- curated_id: aa177cebdc8a15761021afcf5ffe29dc
-  item_date: "2017-04-04 00:00:00"
-  title: Trump signs repeal of U.S. broadband privacy rules
-  url: http://www.reuters.com/article/us-usa-internet-trump-idUSKBN1752PR
-  domain: www.reuters.com
+- curated_id: b3861a70fec0aaccaa167f12869ec51d
+  item_date: "2017-04-03 00:00:00"
+  title: "Here\u2019s How to Protect Your Privacy From Your Internet Service Provider"
+  url: https://www.eff.org/deeplinks/2017/04/heres-how-protect-your-privacy-your-internet-service-provider
+  domain: www.eff.org
   image: ""
-- curated_id: 6b031fb40e1c7ed4314ad5c0bb833a16
-  item_date: "2017-04-04 00:00:00"
-  title: Through Inter-app Data Sharing, Android Apps can get your Data Without Permission
-  url: http://www.itsecurityguru.org/2017/04/04/inter-app-data-sharing-android-apps-can-get-data-without-permission/
-  domain: www.itsecurityguru.org
+- curated_id: ce9321d37982d65bce735bd7790cf468
+  item_date: "2017-04-03 00:00:00"
+  title: Trump signs resolution nullifying privacy requirements for internet providers
+  url: https://techcrunch.com/2017/04/03/trump-signs-resolution-removing-privacy-requirements-for-internet-providers/
+  domain: techcrunch.com
   image: ""
-- curated_id: 33bc9eacffa3ed6bfdfa51a10601039d
-  item_date: "2017-04-04 00:00:00"
-  title: Phony VPN Services Are Cashing in on Americas War on Privacy
-  url: https://motherboard.vice.com/en_us/article/phony-vpn-services-are-cashing-in-on-americas-war-on-privacy
+- curated_id: 9c6fa5c9fc2afc90f1db8df16c6fe85b
+  item_date: "2017-04-03 00:00:00"
+  title: Use Of VPNs Banned Completely For Millions Of People By Chinese Authorities
+  url: https://www.techdirt.com/articles/20170330/04094837040/use-vpns-banned-completely-millions-people-chinese-authorities.shtml
+  domain: www.techdirt.com
+  image: ""
+- curated_id: a2bf85352194fc593acef2f3ce2d0df9
+  item_date: "2017-04-03 00:00:00"
+  title: Hackers Can Easily Hijack This Dildo Camera and Livestream the Inside of
+    Your Vagina
+  url: https://motherboard.vice.com/en_us/article/camera-dildo-svakom-siime-eye-hacked-livestream
   domain: motherboard.vice.com
   image: ""
-- curated_id: 9eec654b5e936e63237dc08a7a7f35d7
-  item_date: "2017-04-04 00:00:00"
-  title: FCC Privacy Rule Repeal Will Have Widespread Security Implications
-  url: http://www.darkreading.com/endpoint/fcc-privacy-rule-repeal-will-have-widespread-security-implications/d/d-id/1328559
-  domain: www.darkreading.com
+- curated_id: ed0c511855e3b4f88e17d39a6b961d10
+  item_date: "2017-04-03 00:00:00"
+  title: Trump Signs Bill to Roll Back Privacy Rules into Law
+  url: https://www.eff.org/deeplinks/2017/04/trump-signs-bill-roll-back-privacy-rules-law
+  domain: www.eff.org
   image: ""
 - curated_id: c06e93294b90aa938be645d4888aca79
   item_date: "2017-04-04 00:00:00"
@@ -3961,11 +3931,41 @@
   url: https://www.techdirt.com/articles/20170403/06595937072/att-comcast-verizon-pretend-they-didnt-just-pay-congress-to-sell-you-out-privacy.shtml
   domain: www.techdirt.com
   image: ""
-- curated_id: 7ae0d748a5d964d35791b5cb15a05e0d
+- curated_id: 9eec654b5e936e63237dc08a7a7f35d7
+  item_date: "2017-04-04 00:00:00"
+  title: FCC Privacy Rule Repeal Will Have Widespread Security Implications
+  url: http://www.darkreading.com/endpoint/fcc-privacy-rule-repeal-will-have-widespread-security-implications/d/d-id/1328559
+  domain: www.darkreading.com
+  image: ""
+- curated_id: aa177cebdc8a15761021afcf5ffe29dc
+  item_date: "2017-04-04 00:00:00"
+  title: Trump signs repeal of U.S. broadband privacy rules
+  url: http://www.reuters.com/article/us-usa-internet-trump-idUSKBN1752PR
+  domain: www.reuters.com
+  image: ""
+- curated_id: 514ca6967a9f5b5aef6bb9d1f64dd90a
+  item_date: "2017-04-04 00:00:00"
+  title: Politicians web browsing history targeted after privacy vote
+  url: http://www.pcworld.com/article/3187615/security/politicians-web-browsing-history-targeted-after-privacy-vote.html#tk.rss_all
+  domain: www.pcworld.com
+  image: ""
+- curated_id: 6b031fb40e1c7ed4314ad5c0bb833a16
+  item_date: "2017-04-04 00:00:00"
+  title: Through Inter-app Data Sharing, Android Apps can get your Data Without Permission
+  url: http://www.itsecurityguru.org/2017/04/04/inter-app-data-sharing-android-apps-can-get-data-without-permission/
+  domain: www.itsecurityguru.org
+  image: ""
+- curated_id: 33bc9eacffa3ed6bfdfa51a10601039d
+  item_date: "2017-04-04 00:00:00"
+  title: Phony VPN Services Are Cashing in on Americas War on Privacy
+  url: https://motherboard.vice.com/en_us/article/phony-vpn-services-are-cashing-in-on-americas-war-on-privacy
+  domain: motherboard.vice.com
+  image: ""
+- curated_id: 3b5d53e6f84c62875e0d2ff8c68d581d
   item_date: "2017-04-05 00:00:00"
-  title: Adblock Plus  Flattr join forces
-  url: https://blog.flattr.net/2017/04/adblock-plus-flattr-join-forces/
-  domain: blog.flattr.net
+  title: Web Inventor Slams US-UK Internet Plans, Cites Privacy Concerns
+  url: http://www.darkreading.com/vulnerabilities---threats/web-inventor-slams-us-uk-internet-plans-cites-privacy-concerns/d/d-id/1328562
+  domain: www.darkreading.com
   image: ""
 - curated_id: a52c39a8774d2a85c1e51a6201a4afbd
   item_date: "2017-04-05 00:00:00"
@@ -3973,11 +3973,36 @@
   url: https://www.nytimes.com/2017/04/05/technology/personaltech/vpn-internet-security.html
   domain: www.nytimes.com
   image: ""
-- curated_id: 3b5d53e6f84c62875e0d2ff8c68d581d
+- curated_id: 7ae0d748a5d964d35791b5cb15a05e0d
   item_date: "2017-04-05 00:00:00"
-  title: Web Inventor Slams US-UK Internet Plans, Cites Privacy Concerns
-  url: http://www.darkreading.com/vulnerabilities---threats/web-inventor-slams-us-uk-internet-plans-cites-privacy-concerns/d/d-id/1328562
+  title: Adblock Plus  Flattr join forces
+  url: https://blog.flattr.net/2017/04/adblock-plus-flattr-join-forces/
+  domain: blog.flattr.net
+  image: ""
+- curated_id: 5540b8ac70253925aee937b138febf0e
+  item_date: "2017-04-06 00:00:00"
+  title: 'The Death of Online Privacy: How to Protect Yourself'
+  url: https://www.privacyrights.org/blog/death-online-privacy-how-protect-yourself
+  domain: www.privacyrights.org
+  image: ""
+- curated_id: 18aad17ea9fc5ca2cc95a7e7152c525c
+  item_date: "2017-04-06 00:00:00"
+  title: '11 UK Charities Punished for Violating Data Privacy Law '
+  url: http://www.darkreading.com/operations/11-uk-charities-punished-for-violating-data-privacy-law-/d/d-id/1328577
   domain: www.darkreading.com
+  image: ""
+- curated_id: e20f4ecaea1ef535021a40a83bb564bd
+  item_date: "2017-04-06 00:00:00"
+  title: Is there still hope for internet privacy in the US?
+  url: https://thenextweb.com/us/2017/04/07/is-there-still-hope-for-internet-privacy-in-the-us/
+  domain: thenextweb.com
+  image: ""
+- curated_id: d5b7d398be477af3834bf004281bf2f0
+  item_date: "2017-04-06 00:00:00"
+  title: "The Data Digest: Are Australian Companies Living Up To Their Clients\u2019
+    Online Expectations?"
+  url: http://blogs.forrester.com/reineke_reitsma/17-04-06-the_data_digest_are_australian_companies_living_up_to_their_clients_online_expectations
+  domain: blogs.forrester.com
   image: ""
 - curated_id: af1807ec8a8361ef5aa64d533e5150b3
   item_date: "2017-04-06 00:00:00"
@@ -3997,42 +4022,17 @@
   url: https://www.eff.org/deeplinks/2017/04/security-professionals-scoff-trumps-position-privacy
   domain: www.eff.org
   image: ""
-- curated_id: e20f4ecaea1ef535021a40a83bb564bd
-  item_date: "2017-04-06 00:00:00"
-  title: Is there still hope for internet privacy in the US?
-  url: https://thenextweb.com/us/2017/04/07/is-there-still-hope-for-internet-privacy-in-the-us/
-  domain: thenextweb.com
-  image: ""
-- curated_id: d5b7d398be477af3834bf004281bf2f0
-  item_date: "2017-04-06 00:00:00"
-  title: "The Data Digest: Are Australian Companies Living Up To Their Clients\u2019
-    Online Expectations?"
-  url: http://blogs.forrester.com/reineke_reitsma/17-04-06-the_data_digest_are_australian_companies_living_up_to_their_clients_online_expectations
-  domain: blogs.forrester.com
-  image: ""
-- curated_id: 5540b8ac70253925aee937b138febf0e
-  item_date: "2017-04-06 00:00:00"
-  title: 'The Death of Online Privacy: How to Protect Yourself'
-  url: https://www.privacyrights.org/blog/death-online-privacy-how-protect-yourself
-  domain: www.privacyrights.org
-  image: ""
-- curated_id: 18aad17ea9fc5ca2cc95a7e7152c525c
-  item_date: "2017-04-06 00:00:00"
-  title: '11 UK Charities Punished for Violating Data Privacy Law '
-  url: http://www.darkreading.com/operations/11-uk-charities-punished-for-violating-data-privacy-law-/d/d-id/1328577
-  domain: www.darkreading.com
-  image: ""
 - curated_id: 6e67202883712f87038a4a1583016b3c
   item_date: "2017-04-06 00:37:25"
   title: Microsoft tries to appease Windows 10 data collection critics
   url: http://www.computerworld.com/article/3187897/microsoft-windows/microsoft-tries-to-appease-windows-10-data-collection-critics.html
   domain: www.computerworld.com
   image: ""
-- curated_id: ad30835d96aa70f46999b5e3dbbfe046
+- curated_id: 5fb406a2ec8301929ad3a12f950aef44
   item_date: "2017-04-07 00:00:00"
-  title: "Google Thinks It Can Solve Artificial Intelligence\u2019s Privacy Problem"
-  url: https://motherboard.vice.com/en_us/article/google-thinks-it-can-solve-artificial-intelligences-privacy-problem
-  domain: motherboard.vice.com
+  title: Feds drop summons to unmask rogue Twitter account
+  url: http://www.zdnet.com/article/feds-drop-summons-to-unmask-rogue-twitter-account/
+  domain: www.zdnet.com
   image: ""
 - curated_id: d3c68f2eaef9cc4d82fc7f2579ec8ce6
   item_date: "2017-04-07 00:00:00"
@@ -4040,11 +4040,11 @@
   url: https://motherboard.vice.com/en_us/article/mysafevpn-offline-phishing-warning-online-privacy
   domain: motherboard.vice.com
   image: ""
-- curated_id: 5fb406a2ec8301929ad3a12f950aef44
+- curated_id: ad30835d96aa70f46999b5e3dbbfe046
   item_date: "2017-04-07 00:00:00"
-  title: Feds drop summons to unmask rogue Twitter account
-  url: http://www.zdnet.com/article/feds-drop-summons-to-unmask-rogue-twitter-account/
-  domain: www.zdnet.com
+  title: "Google Thinks It Can Solve Artificial Intelligence\u2019s Privacy Problem"
+  url: https://motherboard.vice.com/en_us/article/google-thinks-it-can-solve-artificial-intelligences-privacy-problem
+  domain: motherboard.vice.com
   image: ""
 - curated_id: cb2df0befcd85544bdab633887b14937
   item_date: "2017-04-07 11:20:29"
@@ -4060,19 +4060,6 @@
   url: https://twitter.com/EFF/statuses/850504229827432448
   domain: twitter.com
   image: ""
-- curated_id: c72676f8ff8394249cdb9364bae08b59
-  item_date: "2017-04-12 00:00:00"
-  title: Yes, There Are Other Laws That Protect Privacy, But FCCs Rules Were Still
-    Helpful
-  url: https://www.techdirt.com/articles/20170412/08255437133/yes-there-are-other-laws-that-protect-privacy-fccs-rules-were-still-helpful.shtml
-  domain: www.techdirt.com
-  image: ""
-- curated_id: 71012b7938fe0ec267cac36a687fcbe2
-  item_date: "2017-04-12 00:00:00"
-  title: When Did You First Realize the Importance of Online Privacy?
-  url: https://www.eff.org/deeplinks/2017/04/when-did-you-first-realize-importance-online-privacy
-  domain: www.eff.org
-  image: ""
 - curated_id: 61ee40f3aed58b2b27a6291a97ff48aa
   item_date: "2017-04-12 00:00:00"
   title: "What Individuals Should Do Now That Congress Has Obliterated the FCC\u2019s
@@ -4080,18 +4067,31 @@
   url: https://www.aclu.org/blog/free-future/what-individuals-should-do-now-congress-has-obliterated-fccs-privacy-protections
   domain: www.aclu.org
   image: ""
-- curated_id: 303d3bfb3a59c58138449018db5176bb
-  item_date: "2017-04-13 00:00:00"
-  title: "EFF\u2019s Spying on Students Report Highlights Tech Companies\u2019 Data
-    Collection, Parents\u2019 Frustrations"
-  url: https://www.eff.org/press/releases/effs-spying-students-report-highlights-tech-companies-data-collection-parents
+- curated_id: 71012b7938fe0ec267cac36a687fcbe2
+  item_date: "2017-04-12 00:00:00"
+  title: When Did You First Realize the Importance of Online Privacy?
+  url: https://www.eff.org/deeplinks/2017/04/when-did-you-first-realize-importance-online-privacy
   domain: www.eff.org
+  image: ""
+- curated_id: c72676f8ff8394249cdb9364bae08b59
+  item_date: "2017-04-12 00:00:00"
+  title: Yes, There Are Other Laws That Protect Privacy, But FCCs Rules Were Still
+    Helpful
+  url: https://www.techdirt.com/articles/20170412/08255437133/yes-there-are-other-laws-that-protect-privacy-fccs-rules-were-still-helpful.shtml
+  domain: www.techdirt.com
   image: ""
 - curated_id: b5ee677208b41746d5f75d29389deed2
   item_date: "2017-04-13 00:00:00"
   title: Uber adds cross street pickups and drop-offs for more user privacy
   url: https://techcrunch.com/2017/04/13/uber-adds-cross-street-pickups-and-drop-offs-for-more-user-privacy/
   domain: techcrunch.com
+  image: ""
+- curated_id: 303d3bfb3a59c58138449018db5176bb
+  item_date: "2017-04-13 00:00:00"
+  title: "EFF\u2019s Spying on Students Report Highlights Tech Companies\u2019 Data
+    Collection, Parents\u2019 Frustrations"
+  url: https://www.eff.org/press/releases/effs-spying-students-report-highlights-tech-companies-data-collection-parents
+  domain: www.eff.org
   image: ""
 - curated_id: 6a353d83263641f88e69b3c6cee5e978
   item_date: "2017-04-14 00:00:00"
@@ -4106,17 +4106,17 @@
   url: https://www.americanbanker.com/opinion/congress-killed-consumer-data-privacy-industry-should-revive-it
   domain: www.americanbanker.com
   image: ""
-- curated_id: d331dc501b46c0115cbc2b8524bd2377
-  item_date: "2017-04-18 00:00:00"
-  title: Hollow Privacy Promises from Major Internet Service Providers
-  url: https://www.eff.org/deeplinks/2017/04/major-internet-service-providers-privacy-promises-ring-hollow
-  domain: www.eff.org
-  image: ""
 - curated_id: 6817273eae000f43846a70d656da1582
   item_date: "2017-04-18 00:00:00"
   title: The Implications Behind Proposed Internet Privacy Rules
   url: http://www.darkreading.com/endpoint/the-implications-behind-proposed-internet-privacy-rules/a/d-id/1328598
   domain: www.darkreading.com
+  image: ""
+- curated_id: d331dc501b46c0115cbc2b8524bd2377
+  item_date: "2017-04-18 00:00:00"
+  title: Hollow Privacy Promises from Major Internet Service Providers
+  url: https://www.eff.org/deeplinks/2017/04/major-internet-service-providers-privacy-promises-ring-hollow
+  domain: www.eff.org
   image: ""
 - curated_id: c6baf41a8535a735df6b7a8b905d96e7
   item_date: "2017-04-19 00:00:00"
@@ -4125,17 +4125,17 @@
   url: https://www.eff.org/deeplinks/2017/04/bill-rights-border-fifth-amendment-protections-account-passwords-and-device
   domain: www.eff.org
   image: ""
-- curated_id: ac67a4875cdeed96b513ad0e6b65b730
-  item_date: "2017-04-20 00:00:00"
-  title: Users Overshare Sensitive Enterprise Data
-  url: http://www.darkreading.com/endpoint/users-overshare-sensitive-enterprise-data/d/d-id/1328689
-  domain: www.darkreading.com
-  image: ""
 - curated_id: 303b88cf8a8daea87142abfb57c1cbb2
   item_date: "2017-04-20 00:00:00"
   title: Paraguays Internet Companies Defend Data, But Keep Customers in the Dark
   url: https://www.eff.org/deeplinks/2017/04/paraguays-internet-companies-defend-data-keep-customers-dark
   domain: www.eff.org
+  image: ""
+- curated_id: ac67a4875cdeed96b513ad0e6b65b730
+  item_date: "2017-04-20 00:00:00"
+  title: Users Overshare Sensitive Enterprise Data
+  url: http://www.darkreading.com/endpoint/users-overshare-sensitive-enterprise-data/d/d-id/1328689
+  domain: www.darkreading.com
   image: ""
 - curated_id: f14b623f3b153d7f843c880f6348f139
   item_date: "2017-04-27 00:00:00"
@@ -4143,17 +4143,17 @@
   url: https://blog.clever.com/2017/04/clever-thinks-security-privacy/
   domain: blog.clever.com
   image: ""
-- curated_id: d6a920889dbfe4d03054dea983cf81c1
-  item_date: "2017-04-28 00:00:00"
-  title: Uber adds privacy info and easy account deletion
-  url: https://techcrunch.com/2017/04/28/uber-adds-privacy-info-and-easy-account-deletion/
-  domain: techcrunch.com
-  image: ""
 - curated_id: e692067ffae8855f93796108b7846238
   item_date: "2017-04-28 00:00:00"
   title: FTC Offers ID Theft Victims Online Crime Reporting Tool
   url: http://www.darkreading.com/endpoint/ftc-offers-id-theft-victims-online-crime-reporting-tool/d/d-id/1328763
   domain: www.darkreading.com
+  image: ""
+- curated_id: d6a920889dbfe4d03054dea983cf81c1
+  item_date: "2017-04-28 00:00:00"
+  title: Uber adds privacy info and easy account deletion
+  url: https://techcrunch.com/2017/04/28/uber-adds-privacy-info-and-easy-account-deletion/
+  domain: techcrunch.com
   image: ""
 - curated_id: 79593d9b6d0b54af62387d3ae1e855cc
   item_date: "2017-04-30 00:00:00"
@@ -4168,6 +4168,12 @@
   url: https://www.eff.org/deeplinks/2017/05/what-dont-you-want-nsa-know-about-you
   domain: www.eff.org
   image: ""
+- curated_id: 134fade2eb0a43c751a730fdb8f27ee6
+  item_date: "2017-05-02 00:00:00"
+  title: Sound Masking for Speech Privacy in Open Offices and Healthcare Environments
+  url: http://www.avnetwork.com/avtechnology/sound-masking-for-speech-privacy-in-open-offices-and-healthcare-environments/126317
+  domain: www.avnetwork.com
+  image: ""
 - curated_id: b45a4e5f10056421df3f54f946387abe
   item_date: "2017-05-02 00:00:00"
   title: "Can a Bitcoin Blockchain\u2013Inspired Ledger Give Individuals Control Over
@@ -4175,23 +4181,17 @@
   url: http://spectrum.ieee.org/tech-talk/computing/networks/can-sovrin-and-hyperledger-solve-the-hellish-nightmare-of-online-identity
   domain: spectrum.ieee.org
   image: ""
-- curated_id: 134fade2eb0a43c751a730fdb8f27ee6
-  item_date: "2017-05-02 00:00:00"
-  title: Sound Masking for Speech Privacy in Open Offices and Healthcare Environments
-  url: http://www.avnetwork.com/avtechnology/sound-masking-for-speech-privacy-in-open-offices-and-healthcare-environments/126317
-  domain: www.avnetwork.com
+- curated_id: 4f20d263027be6d1bc4a0f2bd9bed7ab
+  item_date: "2017-05-03 00:00:00"
+  title: 'Tech Fix: How to Protect Your Privacy as More Apps Harvest Your Data'
+  url: https://www.nytimes.com/2017/05/03/technology/personaltech/how-to-protect-your-privacy-as-more-apps-harvest-your-data.html
+  domain: www.nytimes.com
   image: ""
 - curated_id: 57bf5281f34dab4c4081c352e5f846f3
   item_date: "2017-05-03 00:00:00"
   title: Billboards go up targeting lawmakers who voted to gut Internet privacy
   url: http://boingboing.net/2017/05/03/billboards-go-up-targeting-law.html
   domain: boingboing.net
-  image: ""
-- curated_id: 4f20d263027be6d1bc4a0f2bd9bed7ab
-  item_date: "2017-05-03 00:00:00"
-  title: 'Tech Fix: How to Protect Your Privacy as More Apps Harvest Your Data'
-  url: https://www.nytimes.com/2017/05/03/technology/personaltech/how-to-protect-your-privacy-as-more-apps-harvest-your-data.html
-  domain: www.nytimes.com
   image: ""
 - curated_id: 828d7aca3b40475510647b8a06bc3a3d
   item_date: "2017-05-04 00:00:00"
@@ -4205,17 +4205,17 @@
   url: https://sunlightfoundation.com/2017/05/04/dc-data-policy-balances-privacy-security-and-openness/
   domain: sunlightfoundation.com
   image: ""
-- curated_id: 167cc0af741dc8c067bec6922e91930a
-  item_date: "2017-05-08 00:00:00"
-  title: How to be human while collecting customer data
-  url: https://www.zendesk.com/blog/human-collecting-customer-data/
-  domain: www.zendesk.com
-  image: ""
 - curated_id: b891de7f9e047012a5755d88462f0b53
   item_date: "2017-05-08 00:00:00"
   title: FTC Promotes Privacy Awareness Week
   url: https://www.us-cert.gov/ncas/current-activity/2017/05/08/FTC-Promotes-Privacy-Awareness-Week
   domain: www.us-cert.gov
+  image: ""
+- curated_id: 167cc0af741dc8c067bec6922e91930a
+  item_date: "2017-05-08 00:00:00"
+  title: How to be human while collecting customer data
+  url: https://www.zendesk.com/blog/human-collecting-customer-data/
+  domain: www.zendesk.com
   image: ""
 - curated_id: e2f69ae1b951f3becbbf7e4a44a3c080
   item_date: "2017-05-12 09:43:36"
@@ -4530,11 +4530,101 @@
   url: https://www.darkreading.com/attacks-breaches/voter-registration-data-from-9-states-available-for-sale-on-dark-web/d/d-id/1329451
   domain: www.darkreading.com
   image: ""
+- curated_id: oWwSZ9Xu4Zg49bpJDa0MWTMCyM67pScdNU+gxmUAZuo=_15d76eae228:15db6de:41b98b00
+  item_date: "2017-07-24 16:20:06"
+  title: Trump voting commission wins right to collect state voter data
+  url: https://arstechnica.com/?p=1137255
+  domain: arstechnica.com
+  image: ""
+- curated_id: dIslAC/74CXeS1Mz8zq+s0d2TJcshDPyxk6DQBVrzSc=_15d7a4394cb:537e4e:41b98b00
+  item_date: "2017-07-25 08:00:26"
+  title: Novel Attack Tricks Servers to Cache, Expose Personal Data
+  url: https://kasperskycontenthub.com/threatpost/?p=127014
+  domain: kasperskycontenthub.com
+  image: ""
+- curated_id: MMCA/259PVQgzewWTRJNcvw/8XXvgI6S68GWeJF7z/0=_15d7ae59bf4:5304e:6c0c5382
+  item_date: "2017-07-25 10:56:21"
+  title: iRobot CEO says the company won't share your Roomba home mapping data without
+    your OK
+  url: http://mashable.com/?p=bp-52427
+  domain: mashable.com
+  image: ""
+- curated_id: 2tK8U532T6qxpXjFF9qU2weo7mkDoaRdhNtr+Nxvykk=_15d7b469e28:2c2d20a:9493fdce
+  item_date: "2017-07-25 12:43:31"
+  title: 'Cyber staff: Wisconsin company offers to microchip employees'
+  url: http://hosted.ap.org/dynamic/stories/U/US_MICROCHIPPED_EMPLOYEES_WIOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
+  domain: hosted.ap.org
+  image: ""
+- curated_id: Xne8uW/IUiZhV1EuO2ZMzIrc2Ak6NlhGjboZ+Yk0rJ8=_15d7b4aa443:7682cd:41b98b00
+  item_date: "2017-07-25 12:47:34"
+  title: "iRobot\u2019s CEO defends Roomba home mapping as privacy concerns arise"
+  url: http://techcrunch.com/?p=1518782
+  domain: techcrunch.com
+  image: ""
+- curated_id: dU5peSp0V6f8LsDMUzzgZGqiuFWv2htICdJf6zfcBfc=_15d7f946053:32b7f8d:9493fdce
+  item_date: "2017-07-26 08:37:53"
+  title: Roomba wants to sell the maps of the inside of your home it created while
+    cleaning
+  url: http://boingboing.net/?p=537446
+  domain: boingboing.net
+  image: ""
+- curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_15d859522e6:3c8da8d:9493fdce
+  item_date: "2017-07-27 05:53:00"
+  title: 'IoT Privacy: Roomba wants to sell maps of your living room. You shouldn''t
+    be surprised'
+  url: http://www.wired.co.uk/article/roomba-data-sell-internet-of-things
+  domain: www.wired.co.uk
+  image: ""
+- curated_id: JA1HSQatpPXQxCQ4ABRR78b1Bv2C04PJrJczJ3cK8JA=_15d8483b586:3a60b9a:53d642ee
+  item_date: "2017-07-27 07:30:00"
+  title: The Right to Be Forgotten & the New Era of Personal Data Rights
+  url: https://www.darkreading.com/vulnerabilities---threats/the-right-to-be-forgotten-and-the-new-era-of-personal-data-rights/a/d-id/1329416
+  domain: www.darkreading.com
+  image: ""
+- curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_15d859522e6:3c8da91:9493fdce
+  item_date: "2017-07-27 08:12:51"
+  title: "Wells Fargo apologizes for spilling trove of data on wealthy clients \u2013
+    Naked Security"
+  url: https://nakedsecurity.sophos.com/2017/07/27/wells-fargo-apologizes-for-spilling-trove-of-data-on-wealthy-clients/
+  domain: nakedsecurity.sophos.com
+  image: ""
+- curated_id: PSNTZO8gXFUe+cpCZyApw0vEKWPT4b14D6teBEocIAE=_15d858875d5:3c784a4:9493fdce
+  item_date: "2017-07-27 12:27:57"
+  title: Senate bill would stop police from obtaining emails and location data without
+    a warrant
+  url: https://www.theverge.com/2017/7/27/16050042/senate-bill-email-privacy-data
+  domain: www.theverge.com
+  image: ""
+- curated_id: PabZ8i1QCHv3KpsuDwP+IaHjEII8doc1zV63QTNW0N8=_15d8616c43a:3cca749:53d642ee
+  item_date: "2017-07-27 15:07:05"
+  title: We tested apps for children. Half failed to protect their data.
+  url: https://www.washingtonpost.com/news/the-switch/wp/2017/07/27/we-tested-apps-for-children-half-failed-to-protect-their-data/
+  domain: www.washingtonpost.com
+  image: ""
+- curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_15d8abf5588:443ec04:9493fdce
+  item_date: "2017-07-28 05:51:58"
+  title: 'My world is their Oyster: the price of privacy'
+  url: https://www.ft.com/content/bf2d0752-7191-11e7-aca6-c6bd07df1a3c
+  domain: www.ft.com
+  image: ""
 - curated_id: PSNTZO8gXFUe+cpCZyApw0vEKWPT4b14D6teBEocIAE=_15d89c2ad60:28ae32:68e64fa8
   item_date: "2017-07-28 08:04:11"
   title: "Roomba creator says it \u2018will never sell your data\u2019 after talking
     about selling your data"
   url: https://www.theverge.com/2017/7/28/16055590/roomba-wont-sell-data-irobot
   domain: www.theverge.com
+  image: ""
+- curated_id: Xne8uW/IUiZhV1EuO2ZMzIrc2Ak6NlhGjboZ+Yk0rJ8=_15d8ab477ca:f858b6:898d1914
+  item_date: "2017-07-28 12:37:11"
+  title: "iRobot\u2019s CEO says the company never planned to sell Roomba home mapping
+    data"
+  url: http://techcrunch.com/?p=1520732
+  domain: techcrunch.com
+  image: ""
+- curated_id: dU5peSp0V6f8LsDMUzzgZGqiuFWv2htICdJf6zfcBfc=_15d8eb1e058:48aaa21:53d642ee
+  item_date: "2017-07-29 06:58:50"
+  title: Roomba walks back plan to sell maps of your house to Amazon and Google
+  url: http://boingboing.net/?p=538085
+  domain: boingboing.net
   image: ""
 ...
