@@ -1,115 +1,165 @@
-- building_block_id: permitted-and-prohibited-uses
-  type: Privacy
-  category: Usage of Service
-  name: Permitted and Prohibited Uses
-  description: >-
-    What are the permitted uses of data and content made available via the APIs,
-    and what are some of the common prohibited uses that impact the
-  image: ''
-  tags: Privacy
-- building_block_id: use-of-personally-identifiable-information
-  type: Privacy
-  category: Data & Information
-  name: Use of Personally Identifiable Information
-  description: >-
-    Linking to the same area in terms of service, how is privacy considered when
-    personally identifiable information is put to use. Lay out what is
-    considered in this area.
-  image: ''
-  tags: Privacy
-- building_block_id: user-submissions
-  type: Privacy
-  category: Data & Information
-  name: User Submissions
-  description: >-
-    What is the general view of user submissions, and user generated content and
-    data. Is it core to platform operations, and what is the general tone of
-    users and API consumers access and ownership of this exhaust.
-  image: ''
-  tags: Privacy
-- building_block_id: user-discussion-lists-and-forums
-  type: Privacy
-  category: Data & Information
-  name: User Discussion Lists and Forums
-  description: >-
-    What privacy considerations have been made around discussion lists and
-    forums operated by the platform? What data is stored? How is the privacy of
-    users addressed?
-  image: ''
-  tags: Privacy
-- building_block_id: license
-  type: Privacy
-  category: Legal Department
-  name: License
-  description: >-
-    What licensing considerations are there that could potentially impact the
-    privacy of platform owners, consumers, and end-users.
-  image: ''
-  tags: Privacy
-- building_block_id: intellectual-property-rights
-  type: Privacy
-  category: Legal Department
-  name: Intellectual Property Rights
-  description: >-
-    Where does intellectual property rights come into play, that could
-    potentially impact the privacy of platform owners, consumers, and end-users.
-  image: ''
-  tags: Privacy
-- building_block_id: liability
-  type: Privacy
-  category: Legal Department
-  name: Liability
-  description: >-
-    What is the liability assumed by the platform, or possibly consumers, and
-    end-users when it comes to platform operations, in the area of privacy.
-  image: ''
-  tags: Privacy
-- building_block_id: warranty-disclaimer
-  type: Privacy
-  category: Legal Department
-  name: Warranty Disclaimer
-  description: >-
-    A disclaimer is a defensive measure, used generally with the purpose of
-    protection from unwanted claims or liability. A platform may disclaim
-    responsibility for loss or damage to a customer's Personal Property, or a
-    disclaimer clause in a contract might set forth certain promises and deny
-    all other promises or responsibilities.
-  image: ''
-  tags: Privacy
-- building_block_id: technical-requirements-and-limitations
-  type: Privacy
-  category: Technical Details
-  name: Technical Requirements and Limitations
-  description: >-
-    What are the technical requirements and limitations that impact the privacy
-    of platform owners, consumers, and end-users.
-  image: ''
-  tags: Privacy
-- building_block_id: links-to-other-materials
-  type: Privacy
-  category: Site Linkage
-  name: Links to Other Materials
-  description: >-
-    What are the privacy considerations when external sites and materials are
-    linked to.
-  image: ''
-  tags: Privacy
-- building_block_id: termination
-  type: Privacy
-  category: Platform Changes
-  name: Termination
-  description: >-
-    What privacy considerations are taken when accounts are terminated. Can
-    users, and API consumers terminate their relationship and assume that
-    privacy is respected.
-  image: ''
-  tags: Privacy
-- building_block_id: changes
-  type: Privacy
-  category: Platform Changes
-  name: Changes
-  description: >-
-    How may changes to the platform, APIs, and how data is collected and stored
-    that may impact privacy.
-  image: ''
-  tags: Privacy
+- building_block_id: web-concepts
+  type: Definitions
+  category: Formats
+  name: Web Concepts
+  descripion: >-
+    APIs are built on the web, and there are numerous web concepts in play that
+    should be considered as part of the API design process.
+  logo: ''
+  tags: Definitions
+- building_block_id: specification
+  type: Definitions
+  category: Formats
+  name: Specification
+  descripion: >-
+    The root specification for the API definition format, providing a base set
+    of rules for all services and tools that employ the spec.
+  logo: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-schema.png
+  tags: Definitions
+- building_block_id: schema
+  type: Definitions
+  category: Formats
+  name: Schema
+  descripion: >-
+    A representation of data model, used as part of an API request, or response,
+    usually in JSON, but increasingly YAML, and Markdown are also used.
+  logo: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-schema.png
+  tags: Definitions
+- building_block_id: generator
+  type: Definitions
+  category: Tooling
+  name: Generator
+  descripion: >-
+    Generating an API definition format from an existing system or platform,
+    outputting the portable machine readable format.
+  logo: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-generate.png
+  tags: Definitions
+- building_block_id: parser
+  type: Definitions
+  category: Tooling
+  name: Parser
+  descripion: >-
+    Parses a machine readable API definition and makes ready for use in specific
+    language, structure, or platform.
+  logo: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-parse.png
+  tags: Definitions
+- building_block_id: validator
+  type: Definitions
+  category: Tooling
+  name: Validator
+  descripion: >-
+    Validates an API definition against its formal specification and schema,
+    producing a valid or invalid response, with as much detail as possible.
+  logo: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-valid.png
+  tags: Definitions
+- building_block_id: converter
+  type: Definitions
+  category: Tooling
+  name: Converter
+  descripion: >-
+    The conversion of an API definition from one format into another, allowing
+    designers to share API definitions in any format.
+  logo: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-conversion.png
+  tags: Definitions
+- building_block_id: commandline
+  type: Definitions
+  category: Tooling
+  name: Command-Line
+  descripion: The usage of machine readable API definitions at the command line.
+  logo: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-command-line.png
+  tags: Definitions
+- building_block_id: powershell
+  type: Definitions
+  category: Tooling
+  name: Powershell
+  descripion: The usage of machine readable API definitions via the powershell interface.
+  logo: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-command-line.png
+  tags: Definitions
+- building_block_id: aggregator
+  type: Definitions
+  category: Tooling
+  name: Aggregator
+  descripion: Aggregation of APIs using a machine readable API definition format.
+  logo: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-arrow-aggregate.png
+  tags: Definitions
+- building_block_id: translator
+  type: Definitions
+  category: Tooling
+  name: Translator
+  descripion: >-
+    Being able to translate an API definition format from one format to another,
+    either manually or automatically.
+  logo: ''
+  tags: Definitions
+- building_block_id: merging
+  type: Definitions
+  category: Tooling
+  name: Merging
+  descripion: >-
+    Tooling or other APIs that provide for the merging of common API definition
+    formats, allowing the granularity of what elements get merged, or do not get
+    merged. Ideally, this is an API, as well as simple web-based or desktop
+    tooling for API providers and consumers.
+  logo: ''
+  tags: Definitions
+- building_block_id: diff
+  type: Definitions
+  category: Tooling
+  name: Diff
+  descripion: >-
+    Providing side by side comparison of two API definitions, programmatically
+    and visually helping identify between two API definitions. This allows for
+    API architects, designers, and consumers to understand the completeness of
+    two definitions, in relation to each other.
+  logo: ''
+  tags: Definitions
+- building_block_id: editors
+  type: Definitions
+  category: Environment
+  name: Editors
+  descripion: >-
+    API definition editor, allowing for the creation, import, and export of API
+    definition formats, providing a simple, IDE like API editing experience.
+  logo: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-editor.png
+  tags: Definitions
+- building_block_id: ide-plugin
+  type: Definitions
+  category: Environment
+  name: IDE Plugin
+  descripion: >-
+    Providing integration with existing integrated development environments
+    (IDE), giving developers API discovery, documentation, and integration
+    tooling within the IDE.
+  logo: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-editor.png
+  tags: Definitions
+- building_block_id: forms
+  type: Definitions
+  category: Environment
+  name: Forms
+  descripion: >-
+    Dynamically generating an HTML form from an API definition, allow for the
+    structure, and handling to be driven by an API definition.
+  logo: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-forms.png
+  tags: Definitions
+- building_block_id: github
+  type: Definitions
+  category: Environment
+  name: GIthub
+  descripion: >-
+    Allowing for the import, publishing, and syncing of API definitions and
+    schemas to Github for forking, and management using the social coding
+    platform.
+  logo: ''
+  tags: Definitions
