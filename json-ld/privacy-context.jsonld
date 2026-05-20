@@ -1,0 +1,133 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "priv": "https://api-evangelist.github.io/privacy/schema/",
+    "schema": "https://schema.org/",
+    "dcterms": "http://purl.org/dc/terms/",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dpv": "https://w3id.org/dpv#",
+    "gdpr": "https://w3id.org/dpv/legal/eu/gdpr#",
+
+    "ConsentRecord": "dpv:Consent",
+    "DataSubjectRequest": "dpv:DataSubjectRight",
+    "PrivacyNotice": "dpv:PrivacyNotice",
+    "DataInventoryEntry": "dpv:PersonalDataHandling",
+
+    "name": "schema:name",
+    "description": "schema:description",
+    "controller": {
+      "@id": "dpv:hasDataController",
+      "@type": "@id"
+    },
+    "data_subject_id": {
+      "@id": "dpv:hasDataSubject",
+      "@type": "xsd:string"
+    },
+    "data_subject": {
+      "@id": "dpv:hasDataSubject",
+      "@type": "@id"
+    },
+    "jurisdiction": {
+      "@id": "dpv:hasJurisdiction",
+      "@type": "xsd:string"
+    },
+    "purposes": {
+      "@id": "dpv:hasPurpose",
+      "@container": "@set"
+    },
+    "purpose_id": {
+      "@id": "priv:purpose_id",
+      "@type": "xsd:string"
+    },
+    "status": {
+      "@id": "priv:status",
+      "@type": "xsd:string"
+    },
+    "legal_basis": {
+      "@id": "dpv:hasLegalBasis",
+      "@type": "xsd:string"
+    },
+    "consent_string": {
+      "@id": "priv:consent_string",
+      "@type": "xsd:string"
+    },
+    "captured_at": {
+      "@id": "dcterms:created",
+      "@type": "xsd:dateTime"
+    },
+    "expires_at": {
+      "@id": "schema:expires",
+      "@type": "xsd:dateTime"
+    },
+    "source": {
+      "@id": "priv:source"
+    },
+    "surface": {
+      "@id": "priv:surface",
+      "@type": "xsd:string"
+    },
+    "ip_address": {
+      "@id": "priv:ip_address",
+      "@type": "xsd:string"
+    },
+    "user_agent": {
+      "@id": "priv:user_agent",
+      "@type": "xsd:string"
+    },
+    "gpc_signal": {
+      "@id": "priv:gpc_signal",
+      "@type": "xsd:boolean"
+    },
+    "evidence_url": {
+      "@id": "priv:evidence_url",
+      "@type": "@id"
+    },
+
+    "request_id": {
+      "@id": "priv:request_id",
+      "@type": "xsd:string"
+    },
+    "type": {
+      "@id": "priv:request_type",
+      "@type": "xsd:string"
+    },
+    "authorized_agent": {
+      "@id": "priv:authorized_agent"
+    },
+    "verification": {
+      "@id": "priv:verification"
+    },
+    "method": {
+      "@id": "priv:verification_method",
+      "@type": "xsd:string"
+    },
+    "verified_at": {
+      "@id": "priv:verified_at",
+      "@type": "xsd:dateTime"
+    },
+    "received_at": {
+      "@id": "dcterms:dateSubmitted",
+      "@type": "xsd:dateTime"
+    },
+    "due_at": {
+      "@id": "schema:scheduledTime",
+      "@type": "xsd:dateTime"
+    },
+    "fulfilled_at": {
+      "@id": "dcterms:dateAccepted",
+      "@type": "xsd:dateTime"
+    },
+    "systems_in_scope": {
+      "@id": "priv:systems_in_scope",
+      "@container": "@set"
+    },
+    "role": {
+      "@id": "dpv:hasRole",
+      "@type": "xsd:string"
+    },
+    "response_package_url": {
+      "@id": "priv:response_package_url",
+      "@type": "@id"
+    }
+  }
+}

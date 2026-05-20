@@ -1,0 +1,336 @@
+vocabulary: "1.0.0"
+
+info:
+  provider: Privacy
+  description: Vocabulary for the privacy topic, covering consent management, data subject rights, PII detection, privacy notices, and data inventories used by privacy and compliance programs.
+  created: '2026-05-19'
+  modified: '2026-05-19'
+
+operational:
+  apis:
+    - name: OneTrust Privacy and Consent
+      namespace: onetrust
+      status: active
+    - name: Nightfall AI PII Detection
+      namespace: nightfall-ai
+      status: active
+    - name: Amazon Macie
+      namespace: amazon-macie
+      status: active
+    - name: Segment Privacy and Deletion API
+      namespace: segment
+      status: active
+    - name: Mixpanel Data Deletion API
+      namespace: mixpanel
+      status: active
+    - name: LiveRamp Identity and Permissioning
+      namespace: liveramp
+      status: active
+
+  resources:
+    - name: consent-records
+      description: Auditable records of consent decisions captured from data subjects across web, mobile, and server-side surfaces
+      actions:
+        - capture
+        - get
+        - list
+        - withdraw
+        - export
+    - name: data-subject-requests
+      description: Access, deletion, correction, portability, and opt-out requests submitted under GDPR, CCPA, and other privacy regulations
+      actions:
+        - create
+        - get
+        - list
+        - verify
+        - fulfill
+        - close
+    - name: privacy-notices
+      description: Externally-facing privacy notices, cookie notices, and preference centers shown to data subjects
+      actions:
+        - publish
+        - get
+        - list
+        - version
+    - name: data-inventory
+      description: Records of processing activities, data maps, vendor inventories, and data transfer registers
+      actions:
+        - create
+        - get
+        - list
+        - update
+        - delete
+    - name: pii-findings
+      description: Discovery and classification findings produced by PII detection scans across data stores and SaaS apps
+      actions:
+        - scan
+        - get
+        - list
+        - remediate
+    - name: opt-out-signals
+      description: Inbound and outbound machine-readable privacy signals such as GPC, Do Not Sell or Share, and IAB TCF strings
+      actions:
+        - detect
+        - propagate
+        - get
+
+  actions:
+    - name: capture
+      description: Record a new consent decision from a data subject
+      httpMethod: POST
+      pattern: write
+    - name: withdraw
+      description: Mark a previously granted consent as withdrawn
+      httpMethod: POST
+      pattern: write
+    - name: create
+      description: Create a new resource such as a data subject request or data inventory entry
+      httpMethod: POST
+      pattern: write
+    - name: verify
+      description: Verify the identity of a data subject submitting a request
+      httpMethod: POST
+      pattern: write
+    - name: fulfill
+      description: Fulfill a data subject request by collecting or deleting data across in-scope systems
+      httpMethod: POST
+      pattern: write
+    - name: close
+      description: Close a request as fulfilled, denied, or withdrawn
+      httpMethod: POST
+      pattern: write
+    - name: publish
+      description: Publish a new version of a privacy notice or preference center
+      httpMethod: POST
+      pattern: write
+    - name: version
+      description: Retrieve historical versions of a privacy artifact
+      httpMethod: GET
+      pattern: read
+    - name: scan
+      description: Run a PII discovery and classification scan against a data store
+      httpMethod: POST
+      pattern: write
+    - name: remediate
+      description: Apply a remediation action such as redaction, encryption, or quarantine to a PII finding
+      httpMethod: POST
+      pattern: write
+    - name: detect
+      description: Detect an inbound privacy signal such as GPC on a request
+      httpMethod: GET
+      pattern: read
+    - name: propagate
+      description: Propagate an opt-out signal to downstream systems
+      httpMethod: POST
+      pattern: write
+    - name: list
+      description: Enumerate resources
+      httpMethod: GET
+      pattern: read
+    - name: get
+      description: Retrieve a single resource
+      httpMethod: GET
+      pattern: read
+    - name: update
+      description: Update an existing resource
+      httpMethod: PUT
+      pattern: write
+    - name: delete
+      description: Remove a resource
+      httpMethod: DELETE
+      pattern: destructive
+    - name: export
+      description: Export a resource or set of resources in a portable format
+      httpMethod: GET
+      pattern: read
+
+  schemas:
+    core:
+      - name: ConsentRecord
+        description: An auditable record of a data subject's consent decision for one or more processing purposes
+        properties:
+          - consent_id
+          - data_subject_id
+          - controller
+          - jurisdiction
+          - purposes
+          - legal_basis
+          - consent_string
+          - captured_at
+          - expires_at
+          - source
+          - evidence_url
+      - name: DataSubjectRequest
+        description: A data subject access, deletion, correction, portability, or opt-out request
+        properties:
+          - request_id
+          - type
+          - jurisdiction
+          - data_subject
+          - authorized_agent
+          - verification
+          - status
+          - received_at
+          - due_at
+          - fulfilled_at
+          - systems_in_scope
+          - response_package_url
+
+  enums:
+    jurisdictions:
+      - GDPR
+      - CCPA
+      - CPRA
+      - LGPD
+      - PIPL
+      - PIPEDA
+      - VCDPA
+      - Other
+    request_types:
+      - access
+      - deletion
+      - correction
+      - portability
+      - opt-out-sale
+      - opt-out-share
+      - opt-out-profiling
+      - restriction
+      - objection
+      - limit-sensitive-data
+    legal_bases:
+      - consent
+      - contract
+      - legal-obligation
+      - vital-interests
+      - public-task
+      - legitimate-interests
+    consent_statuses:
+      - granted
+      - denied
+      - withdrawn
+    request_statuses:
+      - received
+      - verifying
+      - in-progress
+      - fulfilled
+      - denied
+      - extended
+      - withdrawn
+    surfaces:
+      - web
+      - mobile
+      - ott
+      - in-store
+      - server-to-server
+      - api
+
+capability:
+  workflows:
+    - name: Cookie Consent Capture
+      description: Show a consent banner on first visit, capture per-purpose decisions, and persist an auditable consent record that downstream tag managers and CDPs can read
+      apis:
+        - onetrust
+        - google-tag-manager
+        - segment
+      personas:
+        - Privacy Engineer
+        - Web Developer
+      domains:
+        - Consent Management
+    - name: DSAR Fulfillment
+      description: Receive a data subject access or deletion request, verify identity, fan out across in-scope systems, and return a response within the regulatory deadline
+      apis:
+        - onetrust
+        - segment
+        - mixpanel
+      personas:
+        - Privacy Operations Analyst
+        - Data Protection Officer
+      domains:
+        - Data Subject Rights
+    - name: PII Discovery and Remediation
+      description: Scan cloud data stores and SaaS apps for unprotected personal data, classify findings, and route remediation tasks to data owners
+      apis:
+        - nightfall-ai
+        - amazon-macie
+      personas:
+        - Privacy Engineer
+        - Security Engineer
+      domains:
+        - PII Detection
+    - name: Opt-Out Signal Honoring
+      description: Detect Global Privacy Control on inbound traffic and propagate the resulting opt-out to ad tech, analytics, and CRM destinations
+      apis:
+        - segment
+        - onetrust
+      personas:
+        - Privacy Engineer
+        - Marketing Operations
+      domains:
+        - Consent Management
+
+  personas:
+    - id: data-protection-officer
+      name: Data Protection Officer
+      description: Senior accountable owner for the organization's privacy program, regulator engagement, and DPIA sign-off
+      workflows:
+        - DSAR Fulfillment
+    - id: privacy-engineer
+      name: Privacy Engineer
+      description: Engineer who designs, implements, and operates technical privacy controls such as consent capture, data deletion, and PII detection pipelines
+      workflows:
+        - Cookie Consent Capture
+        - PII Discovery and Remediation
+        - Opt-Out Signal Honoring
+    - id: privacy-operations-analyst
+      name: Privacy Operations Analyst
+      description: Operations analyst who runs day-to-day DSAR intake, identity verification, and case management
+      workflows:
+        - DSAR Fulfillment
+    - id: marketing-operations
+      name: Marketing Operations
+      description: Marketing operations practitioner responsible for honoring opt-outs in ad tech and CRM systems
+      workflows:
+        - Opt-Out Signal Honoring
+
+  domains:
+    - name: Consent Management
+      description: Capture, store, and propagate user consent and opt-out signals across web, mobile, and server-side surfaces
+    - name: Data Subject Rights
+      description: Intake, verify, and fulfill access, deletion, correction, portability, and opt-out requests under privacy law
+    - name: PII Detection
+      description: Discover, classify, and remediate personally identifiable information across data stores and SaaS apps
+    - name: Data Inventory
+      description: Maintain records of processing, data maps, and vendor inventories that document where personal data lives and flows
+
+crossReference:
+  - resource: consent-records
+    operations:
+      - capture
+      - get
+      - withdraw
+    workflows:
+      - Cookie Consent Capture
+      - Opt-Out Signal Honoring
+    personas:
+      - Privacy Engineer
+  - resource: data-subject-requests
+    operations:
+      - create
+      - verify
+      - fulfill
+      - close
+    workflows:
+      - DSAR Fulfillment
+    personas:
+      - Privacy Operations Analyst
+      - Data Protection Officer
+  - resource: pii-findings
+    operations:
+      - scan
+      - get
+      - remediate
+    workflows:
+      - PII Discovery and Remediation
+    personas:
+      - Privacy Engineer

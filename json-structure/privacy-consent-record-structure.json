@@ -1,0 +1,142 @@
+{
+  "$schema": "https://json-structure.org/meta/core/v0/#",
+  "$id": "https://raw.githubusercontent.com/api-evangelist/privacy/refs/heads/main/json-structure/privacy-consent-record-structure.json",
+  "name": "ConsentRecord",
+  "description": "An auditable record of a data subject's consent decision for one or more privacy purposes, captured by a consent management platform or first-party application.",
+  "type": "object",
+  "properties": {
+    "consent_id": {
+      "type": "string",
+      "description": "Stable identifier for this consent record.",
+      "example": "cns_01HR7Q8K9V2M3N4P5R6S7T8V9W"
+    },
+    "data_subject_id": {
+      "type": "string",
+      "description": "Pseudonymous identifier for the data subject who granted or denied consent.",
+      "example": "ds_8e2c4f51a9b34a7d8e2c4f51a9b3"
+    },
+    "controller": {
+      "type": "string",
+      "description": "Legal entity acting as data controller for the processing covered by this consent.",
+      "example": "Acme Retail Inc."
+    },
+    "jurisdiction": {
+      "type": "string",
+      "description": "Primary legal jurisdiction whose privacy regime governs this consent record.",
+      "enum": [
+        "GDPR",
+        "CCPA",
+        "CPRA",
+        "LGPD",
+        "PIPL",
+        "PIPEDA",
+        "VCDPA",
+        "Other"
+      ],
+      "example": "GDPR"
+    },
+    "purposes": {
+      "type": "array",
+      "description": "Processing purposes the data subject granted or denied consent for.",
+      "items": {
+        "type": "object",
+        "properties": {
+          "purpose_id": {
+            "type": "string",
+            "example": "marketing-email"
+          },
+          "name": {
+            "type": "string",
+            "example": "Marketing Email"
+          },
+          "status": {
+            "type": "string",
+            "enum": [
+              "granted",
+              "denied",
+              "withdrawn"
+            ],
+            "example": "granted"
+          }
+        },
+        "required": [
+          "purpose_id",
+          "status"
+        ]
+      }
+    },
+    "legal_basis": {
+      "type": "string",
+      "description": "Legal basis claimed for the processing covered by this record.",
+      "enum": [
+        "consent",
+        "contract",
+        "legal-obligation",
+        "vital-interests",
+        "public-task",
+        "legitimate-interests"
+      ],
+      "example": "consent"
+    },
+    "consent_string": {
+      "type": "string",
+      "description": "Optional machine-readable consent string, such as an IAB TCF v2.2 string or a GPP string.",
+      "example": "CPzPTYAPzPTYAAKAtBENDFCsAP_AAH_AAAAAItNf_X__b3_j-_5_f_t0eY1P9_7"
+    },
+    "captured_at": {
+      "type": "datetime",
+      "description": "Timestamp the consent decision was recorded.",
+      "example": "2026-05-19T14:22:31Z"
+    },
+    "expires_at": {
+      "type": "datetime",
+      "description": "Optional timestamp at which this consent record must be re-collected.",
+      "example": "2027-05-19T14:22:31Z"
+    },
+    "source": {
+      "type": "object",
+      "description": "Surface and signal that produced the consent decision.",
+      "properties": {
+        "surface": {
+          "type": "string",
+          "enum": [
+            "web",
+            "mobile",
+            "ott",
+            "in-store",
+            "server-to-server",
+            "api"
+          ],
+          "example": "web"
+        },
+        "ip_address": {
+          "type": "string",
+          "description": "IP address that submitted the consent decision, if retained.",
+          "example": "203.0.113.42"
+        },
+        "user_agent": {
+          "type": "string",
+          "example": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/605.1.15"
+        },
+        "gpc_signal": {
+          "type": "boolean",
+          "description": "Whether the inbound request asserted Global Privacy Control.",
+          "example": false
+        }
+      }
+    },
+    "evidence_url": {
+      "type": "uri",
+      "description": "URL to retained evidence of the consent prompt shown to the data subject.",
+      "example": "https://consent.acme.example/evidence/cns_01HR7Q8K9V2M3N4P5R6S7T8V9W.html"
+    }
+  },
+  "required": [
+    "consent_id",
+    "data_subject_id",
+    "controller",
+    "jurisdiction",
+    "purposes",
+    "captured_at"
+  ]
+}

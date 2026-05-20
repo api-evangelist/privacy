@@ -1,0 +1,188 @@
+{
+  "$schema": "https://json-structure.org/meta/core/v0/#",
+  "$id": "https://raw.githubusercontent.com/api-evangelist/privacy/refs/heads/main/json-structure/privacy-data-subject-request-structure.json",
+  "name": "DataSubjectRequest",
+  "description": "A data subject access, deletion, correction, portability, or opt-out request submitted under GDPR, CCPA/CPRA, LGPD, or a similar privacy regulation.",
+  "type": "object",
+  "properties": {
+    "request_id": {
+      "type": "string",
+      "description": "Stable identifier for the data subject request.",
+      "example": "dsr_2026-00042"
+    },
+    "type": {
+      "type": "string",
+      "description": "Right being exercised by the data subject.",
+      "enum": [
+        "access",
+        "deletion",
+        "correction",
+        "portability",
+        "opt-out-sale",
+        "opt-out-share",
+        "opt-out-profiling",
+        "restriction",
+        "objection",
+        "limit-sensitive-data"
+      ],
+      "example": "access"
+    },
+    "jurisdiction": {
+      "type": "string",
+      "description": "Privacy regime under which the request is being made.",
+      "enum": [
+        "GDPR",
+        "CCPA",
+        "CPRA",
+        "LGPD",
+        "PIPL",
+        "PIPEDA",
+        "VCDPA",
+        "Other"
+      ],
+      "example": "CCPA"
+    },
+    "data_subject": {
+      "type": "object",
+      "description": "Identifying information for the requester, retained only as long as needed to verify and fulfill the request.",
+      "properties": {
+        "name": {
+          "type": "string",
+          "example": "Jane Doe"
+        },
+        "email": {
+          "type": "string",
+          "example": "jane.doe@example.com"
+        },
+        "phone": {
+          "type": "string",
+          "example": "+1-415-555-0142"
+        },
+        "residency": {
+          "type": "string",
+          "description": "Country or US state asserted by the data subject.",
+          "example": "California, US"
+        }
+      },
+      "required": [
+        "email"
+      ]
+    },
+    "authorized_agent": {
+      "type": "object",
+      "description": "Optional authorized agent acting on behalf of the data subject.",
+      "properties": {
+        "name": {
+          "type": "string",
+          "example": "Privacy Advocates LLC"
+        },
+        "verification_method": {
+          "type": "string",
+          "example": "power-of-attorney"
+        }
+      }
+    },
+    "verification": {
+      "type": "object",
+      "description": "Identity verification status for the requester.",
+      "properties": {
+        "status": {
+          "type": "string",
+          "enum": [
+            "pending",
+            "verified",
+            "failed"
+          ],
+          "example": "verified"
+        },
+        "method": {
+          "type": "string",
+          "example": "email-otp"
+        },
+        "verified_at": {
+          "type": "datetime",
+          "example": "2026-05-19T15:11:02Z"
+        }
+      }
+    },
+    "status": {
+      "type": "string",
+      "description": "Lifecycle status of the request.",
+      "enum": [
+        "received",
+        "verifying",
+        "in-progress",
+        "fulfilled",
+        "denied",
+        "extended",
+        "withdrawn"
+      ],
+      "example": "in-progress"
+    },
+    "received_at": {
+      "type": "datetime",
+      "description": "Timestamp the request was received.",
+      "example": "2026-05-19T14:22:31Z"
+    },
+    "due_at": {
+      "type": "datetime",
+      "description": "Regulatory deadline for responding to the request.",
+      "example": "2026-06-18T14:22:31Z"
+    },
+    "fulfilled_at": {
+      "type": "datetime",
+      "description": "Timestamp the request was finally fulfilled or closed.",
+      "example": "2026-05-30T10:04:00Z"
+    },
+    "systems_in_scope": {
+      "type": "array",
+      "description": "Internal systems and third parties searched or actioned as part of fulfilling this request.",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "example": "Salesforce"
+          },
+          "role": {
+            "type": "string",
+            "enum": [
+              "controller",
+              "processor",
+              "sub-processor"
+            ],
+            "example": "processor"
+          },
+          "status": {
+            "type": "string",
+            "enum": [
+              "pending",
+              "complete",
+              "failed",
+              "not-applicable"
+            ],
+            "example": "complete"
+          }
+        },
+        "required": [
+          "name",
+          "status"
+        ]
+      }
+    },
+    "response_package_url": {
+      "type": "uri",
+      "description": "URL to the packaged response delivered to the data subject, for access or portability requests.",
+      "example": "https://privacy.acme.example/dsr/dsr_2026-00042/response.zip"
+    }
+  },
+  "required": [
+    "request_id",
+    "type",
+    "jurisdiction",
+    "data_subject",
+    "status",
+    "received_at",
+    "due_at"
+  ]
+}

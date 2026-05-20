@@ -1,0 +1,23 @@
+{
+  "consent_id": "cns_01HR7Q8K9V2M3N4P5R6S7T8V9W",
+  "data_subject_id": "ds_8e2c4f51a9b34a7d8e2c4f51a9b3",
+  "controller": "Acme Retail Inc.",
+  "jurisdiction": "GDPR",
+  "purposes": [
+    { "purpose_id": "essential-cookies", "name": "Strictly Necessary", "status": "granted" },
+    { "purpose_id": "analytics", "name": "Analytics and Measurement", "status": "granted" },
+    { "purpose_id": "marketing-email", "name": "Marketing Email", "status": "denied" },
+    { "purpose_id": "ad-personalization", "name": "Personalized Advertising", "status": "denied" }
+  ],
+  "legal_basis": "consent",
+  "consent_string": "CPzPTYAPzPTYAAKAtBENDFCsAP_AAH_AAAAAItNf_X__b3_j-_5_f_t0eY1P9_7__-0zjhfdt-8N3f_X_L8X42M7vF36pq4KuR4Eu3LBIQdlHOHcTUmw6okVryPsbk2cr7NKJ7PEmnMbO2dYGH9_n93TuZKY7_____7________-AAAAAAAAA",
+  "captured_at": "2026-05-19T14:22:31Z",
+  "expires_at": "2027-05-19T14:22:31Z",
+  "source": {
+    "surface": "web",
+    "ip_address": "203.0.113.42",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/605.1.15",
+    "gpc_signal": false
+  },
+  "evidence_url": "https://consent.acme.example/evidence/cns_01HR7Q8K9V2M3N4P5R6S7T8V9W.html"
+}

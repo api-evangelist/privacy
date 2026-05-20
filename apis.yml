@@ -1,0 +1,151 @@
+aid: privacy
+name: Privacy
+description: >-
+  An index and topic collection covering privacy management, consent management, data subject rights,
+  data classification, and PII detection APIs. Privacy platforms help organizations comply with global
+  data protection regulations such as GDPR, CCPA/CPRA, LGPD, and PIPL by managing user consent, fulfilling
+  data subject access and deletion requests, building data inventories and processing records, and
+  discovering, classifying, and redacting personal information across applications and data stores.
+  This collection includes enterprise privacy management platforms like OneTrust, consent management
+  platforms (CMPs), PII detection and data discovery services, privacy-preserving vaults and
+  tokenization providers, and the open standards and registries (IAB TCF, Global Privacy Control,
+  W3C DPV) that underpin machine-readable privacy and consent signals on the web.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+- Privacy
+- Consent Management
+- Data Subject Rights
+- GDPR
+- CCPA
+- PII Detection
+- Data Privacy
+- Cookie Consent
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/privacy/refs/heads/main/apis.yml
+created: '2026-05-19'
+modified: '2026-05-19'
+specificationVersion: '0.19'
+apis: []
+network:
+- name: OneTrust
+  url: https://raw.githubusercontent.com/api-evangelist/onetrust/refs/heads/main/apis.yml
+- name: Nightfall AI
+  url: https://raw.githubusercontent.com/api-evangelist/nightfall-ai/refs/heads/main/apis.yml
+- name: Amazon Macie
+  url: https://raw.githubusercontent.com/api-evangelist/amazon-macie/refs/heads/main/apis.yml
+- name: LiveRamp
+  url: https://raw.githubusercontent.com/api-evangelist/liveramp/refs/heads/main/apis.yml
+- name: Matomo
+  url: https://raw.githubusercontent.com/api-evangelist/matomo/refs/heads/main/apis.yml
+- name: Umami
+  url: https://raw.githubusercontent.com/api-evangelist/umami/refs/heads/main/apis.yml
+- name: Plausible
+  url: https://raw.githubusercontent.com/api-evangelist/plausible/refs/heads/main/apis.yml
+- name: Swetrix
+  url: https://raw.githubusercontent.com/api-evangelist/swetrix/refs/heads/main/apis.yml
+- name: Pi-hole
+  url: https://raw.githubusercontent.com/api-evangelist/pi-hole/refs/heads/main/apis.yml
+- name: Gen Digital
+  url: https://raw.githubusercontent.com/api-evangelist/gen-digital/refs/heads/main/apis.yml
+- name: Confidential Computing Consortium
+  url: https://raw.githubusercontent.com/api-evangelist/confidential-computing-consortium/refs/heads/main/apis.yml
+- name: Regulatory Templates
+  url: https://raw.githubusercontent.com/api-evangelist/regulatory-templates/refs/heads/main/apis.yml
+- name: Mixpanel
+  url: https://raw.githubusercontent.com/api-evangelist/mixpanel/refs/heads/main/apis.yml
+- name: Snowplow
+  url: https://raw.githubusercontent.com/api-evangelist/snowplow/refs/heads/main/apis.yml
+- name: Segment
+  url: https://raw.githubusercontent.com/api-evangelist/segment/refs/heads/main/apis.yml
+- name: Dead Drop
+  url: https://raw.githubusercontent.com/api-evangelist/dead-drop/refs/heads/main/apis.yml
+- name: Google Tag Manager
+  url: https://raw.githubusercontent.com/api-evangelist/google-tag-manager/refs/heads/main/apis.yml
+- name: Privacy by Design
+  url: https://raw.githubusercontent.com/api-evangelist/privacy-by-design/refs/heads/main/apis.yml
+- name: Data Privacy Standards
+  url: https://raw.githubusercontent.com/api-evangelist/data-privacy-standards/refs/heads/main/apis.yml
+- name: GDPR
+  url: https://raw.githubusercontent.com/api-evangelist/gdpr/refs/heads/main/apis.yml
+- name: CCPA
+  url: https://raw.githubusercontent.com/api-evangelist/ccpa/refs/heads/main/apis.yml
+- name: HIPAA
+  url: https://raw.githubusercontent.com/api-evangelist/hipaa/refs/heads/main/apis.yml
+- name: Customer Database
+  url: https://raw.githubusercontent.com/api-evangelist/customer-database/refs/heads/main/apis.yml
+- name: Disclosure Requirements
+  url: https://raw.githubusercontent.com/api-evangelist/disclosure-requirements/refs/heads/main/apis.yml
+- name: VPN
+  url: https://raw.githubusercontent.com/api-evangelist/vpn/refs/heads/main/apis.yml
+- name: Perf.ai
+  url: https://raw.githubusercontent.com/api-evangelist/perf-ai/refs/heads/main/apis.yml
+common:
+- type: Portal
+  url: https://apievangelist.com
+- type: GitHubOrganization
+  url: https://github.com/api-evangelist
+- type: Features
+  data:
+  - name: Consent Management
+    description: Capture, store, and revoke user consent for cookies, data processing, marketing communications, and third-party data sharing across web, mobile, OTT, and server-side surfaces, in line with IAB TCF, GPC, and regional consent regimes.
+  - name: Data Subject Rights Automation
+    description: Intake, identity verification, routing, and fulfillment of data subject access, correction, deletion, portability, and opt-out requests required by GDPR, CCPA/CPRA, LGPD, and similar regulations.
+  - name: PII Detection and Data Discovery
+    description: Machine learning and pattern-based discovery, classification, and labeling of personally identifiable information across structured databases, data lakes, file shares, SaaS apps, and unstructured documents.
+  - name: Data Inventory and Records of Processing
+    description: Maintain Article 30 records of processing activities, data maps, vendor inventories, and data transfer registers that document where personal data lives and how it flows across systems.
+  - name: Privacy-Preserving Data Vaults
+    description: Tokenization, polymorphic encryption, and de-identification services that isolate sensitive personal data behind privacy APIs so applications can operate on tokens or pseudonyms instead of raw PII.
+  - name: Privacy Notices and Preference Centers
+    description: Publish and version externally-facing privacy notices, cookie notices, and end-user preference centers so individuals can review and update how their personal data is used.
+  - name: Consent and Opt-Out Signals
+    description: Honor and propagate machine-readable web signals such as Global Privacy Control (GPC), Do Not Sell or Share, IAB TCF transparency and consent strings, and Authorized Agent opt-outs across downstream systems.
+  - name: Privacy Compliance Monitoring
+    description: Continuous monitoring of cookies, trackers, SDKs, third-party scripts, and data flows to detect privacy regressions, undisclosed processors, and policy violations before they become enforcement events.
+- type: UseCases
+  data:
+  - name: GDPR and CCPA Cookie Consent
+    description: Deploy a consent management platform on web and mobile to capture cookie and tracker consent before loading non-essential tags, with audit-grade records of who consented to what and when.
+  - name: Data Subject Access Request Fulfillment
+    description: Receive a DSAR via a privacy portal, verify identity, fan out search across CRM, marketing, analytics, and data warehouse systems, and return a packaged response within the regulatory deadline.
+  - name: PII Discovery Across Cloud Storage
+    description: Continuously scan S3 buckets, data lakes, and SaaS file shares for unprotected personal data, then automatically classify, label, and route findings to security and privacy teams for remediation.
+  - name: Vendor and Third-Party Risk Assessment
+    description: Track third parties processing personal data, send privacy and security questionnaires, store completed assessments, and surface high-risk processors for review and renegotiation.
+  - name: Tokenized Customer Data Platform
+    description: Replace direct storage of names, emails, phone numbers, and payment data in downstream systems with vault-issued tokens, so analytics and marketing pipelines can run on de-identified data.
+  - name: Privacy Impact Assessments
+    description: Build, review, and version Data Protection Impact Assessments (DPIAs) and Transfer Impact Assessments (TIAs) as part of product launch and data sharing workflows.
+  - name: Opt-Out Signal Honoring
+    description: Detect Global Privacy Control and Do Not Sell or Share signals on inbound web traffic and propagate the resulting opt-out state to ad tech, analytics, and CRM systems within the regulatory window.
+  - name: AI and LLM Data Loss Prevention
+    description: Detect and redact PII, secrets, and regulated data in prompts and responses flowing through AI assistants and LLM applications, with full audit logs for privacy and security review.
+- type: Integrations
+  data:
+  - name: OneTrust
+    description: Enterprise privacy, consent, and GRC platform with APIs for privacy management, third-party risk, cookie consent, and certification automation.
+  - name: Nightfall AI
+    description: Cloud-native data leak prevention and PII detection API that scans SaaS apps, data stores, and LLM traffic for sensitive data.
+  - name: Amazon Macie
+    description: AWS service for discovering and classifying sensitive data such as PII and financial data in S3 using machine learning.
+  - name: LiveRamp
+    description: Identity resolution and data collaboration platform with consent, permissioning, and privacy-preserving data sharing APIs.
+  - name: Matomo
+    description: Open source, privacy-friendly web analytics platform that supports cookieless tracking and GDPR-compliant analytics deployments.
+  - name: Mixpanel
+    description: Product analytics platform with privacy controls, consent integration, and APIs for deletion and access requests.
+  - name: Segment
+    description: Customer data platform with consent, privacy, and end-user data deletion APIs integrated across hundreds of destinations.
+  - name: Snowplow
+    description: Open source behavioral data platform with consent context, GDPR-aware event collection, and pseudonymization features.
+  - name: Google Tag Manager
+    description: Tag management system used as the deployment surface for consent mode, server-side tagging, and downstream CMP signals.
+  - name: GDPR
+    description: European Union data protection regulation that sets the global baseline for lawful processing, data subject rights, and cross-border transfers.
+  - name: CCPA
+    description: California Consumer Privacy Act and CPRA expansion that establish opt-out, access, deletion, and sensitive personal information rights for California residents.
+maintainers:
+- FN: Kin Lane
+  email: kin@apievangelist.com
+humanURL: https://apievangelist.com

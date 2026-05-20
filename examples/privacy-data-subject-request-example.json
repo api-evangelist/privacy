@@ -1,0 +1,27 @@
+{
+  "request_id": "dsr_2026-00042",
+  "type": "access",
+  "jurisdiction": "CCPA",
+  "data_subject": {
+    "name": "Jane Doe",
+    "email": "jane.doe@example.com",
+    "phone": "+1-415-555-0142",
+    "residency": "California, US"
+  },
+  "verification": {
+    "status": "verified",
+    "method": "email-otp",
+    "verified_at": "2026-05-19T15:11:02Z"
+  },
+  "status": "in-progress",
+  "received_at": "2026-05-19T14:22:31Z",
+  "due_at": "2026-06-18T14:22:31Z",
+  "systems_in_scope": [
+    { "name": "Salesforce", "role": "processor", "status": "complete" },
+    { "name": "Segment", "role": "processor", "status": "complete" },
+    { "name": "Mixpanel", "role": "processor", "status": "pending" },
+    { "name": "Snowflake", "role": "processor", "status": "pending" },
+    { "name": "Iterable", "role": "processor", "status": "not-applicable" }
+  ],
+  "response_package_url": "https://privacy.acme.example/dsr/dsr_2026-00042/response.zip"
+}
