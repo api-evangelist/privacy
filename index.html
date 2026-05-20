@@ -1,0 +1,1020 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Privacy - API Evangelist</title>
+  <meta name="description" content="An index and topic collection covering privacy management, consent management, data subject rights, data classification, and PII detection APIs. Privacy platforms help organizations comply with global data protection regulations such as GDPR, CCPA/CPRA, LGPD, and PIPL by managing user consent, fulfi">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="canonical" href="https://privacy.apievangelist.com/">
+
+  <!-- Open Graph -->
+  <meta property="og:url" content="https://privacy.apievangelist.com/">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Privacy">
+  <meta property="og:site_name" content="API Evangelist">
+  <meta property="og:description" content="An index and topic collection covering privacy management, consent management, data subject rights, data classification, and PII detection APIs. Privacy platforms help organizations comply with global data protection regulations such as GDPR, CCPA/CPRA, LGPD, and PIPL by managing user consent, fulfi">
+  <meta property="og:image" content="https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Privacy">
+  <meta name="twitter:description" content="An index and topic collection covering privacy management, consent management, data subject rights, data classification, and PII detection APIs. Privacy platforms help organizations comply with global data protection regulations such as GDPR, CCPA/CPRA, LGPD, and PIPL by managing user consent, fulfi">
+  <meta name="twitter:image" content="https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg">
+
+  <link rel="shortcut icon" href="https://kinlane-productions2.s3.us-east-1.amazonaws.com/api-evangelist-logos/api-evangelist-logo-butterfly-transparent.png" type="image/png">
+
+  <!-- Bootstrap 5.3 -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" crossorigin="anonymous">
+  <!-- Material Symbols -->
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0">
+  <!-- Inter font -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+  <style>
+    :root {
+      --ae-green: #3d8b37;
+      --ae-dark: #1a1a2e;
+      --ae-light: #f8f9fa;
+      --ae-accent: #6c9e3a;
+    }
+    body { font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif; color: #333; }
+    .navbar-ae { background-color: #fff; border-bottom: 1px solid #e9ecef; }
+    .navbar-ae .navbar-brand img { height: 40px; }
+    .navbar-ae .nav-link { color: #495057; font-size: 0.9rem; font-weight: 500; }
+    .navbar-ae .nav-link:hover, .navbar-ae .nav-link.active { color: var(--ae-green); }
+    .text-emphasis { color: var(--ae-green) !important; }
+    .hero { background: linear-gradient(135deg, #f7faf6 0%, #eaf3e6 100%); border-bottom: 1px solid #e9ecef; }
+    .hero h1 { font-size: 2rem; font-weight: 700; }
+    .section-title { font-size: 1.25rem; font-weight: 600; display:flex; align-items:center; }
+    .section-title .material-symbols-outlined { color: var(--ae-green); margin-right: 0.5rem; }
+    .post-item { border-bottom: 1px solid #f0f0f0; padding: 0.9rem 0; }
+    .post-item:last-child { border-bottom: none; }
+    .post-item h3 a { color: #212529; text-decoration: none; font-size: 1rem; font-weight: 600; line-height: 1.35; }
+    .post-item h3 a:hover { color: var(--ae-green); }
+    .post-item .post-meta { font-size: 0.78rem; color: #6c757d; margin-top: 0.15rem; }
+    .post-tag { font-size: 0.78rem; color: var(--ae-green); text-decoration: none; }
+    .post-tag:hover { text-decoration: underline; }
+    .footer-ae { border-top: 1px solid #e9ecef; font-size: 0.85rem; color: #6c757d; }
+    .card { border: 1px solid #e9ecef; border-radius: 0.5rem; }
+    .list-group-item { border-color: #f0f0f0; }
+    .list-group-item:hover { background-color: #f9fbf8; }
+    a { color: var(--ae-green); }
+  </style>
+</head>
+<body>
+
+  <!-- Top Nav -->
+  <nav class="navbar navbar-expand-lg navbar-ae sticky-top">
+    <div class="container-fluid px-3 px-lg-4">
+      <a class="navbar-brand d-flex align-items-center" href="https://apievangelist.com">
+        <img src="https://kinlane-productions2.s3.us-east-1.amazonaws.com/api-evangelist-logos/api-evangelist-logo-butterfly-transparent.png" alt="API Evangelist" style="height: 55px;">
+      </a>
+      <div class="collapse navbar-collapse">
+        <ul class="navbar-nav ms-auto align-items-center gap-1">
+          <li class="nav-item"><a class="nav-link" href="https://apievangelist.com/2026/">Stories</a></li>
+          <li class="nav-item"><a class="nav-link" href="https://conversations.apievangelist.com">Conversations</a></li>
+          <li class="nav-item"><a class="nav-link" href="https://apievangelist.com/about/api-evangelist">About</a></li>
+          <li class="nav-item"><a class="nav-link" href="https://apievangelist.com/contact">Contact</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Naftiko Banner -->
+  <div class="alert alert-success border-0 rounded-0 mb-0 py-2" role="alert" style="text-align: center;">
+    <a href="https://naftiko.io" target="_blank" style="text-decoration: none; color: inherit; font-weight: 500;">Turn your existing data &amp; APIs into governed capabilities for AI &rarr;</a>
+  </div>
+
+  <!-- Hero -->
+  <header class="hero py-5">
+    <div class="container">
+      <div class="row align-items-center g-4">
+        <div class="col-md-2 text-center">
+          <img src="https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg" alt="Privacy" class="img-fluid" style="max-height: 110px;">
+        </div>
+        <div class="col-md-10">
+          <nav aria-label="breadcrumb">
+            <ol class="breadcrumb mb-2">
+              <li class="breadcrumb-item"><a class="text-body-secondary" href="https://apievangelist.com">API Evangelist</a></li>
+              <li class="breadcrumb-item active">Privacy</li>
+            </ol>
+          </nav>
+          <h1 class="mb-2">Privacy</h1>
+          <p class="text-muted mb-3">An index and topic collection covering privacy management, consent management, data subject rights, data classification, and PII detection APIs. Privacy platforms help organizations comply with global data protection regulations such as GDPR, CCPA/CPRA, LGPD, and PIPL by managing user consent, fulfilling data subject access and deletion requests, building data inventories and processing records, and discovering, classifying, and redacting personal information across applications and data stores. This collection includes enterprise privacy management platforms like OneTrust, consent management platforms (CMPs), PII detection and data discovery services, privacy-preserving vaults and tokenization providers, and the open standards and registries (IAB TCF, Global Privacy Control, W3C DPV) that underpin machine-readable privacy and consent signals on the web.</p>
+          <div><a href="https://apievangelist.com/categories/" class="post-tag me-2">#Privacy</a><a href="https://apievangelist.com/categories/" class="post-tag me-2">#Consent Management</a><a href="https://apievangelist.com/categories/" class="post-tag me-2">#Data Subject Rights</a><a href="https://apievangelist.com/categories/" class="post-tag me-2">#GDPR</a><a href="https://apievangelist.com/categories/" class="post-tag me-2">#CCPA</a><a href="https://apievangelist.com/categories/" class="post-tag me-2">#PII Detection</a><a href="https://apievangelist.com/categories/" class="post-tag me-2">#Data Privacy</a><a href="https://apievangelist.com/categories/" class="post-tag me-2">#Cookie Consent</a></div>
+          <div class="mt-3"><a href="https://apievangelist.com" target="_blank" rel="noopener" class="badge bg-light text-emphasis border me-2 mb-2 text-decoration-none"><span class="material-symbols-outlined" style="font-size:14px;vertical-align:-2px;">public</span> Portal</a><a href="https://github.com/api-evangelist" target="_blank" rel="noopener" class="badge bg-light text-emphasis border me-2 mb-2 text-decoration-none"><span class="material-symbols-outlined" style="font-size:14px;vertical-align:-2px;">open_in_new</span> GitHubOrganization</a></div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main class="container py-5">
+
+    <!-- Network -->
+    <section class="mb-5">
+      <h2 class="section-title mb-3"><span class="material-symbols-outlined">hub</span>Network Properties</h2>
+      <p class="text-muted small">Each entry links to its <code>providers.apis.io</code> provider page.</p>
+      <div class="list-group">
+        <a class="list-group-item list-group-item-action d-flex align-items-center justify-content-between" href="https://providers.apis.io/providers/onetrust/" target="_blank" rel="noopener">
+          <span class="d-flex align-items-center">
+            <span class="material-symbols-outlined me-2 text-emphasis">hub</span>
+            <span class="fw-semibold">OneTrust</span>
+          </span>
+          <span class="d-flex align-items-center gap-3">
+            <a class="small text-muted text-decoration-none" href="https://github.com/api-evangelist/onetrust" target="_blank" rel="noopener" onclick="event.stopPropagation();"><span class="material-symbols-outlined" style="font-size:14px;vertical-align:-2px;">code</span> repo</a>
+            <span class="badge bg-light text-emphasis border">providers.apis.io</span>
+          </span>
+        </a>
+        <a class="list-group-item list-group-item-action d-flex align-items-center justify-content-between" href="https://providers.apis.io/providers/nightfall-ai/" target="_blank" rel="noopener">
+          <span class="d-flex align-items-center">
+            <span class="material-symbols-outlined me-2 text-emphasis">hub</span>
+            <span class="fw-semibold">Nightfall AI</span>
+          </span>
+          <span class="d-flex align-items-center gap-3">
+            <a class="small text-muted text-decoration-none" href="https://github.com/api-evangelist/nightfall-ai" target="_blank" rel="noopener" onclick="event.stopPropagation();"><span class="material-symbols-outlined" style="font-size:14px;vertical-align:-2px;">code</span> repo</a>
+            <span class="badge bg-light text-emphasis border">providers.apis.io</span>
+          </span>
+        </a>
+        <a class="list-group-item list-group-item-action d-flex align-items-center justify-content-between" href="https://providers.apis.io/providers/amazon-macie/" target="_blank" rel="noopener">
+          <span class="d-flex align-items-center">
+            <span class="material-symbols-outlined me-2 text-emphasis">hub</span>
+            <span class="fw-semibold">Amazon Macie</span>
+          </span>
+          <span class="d-flex align-items-center gap-3">
+            <a class="small text-muted text-decoration-none" href="https://github.com/api-evangelist/amazon-macie" target="_blank" rel="noopener" onclick="event.stopPropagation();"><span class="material-symbols-outlined" style="font-size:14px;vertical-align:-2px;">code</span> repo</a>
+            <span class="badge bg-light text-emphasis border">providers.apis.io</span>
+          </span>
+        </a>
+        <a class="list-group-item list-group-item-action d-flex align-items-center justify-content-between" href="https://providers.apis.io/providers/liveramp/" target="_blank" rel="noopener">
+          <span class="d-flex align-items-center">
+            <span class="material-symbols-outlined me-2 text-emphasis">hub</span>
+            <span class="fw-semibold">LiveRamp</span>
+          </span>
+          <span class="d-flex align-items-center gap-3">
+            <a class="small text-muted text-decoration-none" href="https://github.com/api-evangelist/liveramp" target="_blank" rel="noopener" onclick="event.stopPropagation();"><span class="material-symbols-outlined" style="font-size:14px;vertical-align:-2px;">code</span> repo</a>
+            <span class="badge bg-light text-emphasis border">providers.apis.io</span>
+          </span>
+        </a>
+        <a class="list-group-item list-group-item-action d-flex align-items-center justify-content-between" href="https://providers.apis.io/providers/matomo/" target="_blank" rel="noopener">
+          <span class="d-flex align-items-center">
+            <span class="material-symbols-outlined me-2 text-emphasis">hub</span>
+            <span class="fw-semibold">Matomo</span>
+          </span>
+          <span class="d-flex align-items-center gap-3">
+            <a class="small text-muted text-decoration-none" href="https://github.com/api-evangelist/matomo" target="_blank" rel="noopener" onclick="event.stopPropagation();"><span class="material-symbols-outlined" style="font-size:14px;vertical-align:-2px;">code</span> repo</a>
+            <span class="badge bg-light text-emphasis border">providers.apis.io</span>
+          </span>
+        </a>
+        <a class="list-group-item list-group-item-action d-flex align-items-center justify-content-between" href="https://providers.apis.io/providers/umami/" target="_blank" rel="noopener">
+          <span class="d-flex align-items-center">
+            <span class="material-symbols-outlined me-2 text-emphasis">hub</span>
+            <span class="fw-semibold">Umami</span>
+          </span>
+          <span class="d-flex align-items-center gap-3">
+            <a class="small text-muted text-decoration-none" href="https://github.com/api-evangelist/umami" target="_blank" rel="noopener" onclick="event.stopPropagation();"><span class="material-symbols-outlined" style="font-size:14px;vertical-align:-2px;">code</span> repo</a>
+            <span class="badge bg-light text-emphasis border">providers.apis.io</span>
+          </span>
+        </a>
+        <a class="list-group-item list-group-item-action d-flex align-items-center justify-content-between" href="https://providers.apis.io/providers/plausible/" target="_blank" rel="noopener">
+          <span class="d-flex align-items-center">
+            <span class="material-symbols-outlined me-2 text-emphasis">hub</span>
+            <span class="fw-semibold">Plausible</span>
+          </span>
+          <span class="d-flex align-items-center gap-3">
+            <a class="small text-muted text-decoration-none" href="https://github.com/api-evangelist/plausible" target="_blank" rel="noopener" onclick="event.stopPropagation();"><span class="material-symbols-outlined" style="font-size:14px;vertical-align:-2px;">code</span> repo</a>
+            <span class="badge bg-light text-emphasis border">providers.apis.io</span>
+          </span>
+        </a>
+        <a class="list-group-item list-group-item-action d-flex align-items-center justify-content-between" href="https://providers.apis.io/providers/swetrix/" target="_blank" rel="noopener">
+          <span class="d-flex align-items-center">
+            <span class="material-symbols-outlined me-2 text-emphasis">hub</span>
+            <span class="fw-semibold">Swetrix</span>
+          </span>
+          <span class="d-flex align-items-center gap-3">
+            <a class="small text-muted text-decoration-none" href="https://github.com/api-evangelist/swetrix" target="_blank" rel="noopener" onclick="event.stopPropagation();"><span class="material-symbols-outlined" style="font-size:14px;vertical-align:-2px;">code</span> repo</a>
+            <span class="badge bg-light text-emphasis border">providers.apis.io</span>
+          </span>
+        </a>
+        <a class="list-group-item list-group-item-action d-flex align-items-center justify-content-between" href="https://providers.apis.io/providers/pi-hole/" target="_blank" rel="noopener">
+          <span class="d-flex align-items-center">
+            <span class="material-symbols-outlined me-2 text-emphasis">hub</span>
+            <span class="fw-semibold">Pi-hole</span>
+          </span>
+          <span class="d-flex align-items-center gap-3">
+            <a class="small text-muted text-decoration-none" href="https://github.com/api-evangelist/pi-hole" target="_blank" rel="noopener" onclick="event.stopPropagation();"><span class="material-symbols-outlined" style="font-size:14px;vertical-align:-2px;">code</span> repo</a>
+            <span class="badge bg-light text-emphasis border">providers.apis.io</span>
+          </span>
+        </a>
+        <a class="list-group-item list-group-item-action d-flex align-items-center justify-content-between" href="https://providers.apis.io/providers/gen-digital/" target="_blank" rel="noopener">
+          <span class="d-flex align-items-center">
+            <span class="material-symbols-outlined me-2 text-emphasis">hub</span>
+            <span class="fw-semibold">Gen Digital</span>
+          </span>
+          <span class="d-flex align-items-center gap-3">
+            <a class="small text-muted text-decoration-none" href="https://github.com/api-evangelist/gen-digital" target="_blank" rel="noopener" onclick="event.stopPropagation();"><span class="material-symbols-outlined" style="font-size:14px;vertical-align:-2px;">code</span> repo</a>
+            <span class="badge bg-light text-emphasis border">providers.apis.io</span>
+          </span>
+        </a>
+        <a class="list-group-item list-group-item-action d-flex align-items-center justify-content-between" href="https://providers.apis.io/providers/confidential-computing-consortium/" target="_blank" rel="noopener">
+          <span class="d-flex align-items-center">
+            <span class="material-symbols-outlined me-2 text-emphasis">hub</span>
+            <span class="fw-semibold">Confidential Computing Consortium</span>
+          </span>
+          <span class="d-flex align-items-center gap-3">
+            <a class="small text-muted text-decoration-none" href="https://github.com/api-evangelist/confidential-computing-consortium" target="_blank" rel="noopener" onclick="event.stopPropagation();"><span class="material-symbols-outlined" style="font-size:14px;vertical-align:-2px;">code</span> repo</a>
+            <span class="badge bg-light text-emphasis border">providers.apis.io</span>
+          </span>
+        </a>
+        <a class="list-group-item list-group-item-action d-flex align-items-center justify-content-between" href="https://providers.apis.io/providers/regulatory-templates/" target="_blank" rel="noopener">
+          <span class="d-flex align-items-center">
+            <span class="material-symbols-outlined me-2 text-emphasis">hub</span>
+            <span class="fw-semibold">Regulatory Templates</span>
+          </span>
+          <span class="d-flex align-items-center gap-3">
+            <a class="small text-muted text-decoration-none" href="https://github.com/api-evangelist/regulatory-templates" target="_blank" rel="noopener" onclick="event.stopPropagation();"><span class="material-symbols-outlined" style="font-size:14px;vertical-align:-2px;">code</span> repo</a>
+            <span class="badge bg-light text-emphasis border">providers.apis.io</span>
+          </span>
+        </a>
+        <a class="list-group-item list-group-item-action d-flex align-items-center justify-content-between" href="https://providers.apis.io/providers/mixpanel/" target="_blank" rel="noopener">
+          <span class="d-flex align-items-center">
+            <span class="material-symbols-outlined me-2 text-emphasis">hub</span>
+            <span class="fw-semibold">Mixpanel</span>
+          </span>
+          <span class="d-flex align-items-center gap-3">
+            <a class="small text-muted text-decoration-none" href="https://github.com/api-evangelist/mixpanel" target="_blank" rel="noopener" onclick="event.stopPropagation();"><span class="material-symbols-outlined" style="font-size:14px;vertical-align:-2px;">code</span> repo</a>
+            <span class="badge bg-light text-emphasis border">providers.apis.io</span>
+          </span>
+        </a>
+        <a class="list-group-item list-group-item-action d-flex align-items-center justify-content-between" href="https://providers.apis.io/providers/snowplow/" target="_blank" rel="noopener">
+          <span class="d-flex align-items-center">
+            <span class="material-symbols-outlined me-2 text-emphasis">hub</span>
+            <span class="fw-semibold">Snowplow</span>
+          </span>
+          <span class="d-flex align-items-center gap-3">
+            <a class="small text-muted text-decoration-none" href="https://github.com/api-evangelist/snowplow" target="_blank" rel="noopener" onclick="event.stopPropagation();"><span class="material-symbols-outlined" style="font-size:14px;vertical-align:-2px;">code</span> repo</a>
+            <span class="badge bg-light text-emphasis border">providers.apis.io</span>
+          </span>
+        </a>
+        <a class="list-group-item list-group-item-action d-flex align-items-center justify-content-between" href="https://providers.apis.io/providers/segment/" target="_blank" rel="noopener">
+          <span class="d-flex align-items-center">
+            <span class="material-symbols-outlined me-2 text-emphasis">hub</span>
+            <span class="fw-semibold">Segment</span>
+          </span>
+          <span class="d-flex align-items-center gap-3">
+            <a class="small text-muted text-decoration-none" href="https://github.com/api-evangelist/segment" target="_blank" rel="noopener" onclick="event.stopPropagation();"><span class="material-symbols-outlined" style="font-size:14px;vertical-align:-2px;">code</span> repo</a>
+            <span class="badge bg-light text-emphasis border">providers.apis.io</span>
+          </span>
+        </a>
+        <a class="list-group-item list-group-item-action d-flex align-items-center justify-content-between" href="https://providers.apis.io/providers/dead-drop/" target="_blank" rel="noopener">
+          <span class="d-flex align-items-center">
+            <span class="material-symbols-outlined me-2 text-emphasis">hub</span>
+            <span class="fw-semibold">Dead Drop</span>
+          </span>
+          <span class="d-flex align-items-center gap-3">
+            <a class="small text-muted text-decoration-none" href="https://github.com/api-evangelist/dead-drop" target="_blank" rel="noopener" onclick="event.stopPropagation();"><span class="material-symbols-outlined" style="font-size:14px;vertical-align:-2px;">code</span> repo</a>
+            <span class="badge bg-light text-emphasis border">providers.apis.io</span>
+          </span>
+        </a>
+        <a class="list-group-item list-group-item-action d-flex align-items-center justify-content-between" href="https://providers.apis.io/providers/google-tag-manager/" target="_blank" rel="noopener">
+          <span class="d-flex align-items-center">
+            <span class="material-symbols-outlined me-2 text-emphasis">hub</span>
+            <span class="fw-semibold">Google Tag Manager</span>
+          </span>
+          <span class="d-flex align-items-center gap-3">
+            <a class="small text-muted text-decoration-none" href="https://github.com/api-evangelist/google-tag-manager" target="_blank" rel="noopener" onclick="event.stopPropagation();"><span class="material-symbols-outlined" style="font-size:14px;vertical-align:-2px;">code</span> repo</a>
+            <span class="badge bg-light text-emphasis border">providers.apis.io</span>
+          </span>
+        </a>
+        <a class="list-group-item list-group-item-action d-flex align-items-center justify-content-between" href="https://providers.apis.io/providers/privacy-by-design/" target="_blank" rel="noopener">
+          <span class="d-flex align-items-center">
+            <span class="material-symbols-outlined me-2 text-emphasis">hub</span>
+            <span class="fw-semibold">Privacy by Design</span>
+          </span>
+          <span class="d-flex align-items-center gap-3">
+            <a class="small text-muted text-decoration-none" href="https://github.com/api-evangelist/privacy-by-design" target="_blank" rel="noopener" onclick="event.stopPropagation();"><span class="material-symbols-outlined" style="font-size:14px;vertical-align:-2px;">code</span> repo</a>
+            <span class="badge bg-light text-emphasis border">providers.apis.io</span>
+          </span>
+        </a>
+        <a class="list-group-item list-group-item-action d-flex align-items-center justify-content-between" href="https://providers.apis.io/providers/data-privacy-standards/" target="_blank" rel="noopener">
+          <span class="d-flex align-items-center">
+            <span class="material-symbols-outlined me-2 text-emphasis">hub</span>
+            <span class="fw-semibold">Data Privacy Standards</span>
+          </span>
+          <span class="d-flex align-items-center gap-3">
+            <a class="small text-muted text-decoration-none" href="https://github.com/api-evangelist/data-privacy-standards" target="_blank" rel="noopener" onclick="event.stopPropagation();"><span class="material-symbols-outlined" style="font-size:14px;vertical-align:-2px;">code</span> repo</a>
+            <span class="badge bg-light text-emphasis border">providers.apis.io</span>
+          </span>
+        </a>
+        <a class="list-group-item list-group-item-action d-flex align-items-center justify-content-between" href="https://providers.apis.io/providers/gdpr/" target="_blank" rel="noopener">
+          <span class="d-flex align-items-center">
+            <span class="material-symbols-outlined me-2 text-emphasis">hub</span>
+            <span class="fw-semibold">GDPR</span>
+          </span>
+          <span class="d-flex align-items-center gap-3">
+            <a class="small text-muted text-decoration-none" href="https://github.com/api-evangelist/gdpr" target="_blank" rel="noopener" onclick="event.stopPropagation();"><span class="material-symbols-outlined" style="font-size:14px;vertical-align:-2px;">code</span> repo</a>
+            <span class="badge bg-light text-emphasis border">providers.apis.io</span>
+          </span>
+        </a>
+        <a class="list-group-item list-group-item-action d-flex align-items-center justify-content-between" href="https://providers.apis.io/providers/ccpa/" target="_blank" rel="noopener">
+          <span class="d-flex align-items-center">
+            <span class="material-symbols-outlined me-2 text-emphasis">hub</span>
+            <span class="fw-semibold">CCPA</span>
+          </span>
+          <span class="d-flex align-items-center gap-3">
+            <a class="small text-muted text-decoration-none" href="https://github.com/api-evangelist/ccpa" target="_blank" rel="noopener" onclick="event.stopPropagation();"><span class="material-symbols-outlined" style="font-size:14px;vertical-align:-2px;">code</span> repo</a>
+            <span class="badge bg-light text-emphasis border">providers.apis.io</span>
+          </span>
+        </a>
+        <a class="list-group-item list-group-item-action d-flex align-items-center justify-content-between" href="https://providers.apis.io/providers/hipaa/" target="_blank" rel="noopener">
+          <span class="d-flex align-items-center">
+            <span class="material-symbols-outlined me-2 text-emphasis">hub</span>
+            <span class="fw-semibold">HIPAA</span>
+          </span>
+          <span class="d-flex align-items-center gap-3">
+            <a class="small text-muted text-decoration-none" href="https://github.com/api-evangelist/hipaa" target="_blank" rel="noopener" onclick="event.stopPropagation();"><span class="material-symbols-outlined" style="font-size:14px;vertical-align:-2px;">code</span> repo</a>
+            <span class="badge bg-light text-emphasis border">providers.apis.io</span>
+          </span>
+        </a>
+        <a class="list-group-item list-group-item-action d-flex align-items-center justify-content-between" href="https://providers.apis.io/providers/customer-database/" target="_blank" rel="noopener">
+          <span class="d-flex align-items-center">
+            <span class="material-symbols-outlined me-2 text-emphasis">hub</span>
+            <span class="fw-semibold">Customer Database</span>
+          </span>
+          <span class="d-flex align-items-center gap-3">
+            <a class="small text-muted text-decoration-none" href="https://github.com/api-evangelist/customer-database" target="_blank" rel="noopener" onclick="event.stopPropagation();"><span class="material-symbols-outlined" style="font-size:14px;vertical-align:-2px;">code</span> repo</a>
+            <span class="badge bg-light text-emphasis border">providers.apis.io</span>
+          </span>
+        </a>
+        <a class="list-group-item list-group-item-action d-flex align-items-center justify-content-between" href="https://providers.apis.io/providers/disclosure-requirements/" target="_blank" rel="noopener">
+          <span class="d-flex align-items-center">
+            <span class="material-symbols-outlined me-2 text-emphasis">hub</span>
+            <span class="fw-semibold">Disclosure Requirements</span>
+          </span>
+          <span class="d-flex align-items-center gap-3">
+            <a class="small text-muted text-decoration-none" href="https://github.com/api-evangelist/disclosure-requirements" target="_blank" rel="noopener" onclick="event.stopPropagation();"><span class="material-symbols-outlined" style="font-size:14px;vertical-align:-2px;">code</span> repo</a>
+            <span class="badge bg-light text-emphasis border">providers.apis.io</span>
+          </span>
+        </a>
+        <a class="list-group-item list-group-item-action d-flex align-items-center justify-content-between" href="https://providers.apis.io/providers/vpn/" target="_blank" rel="noopener">
+          <span class="d-flex align-items-center">
+            <span class="material-symbols-outlined me-2 text-emphasis">hub</span>
+            <span class="fw-semibold">VPN</span>
+          </span>
+          <span class="d-flex align-items-center gap-3">
+            <a class="small text-muted text-decoration-none" href="https://github.com/api-evangelist/vpn" target="_blank" rel="noopener" onclick="event.stopPropagation();"><span class="material-symbols-outlined" style="font-size:14px;vertical-align:-2px;">code</span> repo</a>
+            <span class="badge bg-light text-emphasis border">providers.apis.io</span>
+          </span>
+        </a>
+        <a class="list-group-item list-group-item-action d-flex align-items-center justify-content-between" href="https://providers.apis.io/providers/perf-ai/" target="_blank" rel="noopener">
+          <span class="d-flex align-items-center">
+            <span class="material-symbols-outlined me-2 text-emphasis">hub</span>
+            <span class="fw-semibold">Perf.ai</span>
+          </span>
+          <span class="d-flex align-items-center gap-3">
+            <a class="small text-muted text-decoration-none" href="https://github.com/api-evangelist/perf-ai" target="_blank" rel="noopener" onclick="event.stopPropagation();"><span class="material-symbols-outlined" style="font-size:14px;vertical-align:-2px;">code</span> repo</a>
+            <span class="badge bg-light text-emphasis border">providers.apis.io</span>
+          </span>
+        </a></div>
+    </section>
+
+    <!-- Features -->
+    <section class="mb-5">
+      <h2 class="section-title mb-3"><span class="material-symbols-outlined">extension</span>Common Features</h2>
+      <div class="row g-3">
+        <div class="col-md-6">
+          <div class="card h-100">
+            <div class="card-body">
+              <h3 class="h6 d-flex align-items-center mb-2"><span class="material-symbols-outlined me-2 text-emphasis">extension</span>Consent Management</h3>
+              <p class="text-muted small mb-0">Capture, store, and revoke user consent for cookies, data processing, marketing communications, and third-party data sharing across web, mobile, OTT, and server-side surfaces, in line with IAB TCF, GPC, and regional consent regimes.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="card h-100">
+            <div class="card-body">
+              <h3 class="h6 d-flex align-items-center mb-2"><span class="material-symbols-outlined me-2 text-emphasis">extension</span>Data Subject Rights Automation</h3>
+              <p class="text-muted small mb-0">Intake, identity verification, routing, and fulfillment of data subject access, correction, deletion, portability, and opt-out requests required by GDPR, CCPA/CPRA, LGPD, and similar regulations.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="card h-100">
+            <div class="card-body">
+              <h3 class="h6 d-flex align-items-center mb-2"><span class="material-symbols-outlined me-2 text-emphasis">extension</span>PII Detection and Data Discovery</h3>
+              <p class="text-muted small mb-0">Machine learning and pattern-based discovery, classification, and labeling of personally identifiable information across structured databases, data lakes, file shares, SaaS apps, and unstructured documents.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="card h-100">
+            <div class="card-body">
+              <h3 class="h6 d-flex align-items-center mb-2"><span class="material-symbols-outlined me-2 text-emphasis">extension</span>Data Inventory and Records of Processing</h3>
+              <p class="text-muted small mb-0">Maintain Article 30 records of processing activities, data maps, vendor inventories, and data transfer registers that document where personal data lives and how it flows across systems.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="card h-100">
+            <div class="card-body">
+              <h3 class="h6 d-flex align-items-center mb-2"><span class="material-symbols-outlined me-2 text-emphasis">extension</span>Privacy-Preserving Data Vaults</h3>
+              <p class="text-muted small mb-0">Tokenization, polymorphic encryption, and de-identification services that isolate sensitive personal data behind privacy APIs so applications can operate on tokens or pseudonyms instead of raw PII.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="card h-100">
+            <div class="card-body">
+              <h3 class="h6 d-flex align-items-center mb-2"><span class="material-symbols-outlined me-2 text-emphasis">extension</span>Privacy Notices and Preference Centers</h3>
+              <p class="text-muted small mb-0">Publish and version externally-facing privacy notices, cookie notices, and end-user preference centers so individuals can review and update how their personal data is used.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="card h-100">
+            <div class="card-body">
+              <h3 class="h6 d-flex align-items-center mb-2"><span class="material-symbols-outlined me-2 text-emphasis">extension</span>Consent and Opt-Out Signals</h3>
+              <p class="text-muted small mb-0">Honor and propagate machine-readable web signals such as Global Privacy Control (GPC), Do Not Sell or Share, IAB TCF transparency and consent strings, and Authorized Agent opt-outs across downstream systems.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="card h-100">
+            <div class="card-body">
+              <h3 class="h6 d-flex align-items-center mb-2"><span class="material-symbols-outlined me-2 text-emphasis">extension</span>Privacy Compliance Monitoring</h3>
+              <p class="text-muted small mb-0">Continuous monitoring of cookies, trackers, SDKs, third-party scripts, and data flows to detect privacy regressions, undisclosed processors, and policy violations before they become enforcement events.</p>
+            </div>
+          </div>
+        </div></div>
+    </section>
+
+    <!-- Use Cases -->
+    <section class="mb-5">
+      <h2 class="section-title mb-3"><span class="material-symbols-outlined">task_alt</span>Use Cases</h2>
+      <div class="row g-3">
+        <div class="col-md-6">
+          <div class="card h-100">
+            <div class="card-body">
+              <h3 class="h6 d-flex align-items-center mb-2"><span class="material-symbols-outlined me-2 text-emphasis">task_alt</span>GDPR and CCPA Cookie Consent</h3>
+              <p class="text-muted small mb-0">Deploy a consent management platform on web and mobile to capture cookie and tracker consent before loading non-essential tags, with audit-grade records of who consented to what and when.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="card h-100">
+            <div class="card-body">
+              <h3 class="h6 d-flex align-items-center mb-2"><span class="material-symbols-outlined me-2 text-emphasis">task_alt</span>Data Subject Access Request Fulfillment</h3>
+              <p class="text-muted small mb-0">Receive a DSAR via a privacy portal, verify identity, fan out search across CRM, marketing, analytics, and data warehouse systems, and return a packaged response within the regulatory deadline.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="card h-100">
+            <div class="card-body">
+              <h3 class="h6 d-flex align-items-center mb-2"><span class="material-symbols-outlined me-2 text-emphasis">task_alt</span>PII Discovery Across Cloud Storage</h3>
+              <p class="text-muted small mb-0">Continuously scan S3 buckets, data lakes, and SaaS file shares for unprotected personal data, then automatically classify, label, and route findings to security and privacy teams for remediation.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="card h-100">
+            <div class="card-body">
+              <h3 class="h6 d-flex align-items-center mb-2"><span class="material-symbols-outlined me-2 text-emphasis">task_alt</span>Vendor and Third-Party Risk Assessment</h3>
+              <p class="text-muted small mb-0">Track third parties processing personal data, send privacy and security questionnaires, store completed assessments, and surface high-risk processors for review and renegotiation.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="card h-100">
+            <div class="card-body">
+              <h3 class="h6 d-flex align-items-center mb-2"><span class="material-symbols-outlined me-2 text-emphasis">task_alt</span>Tokenized Customer Data Platform</h3>
+              <p class="text-muted small mb-0">Replace direct storage of names, emails, phone numbers, and payment data in downstream systems with vault-issued tokens, so analytics and marketing pipelines can run on de-identified data.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="card h-100">
+            <div class="card-body">
+              <h3 class="h6 d-flex align-items-center mb-2"><span class="material-symbols-outlined me-2 text-emphasis">task_alt</span>Privacy Impact Assessments</h3>
+              <p class="text-muted small mb-0">Build, review, and version Data Protection Impact Assessments (DPIAs) and Transfer Impact Assessments (TIAs) as part of product launch and data sharing workflows.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="card h-100">
+            <div class="card-body">
+              <h3 class="h6 d-flex align-items-center mb-2"><span class="material-symbols-outlined me-2 text-emphasis">task_alt</span>Opt-Out Signal Honoring</h3>
+              <p class="text-muted small mb-0">Detect Global Privacy Control and Do Not Sell or Share signals on inbound web traffic and propagate the resulting opt-out state to ad tech, analytics, and CRM systems within the regulatory window.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="card h-100">
+            <div class="card-body">
+              <h3 class="h6 d-flex align-items-center mb-2"><span class="material-symbols-outlined me-2 text-emphasis">task_alt</span>AI and LLM Data Loss Prevention</h3>
+              <p class="text-muted small mb-0">Detect and redact PII, secrets, and regulated data in prompts and responses flowing through AI assistants and LLM applications, with full audit logs for privacy and security review.</p>
+            </div>
+          </div>
+        </div></div>
+    </section>
+
+    <!-- Integrations -->
+    <section class="mb-5">
+      <h2 class="section-title mb-3"><span class="material-symbols-outlined">integration_instructions</span>Integrations</h2>
+      <div class="row g-3">
+        <div class="col-md-6">
+          <div class="card h-100">
+            <div class="card-body">
+              <h3 class="h6 d-flex align-items-center mb-2"><span class="material-symbols-outlined me-2 text-emphasis">integration_instructions</span>OneTrust</h3>
+              <p class="text-muted small mb-0">Enterprise privacy, consent, and GRC platform with APIs for privacy management, third-party risk, cookie consent, and certification automation.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="card h-100">
+            <div class="card-body">
+              <h3 class="h6 d-flex align-items-center mb-2"><span class="material-symbols-outlined me-2 text-emphasis">integration_instructions</span>Nightfall AI</h3>
+              <p class="text-muted small mb-0">Cloud-native data leak prevention and PII detection API that scans SaaS apps, data stores, and LLM traffic for sensitive data.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="card h-100">
+            <div class="card-body">
+              <h3 class="h6 d-flex align-items-center mb-2"><span class="material-symbols-outlined me-2 text-emphasis">integration_instructions</span>Amazon Macie</h3>
+              <p class="text-muted small mb-0">AWS service for discovering and classifying sensitive data such as PII and financial data in S3 using machine learning.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="card h-100">
+            <div class="card-body">
+              <h3 class="h6 d-flex align-items-center mb-2"><span class="material-symbols-outlined me-2 text-emphasis">integration_instructions</span>LiveRamp</h3>
+              <p class="text-muted small mb-0">Identity resolution and data collaboration platform with consent, permissioning, and privacy-preserving data sharing APIs.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="card h-100">
+            <div class="card-body">
+              <h3 class="h6 d-flex align-items-center mb-2"><span class="material-symbols-outlined me-2 text-emphasis">integration_instructions</span>Matomo</h3>
+              <p class="text-muted small mb-0">Open source, privacy-friendly web analytics platform that supports cookieless tracking and GDPR-compliant analytics deployments.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="card h-100">
+            <div class="card-body">
+              <h3 class="h6 d-flex align-items-center mb-2"><span class="material-symbols-outlined me-2 text-emphasis">integration_instructions</span>Mixpanel</h3>
+              <p class="text-muted small mb-0">Product analytics platform with privacy controls, consent integration, and APIs for deletion and access requests.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="card h-100">
+            <div class="card-body">
+              <h3 class="h6 d-flex align-items-center mb-2"><span class="material-symbols-outlined me-2 text-emphasis">integration_instructions</span>Segment</h3>
+              <p class="text-muted small mb-0">Customer data platform with consent, privacy, and end-user data deletion APIs integrated across hundreds of destinations.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="card h-100">
+            <div class="card-body">
+              <h3 class="h6 d-flex align-items-center mb-2"><span class="material-symbols-outlined me-2 text-emphasis">integration_instructions</span>Snowplow</h3>
+              <p class="text-muted small mb-0">Open source behavioral data platform with consent context, GDPR-aware event collection, and pseudonymization features.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="card h-100">
+            <div class="card-body">
+              <h3 class="h6 d-flex align-items-center mb-2"><span class="material-symbols-outlined me-2 text-emphasis">integration_instructions</span>Google Tag Manager</h3>
+              <p class="text-muted small mb-0">Tag management system used as the deployment surface for consent mode, server-side tagging, and downstream CMP signals.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="card h-100">
+            <div class="card-body">
+              <h3 class="h6 d-flex align-items-center mb-2"><span class="material-symbols-outlined me-2 text-emphasis">integration_instructions</span>GDPR</h3>
+              <p class="text-muted small mb-0">European Union data protection regulation that sets the global baseline for lawful processing, data subject rights, and cross-border transfers.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="card h-100">
+            <div class="card-body">
+              <h3 class="h6 d-flex align-items-center mb-2"><span class="material-symbols-outlined me-2 text-emphasis">integration_instructions</span>CCPA</h3>
+              <p class="text-muted small mb-0">California Consumer Privacy Act and CPRA expansion that establish opt-out, access, deletion, and sensitive personal information rights for California residents.</p>
+            </div>
+          </div>
+        </div></div>
+    </section>
+
+    <!-- Blog posts -->
+    <section class="mb-5">
+      <h2 class="section-title mb-3"><span class="material-symbols-outlined">article</span>Latest API Stories</h2>
+      <p class="text-muted small">Most recent 25 stories pulled from across the API Evangelist network blog feeds.</p>
+      <div>
+        
+        <div class="post-item d-flex">
+          <div class="flex-shrink-0 d-flex align-items-start" style="padding-top: 0.25rem;">
+            <span class="material-symbols-outlined fs-3 text-emphasis">article</span>
+          </div>
+          <div class="flex-grow-1 ms-3">
+            <h3 class="mb-1"><a href="https://www.solo.io/blog/building-an-mcp-gateway-with-apigee-api-gateway" target="_blank" rel="noopener">Building an MCP Gateway with Apigee API Gateway | Solo.io</a></h3>
+            <div class="post-meta">
+              <span class="me-2">2026-05-14</span>
+              <span class="me-2">·</span>
+              <a class="post-tag" href="https://github.com/api-evangelist/gloo" target="_blank" rel="noopener">gloo</a>
+              <span class="mx-2 text-muted">·</span>
+              <span class="text-muted small">www.solo.io</span>
+            </div>
+          </div>
+        </div>
+        <div class="post-item d-flex">
+          <div class="flex-shrink-0 d-flex align-items-start" style="padding-top: 0.25rem;">
+            <span class="material-symbols-outlined fs-3 text-emphasis">article</span>
+          </div>
+          <div class="flex-grow-1 ms-3">
+            <h3 class="mb-1"><a href="https://eodhd.com/financial-apis-blog/eodhd-mcp-server-update-75-tools-oauth-and-api-versioning" target="_blank" rel="noopener">EODHD MCP Server Update: 75 Tools, OAuth, and API Versioning</a></h3>
+            <div class="post-meta">
+              <span class="me-2">2026-03-31</span>
+              <span class="me-2">·</span>
+              <a class="post-tag" href="https://github.com/api-evangelist/eodhd" target="_blank" rel="noopener">eodhd</a>
+              <span class="mx-2 text-muted">·</span>
+              <span class="text-muted small">eodhd.com</span>
+            </div>
+          </div>
+        </div>
+        <div class="post-item d-flex">
+          <div class="flex-shrink-0 d-flex align-items-start" style="padding-top: 0.25rem;">
+            <span class="material-symbols-outlined fs-3 text-emphasis">article</span>
+          </div>
+          <div class="flex-grow-1 ms-3">
+            <h3 class="mb-1"><a href="https://www.apollographql.com/blog/building-a-secure-ai-agent-api-stack-with-graphql-apollo-skills-and-mcp-server" target="_blank" rel="noopener">Building a Secure AI Agent API Stack with GraphQL, Apollo Skills, and MCP Server</a></h3>
+            <div class="post-meta">
+              <span class="me-2">2026-03-05</span>
+              <span class="me-2">·</span>
+              <a class="post-tag" href="https://github.com/api-evangelist/apollo-federation" target="_blank" rel="noopener">apollo-federation</a>
+              <span class="mx-2 text-muted">·</span>
+              <span class="text-muted small">www.apollographql.com</span>
+            </div>
+          </div>
+        </div>
+        <div class="post-item d-flex">
+          <div class="flex-shrink-0 d-flex align-items-start" style="padding-top: 0.25rem;">
+            <span class="material-symbols-outlined fs-3 text-emphasis">article</span>
+          </div>
+          <div class="flex-grow-1 ms-3">
+            <h3 class="mb-1"><a href="https://www.apollographql.com/blog/connect-ai-agents-to-your-graphql-api-using-mcp-and-type-safe-tool-configuration" target="_blank" rel="noopener">Connect AI Agents to Your GraphQL API Using MCP and Type-Safe Tool Configuration</a></h3>
+            <div class="post-meta">
+              <span class="me-2">2026-02-26</span>
+              <span class="me-2">·</span>
+              <a class="post-tag" href="https://github.com/api-evangelist/apollo-federation" target="_blank" rel="noopener">apollo-federation</a>
+              <span class="mx-2 text-muted">·</span>
+              <span class="text-muted small">www.apollographql.com</span>
+            </div>
+          </div>
+        </div>
+        <div class="post-item d-flex">
+          <div class="flex-shrink-0 d-flex align-items-start" style="padding-top: 0.25rem;">
+            <span class="material-symbols-outlined fs-3 text-emphasis">article</span>
+          </div>
+          <div class="flex-grow-1 ms-3">
+            <h3 class="mb-1"><a href="https://truto.one/blog/announcing-truto-docs-mcp-stop-ai-hallucinations-in-api-integrations/" target="_blank" rel="noopener">Announcing Truto Docs MCP: Stop AI Hallucinations in API Integrations</a></h3>
+            <div class="post-meta">
+              <span class="me-2">2026-05-05</span>
+              <span class="me-2">·</span>
+              <a class="post-tag" href="https://github.com/api-evangelist/truto" target="_blank" rel="noopener">truto</a>
+              <span class="mx-2 text-muted">·</span>
+              <span class="text-muted small">truto.one</span>
+            </div>
+          </div>
+        </div>
+        <div class="post-item d-flex">
+          <div class="flex-shrink-0 d-flex align-items-start" style="padding-top: 0.25rem;">
+            <span class="material-symbols-outlined fs-3 text-emphasis">article</span>
+          </div>
+          <div class="flex-grow-1 ms-3">
+            <h3 class="mb-1"><a href="https://www.pulumi.com/blog/rest-api-docs-from-openapi/" target="_blank" rel="noopener">Pulumi Cloud REST API Docs, Now Generated from OpenAPI</a></h3>
+            <div class="post-meta">
+              <span class="me-2">2026-04-20</span>
+              <span class="me-2">·</span>
+              <a class="post-tag" href="https://github.com/api-evangelist/pulumi" target="_blank" rel="noopener">pulumi</a>
+              <span class="mx-2 text-muted">·</span>
+              <span class="text-muted small">www.pulumi.com</span>
+            </div>
+          </div>
+        </div>
+        <div class="post-item d-flex">
+          <div class="flex-shrink-0 d-flex align-items-start" style="padding-top: 0.25rem;">
+            <span class="material-symbols-outlined fs-3 text-emphasis">article</span>
+          </div>
+          <div class="flex-grow-1 ms-3">
+            <h3 class="mb-1"><a href="https://www.apollographql.com/blog/introducing-authorization-for-apollo-mcp-server" target="_blank" rel="noopener">Introducing Authorization for Apollo MCP Server: Secure AI Access to Your GraphQL APIs</a></h3>
+            <div class="post-meta">
+              <span class="me-2">2025-08-08</span>
+              <span class="me-2">·</span>
+              <a class="post-tag" href="https://github.com/api-evangelist/apollo-federation" target="_blank" rel="noopener">apollo-federation</a>
+              <span class="mx-2 text-muted">·</span>
+              <span class="text-muted small">www.apollographql.com</span>
+            </div>
+          </div>
+        </div>
+        <div class="post-item d-flex">
+          <div class="flex-shrink-0 d-flex align-items-start" style="padding-top: 0.25rem;">
+            <span class="material-symbols-outlined fs-3 text-emphasis">article</span>
+          </div>
+          <div class="flex-grow-1 ms-3">
+            <h3 class="mb-1"><a href="https://truto.one/blog/implementing-end-user-oauth-identity-passthrough-for-remote-mcp-servers/" target="_blank" rel="noopener">Implementing End-User OAuth Identity Passthrough for Remote MCP Servers</a></h3>
+            <div class="post-meta">
+              <span class="me-2">2026-05-13</span>
+              <span class="me-2">·</span>
+              <a class="post-tag" href="https://github.com/api-evangelist/truto" target="_blank" rel="noopener">truto</a>
+              <span class="mx-2 text-muted">·</span>
+              <span class="text-muted small">truto.one</span>
+            </div>
+          </div>
+        </div>
+        <div class="post-item d-flex">
+          <div class="flex-shrink-0 d-flex align-items-start" style="padding-top: 0.25rem;">
+            <span class="material-symbols-outlined fs-3 text-emphasis">article</span>
+          </div>
+          <div class="flex-grow-1 ms-3">
+            <h3 class="mb-1"><a href="https://devblogs.microsoft.com/dotnet/api-versioning-in-dotnet-10-applications/" target="_blank" rel="noopener">Combining API versioning with OpenAPI in .NET 10 applications</a></h3>
+            <div class="post-meta">
+              <span class="me-2">2026-04-28</span>
+              <span class="me-2">·</span>
+              <a class="post-tag" href="https://github.com/api-evangelist/c-sharp" target="_blank" rel="noopener">c-sharp</a>
+              <span class="mx-2 text-muted">·</span>
+              <span class="text-muted small">devblogs.microsoft.com</span>
+            </div>
+          </div>
+        </div>
+        <div class="post-item d-flex">
+          <div class="flex-shrink-0 d-flex align-items-start" style="padding-top: 0.25rem;">
+            <span class="material-symbols-outlined fs-3 text-emphasis">article</span>
+          </div>
+          <div class="flex-grow-1 ms-3">
+            <h3 class="mb-1"><a href="https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Custom-authorization-for-API-for-GraphQL-in-Microsoft-Fabric/ba-p/5182352" target="_blank" rel="noopener">Custom authorization for API for GraphQL in Microsoft Fabric (Preview)</a></h3>
+            <div class="post-meta">
+              <span class="me-2">2026-05-14</span>
+              <span class="me-2">·</span>
+              <a class="post-tag" href="https://github.com/api-evangelist/microsoft-fabric" target="_blank" rel="noopener">microsoft-fabric</a>
+              <span class="mx-2 text-muted">·</span>
+              <span class="text-muted small">community.fabric.microsoft.com</span>
+            </div>
+          </div>
+        </div>
+        <div class="post-item d-flex">
+          <div class="flex-shrink-0 d-flex align-items-start" style="padding-top: 0.25rem;">
+            <span class="material-symbols-outlined fs-3 text-emphasis">article</span>
+          </div>
+          <div class="flex-grow-1 ms-3">
+            <h3 class="mb-1"><a href="https://developer.okta.com/blog/2026/05/12/low-code-api-integration" target="_blank" rel="noopener">How to Build Low-Code API Integrations for Enterprise Apps Using Okta</a></h3>
+            <div class="post-meta">
+              <span class="me-2">2026-05-12</span>
+              <span class="me-2">·</span>
+              <a class="post-tag" href="https://github.com/api-evangelist/okta" target="_blank" rel="noopener">okta</a>
+              <span class="mx-2 text-muted">·</span>
+              <span class="text-muted small">developer.okta.com</span>
+            </div>
+          </div>
+        </div>
+        <div class="post-item d-flex">
+          <div class="flex-shrink-0 d-flex align-items-start" style="padding-top: 0.25rem;">
+            <span class="material-symbols-outlined fs-3 text-emphasis">article</span>
+          </div>
+          <div class="flex-grow-1 ms-3">
+            <h3 class="mb-1"><a href="https://devblogs.microsoft.com/azure-sdk/mcp-as-easy-as-1-2-3-introducing-the-fluent-api-for-mcp-apps/" target="_blank" rel="noopener">MCP as Easy as 1-2-3: Introducing the Fluent API for MCP Apps</a></h3>
+            <div class="post-meta">
+              <span class="me-2">2026-04-07</span>
+              <span class="me-2">·</span>
+              <a class="post-tag" href="https://github.com/api-evangelist/microsoft-azure-web-pubsub" target="_blank" rel="noopener">microsoft-azure-web-pubsub</a>
+              <span class="mx-2 text-muted">·</span>
+              <span class="text-muted small">devblogs.microsoft.com</span>
+            </div>
+          </div>
+        </div>
+        <div class="post-item d-flex">
+          <div class="flex-shrink-0 d-flex align-items-start" style="padding-top: 0.25rem;">
+            <span class="material-symbols-outlined fs-3 text-emphasis">article</span>
+          </div>
+          <div class="flex-grow-1 ms-3">
+            <h3 class="mb-1"><a href="https://www.pulumi.com/blog/announcing-openapi-support-pulumi-cloud/" target="_blank" rel="noopener">Announcing OpenAPI support for the Pulumi Cloud REST API</a></h3>
+            <div class="post-meta">
+              <span class="me-2">2026-02-05</span>
+              <span class="me-2">·</span>
+              <a class="post-tag" href="https://github.com/api-evangelist/pulumi" target="_blank" rel="noopener">pulumi</a>
+              <span class="mx-2 text-muted">·</span>
+              <span class="text-muted small">www.pulumi.com</span>
+            </div>
+          </div>
+        </div>
+        <div class="post-item d-flex">
+          <div class="flex-shrink-0 d-flex align-items-start" style="padding-top: 0.25rem;">
+            <span class="material-symbols-outlined fs-3 text-emphasis">article</span>
+          </div>
+          <div class="flex-grow-1 ms-3">
+            <h3 class="mb-1"><a href="https://wundergraph.com/blog/graphql-persisted-operations-llms-mcp" target="_blank" rel="noopener">MCP Gateway with Curated GraphQL Persisted Operations</a></h3>
+            <div class="post-meta">
+              <span class="me-2">2025-10-17</span>
+              <span class="me-2">·</span>
+              <a class="post-tag" href="https://github.com/api-evangelist/wundergraph" target="_blank" rel="noopener">wundergraph</a>
+              <span class="mx-2 text-muted">·</span>
+              <span class="text-muted small">wundergraph.com</span>
+            </div>
+          </div>
+        </div>
+        <div class="post-item d-flex">
+          <div class="flex-shrink-0 d-flex align-items-start" style="padding-top: 0.25rem;">
+            <span class="material-symbols-outlined fs-3 text-emphasis">article</span>
+          </div>
+          <div class="flex-grow-1 ms-3">
+            <h3 class="mb-1"><a href="https://liblab.com/blog/how-mcp-servers-simplify-api-integration" target="_blank" rel="noopener">How MCP Servers Simplify API Integration for AI</a></h3>
+            <div class="post-meta">
+              <span class="me-2">2025-05-20</span>
+              <span class="me-2">·</span>
+              <a class="post-tag" href="https://github.com/api-evangelist/liblab" target="_blank" rel="noopener">liblab</a>
+              <span class="mx-2 text-muted">·</span>
+              <span class="text-muted small">liblab.com</span>
+            </div>
+          </div>
+        </div>
+        <div class="post-item d-flex">
+          <div class="flex-shrink-0 d-flex align-items-start" style="padding-top: 0.25rem;">
+            <span class="material-symbols-outlined fs-3 text-emphasis">article</span>
+          </div>
+          <div class="flex-grow-1 ms-3">
+            <h3 class="mb-1"><a href="https://blog.apilayer.com/mcp-vs-cli-which-is-better-for-ai-assisted-developer-workflows-2/" target="_blank" rel="noopener">MCP vs CLI: Which Is Better for AI-Assisted Developer Workflows?</a></h3>
+            <div class="post-meta">
+              <span class="me-2">2026-05-15</span>
+              <span class="me-2">·</span>
+              <a class="post-tag" href="https://github.com/api-evangelist/api-layer" target="_blank" rel="noopener">api-layer</a>
+              <span class="mx-2 text-muted">·</span>
+              <span class="text-muted small">blog.apilayer.com</span>
+            </div>
+          </div>
+        </div>
+        <div class="post-item d-flex">
+          <div class="flex-shrink-0 d-flex align-items-start" style="padding-top: 0.25rem;">
+            <span class="material-symbols-outlined fs-3 text-emphasis">article</span>
+          </div>
+          <div class="flex-grow-1 ms-3">
+            <h3 class="mb-1"><a href="https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-eventbridge-sdk-integrations/" target="_blank" rel="noopener">Amazon EventBridge Scheduler adds 619 new SDK API actions, including Lambda Managed Instances</a></h3>
+            <div class="post-meta">
+              <span class="me-2">2026-05-12</span>
+              <span class="me-2">·</span>
+              <a class="post-tag" href="https://github.com/api-evangelist/amazon-deepracer" target="_blank" rel="noopener">amazon-deepracer</a>
+              <span class="mx-2 text-muted">·</span>
+              <span class="text-muted small">aws.amazon.com</span>
+            </div>
+          </div>
+        </div>
+        <div class="post-item d-flex">
+          <div class="flex-shrink-0 d-flex align-items-start" style="padding-top: 0.25rem;">
+            <span class="material-symbols-outlined fs-3 text-emphasis">article</span>
+          </div>
+          <div class="flex-grow-1 ms-3">
+            <h3 class="mb-1"><a href="https://truto.one/blog/how-to-test-and-mock-mcp-servers-in-cicd-without-hitting-live-apis/" target="_blank" rel="noopener">How to Test and Mock MCP Servers in CI/CD Without Hitting Live APIs</a></h3>
+            <div class="post-meta">
+              <span class="me-2">2026-05-07</span>
+              <span class="me-2">·</span>
+              <a class="post-tag" href="https://github.com/api-evangelist/truto" target="_blank" rel="noopener">truto</a>
+              <span class="mx-2 text-muted">·</span>
+              <span class="text-muted small">truto.one</span>
+            </div>
+          </div>
+        </div>
+        <div class="post-item d-flex">
+          <div class="flex-shrink-0 d-flex align-items-start" style="padding-top: 0.25rem;">
+            <span class="material-symbols-outlined fs-3 text-emphasis">article</span>
+          </div>
+          <div class="flex-grow-1 ms-3">
+            <h3 class="mb-1"><a href="https://www.twilio.com/en-us/blog/developers/introducing-twilio-mcp-skills" target="_blank" rel="noopener">Introducing the Twilio MCP Server and Skills: Give Your Coding Agents Native Access to 1,800+ Twilio APIs</a></h3>
+            <div class="post-meta">
+              <span class="me-2">2026-05-06</span>
+              <span class="me-2">·</span>
+              <a class="post-tag" href="https://github.com/api-evangelist/twilio" target="_blank" rel="noopener">twilio</a>
+              <span class="mx-2 text-muted">·</span>
+              <span class="text-muted small">www.twilio.com</span>
+            </div>
+          </div>
+        </div>
+        <div class="post-item d-flex">
+          <div class="flex-shrink-0 d-flex align-items-start" style="padding-top: 0.25rem;">
+            <span class="material-symbols-outlined fs-3 text-emphasis">article</span>
+          </div>
+          <div class="flex-grow-1 ms-3">
+            <h3 class="mb-1"><a href="https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Discover-items-across-workspaces-with-the-OneLake-Catalog-Search/ba-p/5176768" target="_blank" rel="noopener">Discover items across workspaces with the OneLake Catalog Search API, MCP and CLI tools (Preview)</a></h3>
+            <div class="post-meta">
+              <span class="me-2">2026-05-05</span>
+              <span class="me-2">·</span>
+              <a class="post-tag" href="https://github.com/api-evangelist/microsoft-fabric" target="_blank" rel="noopener">microsoft-fabric</a>
+              <span class="mx-2 text-muted">·</span>
+              <span class="text-muted small">community.fabric.microsoft.com</span>
+            </div>
+          </div>
+        </div>
+        <div class="post-item d-flex">
+          <div class="flex-shrink-0 d-flex align-items-start" style="padding-top: 0.25rem;">
+            <span class="material-symbols-outlined fs-3 text-emphasis">article</span>
+          </div>
+          <div class="flex-grow-1 ms-3">
+            <h3 class="mb-1"><a href="https://naftiko.io/blog/api-discovery-reusability-governance-three-capabilities-one-mcp-surface/" target="_blank" rel="noopener">API Discovery, Reusability, and Governance — Three Capabilities, One MCP Surface for Claude and Copilot</a></h3>
+            <div class="post-meta">
+              <span class="me-2">2026-05-01</span>
+              <span class="me-2">·</span>
+              <a class="post-tag" href="https://github.com/api-evangelist/naftiko" target="_blank" rel="noopener">naftiko</a>
+              <span class="mx-2 text-muted">·</span>
+              <span class="text-muted small">naftiko.io</span>
+            </div>
+          </div>
+        </div>
+        <div class="post-item d-flex">
+          <div class="flex-shrink-0 d-flex align-items-start" style="padding-top: 0.25rem;">
+            <span class="material-symbols-outlined fs-3 text-emphasis">article</span>
+          </div>
+          <div class="flex-grow-1 ms-3">
+            <h3 class="mb-1"><a href="https://blogs.mulesoft.com/dev-guides/how-to-make-your-apis-agent-ready-with-mcp-bridge/" target="_blank" rel="noopener">How to Make Your APIs Agent-Ready With MCP Bridge</a></h3>
+            <div class="post-meta">
+              <span class="me-2">2026-04-30</span>
+              <span class="me-2">·</span>
+              <a class="post-tag" href="https://github.com/api-evangelist/mulesoft" target="_blank" rel="noopener">mulesoft</a>
+              <span class="mx-2 text-muted">·</span>
+              <span class="text-muted small">blogs.mulesoft.com</span>
+            </div>
+          </div>
+        </div>
+        <div class="post-item d-flex">
+          <div class="flex-shrink-0 d-flex align-items-start" style="padding-top: 0.25rem;">
+            <span class="material-symbols-outlined fs-3 text-emphasis">article</span>
+          </div>
+          <div class="flex-grow-1 ms-3">
+            <h3 class="mb-1"><a href="http://redocly.com/blog/api-contract-testing-arazzo" target="_blank" rel="noopener">API contract testing from OpenAPI using Arazzo</a></h3>
+            <div class="post-meta">
+              <span class="me-2">2026-04-22</span>
+              <span class="me-2">·</span>
+              <a class="post-tag" href="https://github.com/api-evangelist/redocly" target="_blank" rel="noopener">redocly</a>
+              <span class="mx-2 text-muted">·</span>
+              <span class="text-muted small">redocly.com</span>
+            </div>
+          </div>
+        </div>
+        <div class="post-item d-flex">
+          <div class="flex-shrink-0 d-flex align-items-start" style="padding-top: 0.25rem;">
+            <span class="material-symbols-outlined fs-3 text-emphasis">article</span>
+          </div>
+          <div class="flex-grow-1 ms-3">
+            <h3 class="mb-1"><a href="https://blogs.vmware.com/tanzu/mcp-vs-apis-why-you-need-both-for-ai-applications/" target="_blank" rel="noopener">MCP vs. APIs: Why You Need Both for AI Applications</a></h3>
+            <div class="post-meta">
+              <span class="me-2">2026-04-21</span>
+              <span class="me-2">·</span>
+              <a class="post-tag" href="https://github.com/api-evangelist/vmware-tanzu" target="_blank" rel="noopener">vmware-tanzu</a>
+              <span class="mx-2 text-muted">·</span>
+              <span class="text-muted small">blogs.vmware.com</span>
+            </div>
+          </div>
+        </div>
+        <div class="post-item d-flex">
+          <div class="flex-shrink-0 d-flex align-items-start" style="padding-top: 0.25rem;">
+            <span class="material-symbols-outlined fs-3 text-emphasis">article</span>
+          </div>
+          <div class="flex-grow-1 ms-3">
+            <h3 class="mb-1"><a href="https://wundergraph.com/blog/mcp-per-tool-oauth-scopes-graphql-schema" target="_blank" rel="noopener">Per-Tool OAuth Scopes for MCP, Derived from Your Schema</a></h3>
+            <div class="post-meta">
+              <span class="me-2">2026-04-17</span>
+              <span class="me-2">·</span>
+              <a class="post-tag" href="https://github.com/api-evangelist/wundergraph" target="_blank" rel="noopener">wundergraph</a>
+              <span class="mx-2 text-muted">·</span>
+              <span class="text-muted small">wundergraph.com</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="footer-ae py-4 mt-5">
+    <div class="container">
+      <div class="row align-items-center">
+        <div class="col-md-6">
+          <span>&copy; 2026 API Evangelist</span>
+        </div>
+        <div class="col-md-6 text-md-end mt-2 mt-md-0">
+          <a href="https://apievangelist.com/about/api-evangelist" class="text-muted text-decoration-none me-3">About</a>
+          <a href="https://apievangelist.com/contact" class="text-muted text-decoration-none me-3">Contact</a>
+          <a href="https://github.com/api-evangelist/privacy" class="text-muted text-decoration-none me-3">GitHub</a>
+          <a href="https://buttondown.com/apievangelist" class="text-muted text-decoration-none">Newsletter</a>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" crossorigin="anonymous"></script>
+</body>
+</html>
