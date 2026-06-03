@@ -1,0 +1,26 @@
+title: Privacy
+description: An index and topic collection covering privacy management, consent management,
+  data subject rights, data classification, and PII detection APIs. Privacy platforms
+  help organizations comply with global data protection regulations such as GDPR,
+  CCPA/CPRA, LGPD, and PIPL by managing user consent, fulfilling data subject access
+  and deletion requests, building data inventories and processing records, and discovering,
+  classifying, and redacting personal information across applications and data stores.
+  This collection includes enterprise privacy management platforms like OneTrust,
+  consent management platforms (CMPs), PII detection and data discovery services,
+  privacy-preserving vaults and tokenization providers, and the open standards and
+  registries (IAB TCF, Global Privacy Control, W3C DPV) that underpin machine-readable
+  privacy and consent signals on the web.
+url: https://privacy.apievangelist.com
+collections:
+  api_stories:
+    output: false
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+- Dockerfile
+- examples
+- json-ld
+- json-schema
+- json-structure
+- vocabulary
