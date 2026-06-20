@@ -11,7 +11,7 @@ description: >-
   tokenization providers, and the open standards and registries (IAB TCF, Global Privacy Control,
   W3C DPV) that underpin machine-readable privacy and consent signals on the web.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
 - Privacy
 - Consent Management
