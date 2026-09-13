@@ -1,6 +1,7 @@
 ---
-title: 'Instantly MCP Server for sales teams: automating follow-ups and reply management'
-link: https://instantly.ai/blog/mcp-server-sales-automation/
+title: 'MCP Server vs traditional API integration: which approach is right for your
+  outreach stack?'
+link: https://instantly.ai/blog/mcp-server-vs-api-integration/
 published: '2026-06-19'
 provider: instantly-ai
 repo: https://github.com/api-evangelist/instantly-ai
