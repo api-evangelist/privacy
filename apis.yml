@@ -1,5 +1,6 @@
 aid: privacy
 name: Privacy
+kind: topic
 description: >-
   An index and topic collection covering privacy management, consent management, data subject rights,
   data classification, and PII detection APIs. Privacy platforms help organizations comply with global
