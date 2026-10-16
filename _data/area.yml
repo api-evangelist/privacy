@@ -18,7 +18,6 @@ meta:
   - GDPR
   - CCPA
   - PII Detection
-  - Data Privacy
   - Cookie Consent
   portal: https://apievangelist.com
   github: https://github.com/api-evangelist
