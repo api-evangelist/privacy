@@ -1,123 +1,97 @@
-# Privacy (privacy)
+# Privacy
+
+<!-- API-EVANGELIST-PROVENANCE:BEGIN -->
+> ### About this repository
+>
+> **This is not our API.** This repository is an independent, third-party profile of a company's
+> **publicly available** API surface, maintained by [API Evangelist](https://apievangelist.com).
+> API Evangelist does not operate, host, resell, or support this company's APIs, and is not
+> affiliated with or endorsed by the company unless stated on the profile.
+>
+> **Where the information came from.** Everything here is assembled from material a member of the
+> public can reach with a browser and no credentials — the company's own website, developer portal
+> and documentation, the specifications it publishes for public use (OpenAPI, AsyncAPI, JSON Schema,
+> `apis.json`, `llms.txt` and similar), its public repositories, and its public status, pricing and
+> changelog pages. **Nothing here is obtained by breaching a system, defeating an access control, or
+> using credentials of any kind.**
+>
+> **The rating is an independent assessment.** The Kin Score and Agent Readiness rating are
+> independently calculated scores of a company's *public* API artifacts, produced by API Evangelist
+> against a published rubric. They are not certifications, endorsements, security assessments, or
+> audits, and they score published artifacts — not the quality, safety, or security of the software.
+>
+> **Corrections, re-scores, and removal are free.** No partnership, contract, or purchase is
+> required, and you do not need to justify the request.
+>
+> - **Something wrong?** Open an issue on this repository, or email
+>   [info@apievangelist.com](mailto:info@apievangelist.com).
+> - **Published something new?** Ask for a re-score and we will re-run the rating.
+> - **Want the listing taken down?** Say so and we will honor it. The profile is reduced to your
+>   company name, a factual description, and a link to your own site, and the company is recorded as
+>   **unrated** — never scored zero for having asked.
+>
+> **Response times.** Acknowledgement within **one business day**; removal or restriction within
+> **two business days**; corrections and re-scores within **five business days**.
+>
+> **Not from the company, and here with a question?** You are welcome here — we would rather be the
+> front line and point you the right way than have a good report go nowhere. What this repository
+> can answer is narrow, though, so it is worth knowing who you are actually looking for:
+>
+> - **A question about how the API works, an account, billing, or a bug in the service** — that is
+>   the company's own support, not us. We profile this API; we do not operate it and cannot see
+>   your account.
+> - **A bug in an open-source project we only catalog** — file it on that project's own repository.
+>   This has happened with a real and correct bug report that reached us instead of the people who
+>   could fix it, which helped nobody.
+> - **Anything about this listing itself** — the description, the tags, the rating, a missing or
+>   wrong artifact — is ours. Open an issue here.
+> - **Not sure, or something general about API Evangelist or APIs.io** — open an issue on the
+>   [APIs.io Inbox](https://github.com/api-search/inbox) and we will route it.
+>
+> **This repository contains no software, and we will never ask you to download anything.** There is
+> no build, release, installer, or binary here — only text and machine-readable API descriptions, so
+> there is nothing here that can be "corrupt" or need "repairing". Any issue, comment, or email
+> claiming otherwise and offering a download link is not from us and is hostile. Do not follow the
+> link; it is a lure. Report it to GitHub and, if you like, tell us at
+> [info@apievangelist.com](mailto:info@apievangelist.com) so we can take it down.
+>
+> **On a security or compliance team?** Email
+> [info@apievangelist.com](mailto:info@apievangelist.com) with *security* in the subject line and
+> you will get a person, not a form. We will tell you exactly which public URLs this profile was
+> built from so your team can see the same surface we did, and we will take the listing down on
+> request while you work through it.
+>
+> Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
+<!-- API-EVANGELIST-PROVENANCE:END -->
+
 An index and topic collection covering privacy management, consent management, data subject rights, data classification, and PII detection APIs. Privacy platforms help organizations comply with global data protection regulations such as GDPR, CCPA/CPRA, LGPD, and PIPL by managing user consent, fulfilling data subject access and deletion requests, building data inventories and processing records, and discovering, classifying, and redacting personal information across applications and data stores. This collection includes enterprise privacy management platforms like OneTrust, consent management platforms (CMPs), PII detection and data discovery services, privacy-preserving vaults and tokenization providers, and the open standards and registries (IAB TCF, Global Privacy Control, W3C DPV) that underpin machine-readable privacy and consent signals on the web.
 
-**URL:** [https://apievangelist.com](https://apievangelist.com)
+**Areas:** Privacy · Consent Management · Data Subject Rights · GDPR · CCPA · PII Detection · Cookie Consent
 
-## Tags:
+## Privacy on APIs.io
 
- - Privacy, Consent Management, Data Subject Rights, GDPR, CCPA, PII Detection, Data Privacy, Cookie Consent
+Everything profiled for Privacy is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/privacy/](https://apis.io/providers/privacy/)** — or go straight to one of the APIs or properties below.
 
-## Timestamps
+## Where to find this API
 
-- **Created:** 2026-05-19
-- **Modified:** 2026-05-19
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-## Common Properties
+- [GitHub](https://github.com/api-evangelist)
 
-- [Portal](https://apievangelist.com)
-- [GitHubOrganization](https://github.com/api-evangelist)
-- [JSONSchema - Consent Record Schema](https://raw.githubusercontent.com/api-evangelist/privacy/refs/heads/main/json-schema/privacy-consent-record-schema.json)
-- [JSONSchema - Data Subject Request Schema](https://raw.githubusercontent.com/api-evangelist/privacy/refs/heads/main/json-schema/privacy-data-subject-request-schema.json)
-- [JSON-LD](https://raw.githubusercontent.com/api-evangelist/privacy/refs/heads/main/json-ld/privacy-context.jsonld)
-- [Vocabulary](https://raw.githubusercontent.com/api-evangelist/privacy/refs/heads/main/vocabulary/privacy-vocabulary.yaml)
+## API Evangelist rating
 
-## Features
+**Unrated** — no public website could be reached for this company, so there was almost nothing to measure and nothing a reader could check.
 
-| Name | Description |
-|------|-------------|
-| Consent Management | Capture, store, and revoke user consent for cookies, data processing, marketing communications, and third-party data sharing across web, mobile, OTT, and server-side surfaces, in line with IAB TCF, GPC, and regional consent regimes. |
-| Data Subject Rights Automation | Intake, identity verification, routing, and fulfillment of data subject access, correction, deletion, portability, and opt-out requests required by GDPR, CCPA/CPRA, LGPD, and similar regulations. |
-| PII Detection and Data Discovery | Machine learning and pattern-based discovery, classification, and labeling of personally identifiable information across structured databases, data lakes, file shares, SaaS apps, and unstructured documents. |
-| Data Inventory and Records of Processing | Maintain Article 30 records of processing activities, data maps, vendor inventories, and data transfer registers that document where personal data lives and how it flows across systems. |
-| Privacy-Preserving Data Vaults | Tokenization, polymorphic encryption, and de-identification services that isolate sensitive personal data behind privacy APIs so applications can operate on tokens or pseudonyms instead of raw PII. |
-| Privacy Notices and Preference Centers | Publish and version externally-facing privacy notices, cookie notices, and end-user preference centers so individuals can review and update how their personal data is used. |
-| Consent and Opt-Out Signals | Honor and propagate machine-readable web signals such as Global Privacy Control (GPC), Do Not Sell or Share, IAB TCF transparency and consent strings, and Authorized Agent opt-outs across downstream systems. |
-| Privacy Compliance Monitoring | Continuous monitoring of cookies, trackers, SDKs, third-party scripts, and data flows to detect privacy regressions, undisclosed processors, and policy violations before they become enforcement events. |
+This is not a score of zero. No rating is published for this company. If that is wrong because something public exists that we missed, say so on this repository or email [info@apievangelist.com](mailto:info@apievangelist.com) and it will be re-run — free, and no justification needed.
 
-## Use Cases
+## How this profile is made
 
-| Name | Description |
-|------|-------------|
-| GDPR and CCPA Cookie Consent | Deploy a consent management platform on web and mobile to capture cookie and tracker consent before loading non-essential tags, with audit-grade records of who consented to what and when. |
-| Data Subject Access Request Fulfillment | Receive a DSAR via a privacy portal, verify identity, fan out search across CRM, marketing, analytics, and data warehouse systems, and return a packaged response within the regulatory deadline. |
-| PII Discovery Across Cloud Storage | Continuously scan S3 buckets, data lakes, and SaaS file shares for unprotected personal data, then automatically classify, label, and route findings to security and privacy teams for remediation. |
-| Vendor and Third-Party Risk Assessment | Track third parties processing personal data, send privacy and security questionnaires, store completed assessments, and surface high-risk processors for review and renegotiation. |
-| Tokenized Customer Data Platform | Replace direct storage of names, emails, phone numbers, and payment data in downstream systems with vault-issued tokens, so analytics and marketing pipelines can run on de-identified data. |
-| Privacy Impact Assessments | Build, review, and version Data Protection Impact Assessments (DPIAs) and Transfer Impact Assessments (TIAs) as part of product launch and data sharing workflows. |
-| Opt-Out Signal Honoring | Detect Global Privacy Control and Do Not Sell or Share signals on inbound web traffic and propagate the resulting opt-out state to ad tech, analytics, and CRM systems within the regulatory window. |
-| AI and LLM Data Loss Prevention | Detect and redact PII, secrets, and regulated data in prompts and responses flowing through AI assistants and LLM applications, with full audit logs for privacy and security review. |
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-## Integrations
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Privacy: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
-| Name | Description |
-|------|-------------|
-| OneTrust | Enterprise privacy, consent, and GRC platform with APIs for privacy management, third-party risk, cookie consent, and certification automation. |
-| Nightfall AI | Cloud-native data leak prevention and PII detection API that scans SaaS apps, data stores, and LLM traffic for sensitive data. |
-| Amazon Macie | AWS service for discovering and classifying sensitive data such as PII and financial data in S3 using machine learning. |
-| LiveRamp | Identity resolution and data collaboration platform with consent, permissioning, and privacy-preserving data sharing APIs. |
-| Matomo | Open source, privacy-friendly web analytics platform that supports cookieless tracking and GDPR-compliant analytics deployments. |
-| Mixpanel | Product analytics platform with privacy controls, consent integration, and APIs for deletion and access requests. |
-| Segment | Customer data platform with consent, privacy, and end-user data deletion APIs integrated across hundreds of destinations. |
-| Snowplow | Open source behavioral data platform with consent context, GDPR-aware event collection, and pseudonymization features. |
-| Google Tag Manager | Tag management system used as the deployment surface for consent mode, server-side tagging, and downstream CMP signals. |
-| GDPR | European Union data protection regulation that sets the global baseline for lawful processing, data subject rights, and cross-border transfers. |
-| CCPA | California Consumer Privacy Act and CPRA expansion that establish opt-out, access, deletion, and sensitive personal information rights for California residents. |
+## Open an issue
 
-## Artifacts
-
-Machine-readable privacy specifications organized by format.
-
-### JSON Schema
-
-- [Consent Record Schema](json-schema/privacy-consent-record-schema.json)
-- [Data Subject Request Schema](json-schema/privacy-data-subject-request-schema.json)
-
-### JSON Structure
-
-- [Consent Record Structure](json-structure/privacy-consent-record-structure.json)
-- [Data Subject Request Structure](json-structure/privacy-data-subject-request-structure.json)
-
-### JSON-LD
-
-- [Privacy Context](json-ld/privacy-context.jsonld)
-
-## Vocabulary
-
-- [Privacy Vocabulary](vocabulary/privacy-vocabulary.yaml) — Unified taxonomy mapping core resources, actions, workflows, and personas across consent management, data subject rights, PII detection, and data inventory programs
-
-## Network
-
-This index references the following privacy and consent management repositories:
-
-- [OneTrust](https://github.com/api-evangelist/onetrust)
-- [Nightfall AI](https://github.com/api-evangelist/nightfall-ai)
-- [Amazon Macie](https://github.com/api-evangelist/amazon-macie)
-- [LiveRamp](https://github.com/api-evangelist/liveramp)
-- [Matomo](https://github.com/api-evangelist/matomo)
-- [Umami](https://github.com/api-evangelist/umami)
-- [Plausible](https://github.com/api-evangelist/plausible)
-- [Swetrix](https://github.com/api-evangelist/swetrix)
-- [Pi-hole](https://github.com/api-evangelist/pi-hole)
-- [Gen Digital](https://github.com/api-evangelist/gen-digital)
-- [Confidential Computing Consortium](https://github.com/api-evangelist/confidential-computing-consortium)
-- [Regulatory Templates](https://github.com/api-evangelist/regulatory-templates)
-- [Mixpanel](https://github.com/api-evangelist/mixpanel)
-- [Snowplow](https://github.com/api-evangelist/snowplow)
-- [Segment](https://github.com/api-evangelist/segment)
-- [Dead Drop](https://github.com/api-evangelist/dead-drop)
-- [Google Tag Manager](https://github.com/api-evangelist/google-tag-manager)
-- [Privacy by Design](https://github.com/api-evangelist/privacy-by-design)
-- [Data Privacy Standards](https://github.com/api-evangelist/data-privacy-standards)
-- [GDPR](https://github.com/api-evangelist/gdpr)
-- [CCPA](https://github.com/api-evangelist/ccpa)
-- [HIPAA](https://github.com/api-evangelist/hipaa)
-- [Customer Database](https://github.com/api-evangelist/customer-database)
-- [Disclosure Requirements](https://github.com/api-evangelist/disclosure-requirements)
-- [VPN](https://github.com/api-evangelist/vpn)
-- [Perf.ai](https://github.com/api-evangelist/perf-ai)
-
-## Maintainers
-
-**FN:** Kin Lane
-
-**Email:** kin@apievangelist.com
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/privacy/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
