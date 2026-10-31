@@ -1,7 +1,7 @@
 ---
-title: GitHub MCP Server for AI-Driven Repository Management
-link: https://vinkius.com/github-mcp-server-for-ai-driven-repository-management/
-published: '2026-07-10'
+title: Programmatic Content Management with Contentful MCP Server
+link: https://vinkius.com/contentful-mcp/
+published: '2026-07-09'
 provider: vinkius-com
 repo: https://github.com/api-evangelist/vinkius-com
 domain: vinkius.com
